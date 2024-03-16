@@ -4,7 +4,7 @@
 
 ## How ##
 
-- Go to the <a href="https://github.com/fishbotapp/fishbotwiki/" target="_blank">Fishbot Wiki Github Page]</a>
+- Go to the <a href="https://github.com/fishbotapp/fishbotwiki/" target="_blank">Fishbot Wiki Github Page</a>
 
 - Since it is a public repo, you can click the edit icon and changes or add pages as you like.
 
