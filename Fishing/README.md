@@ -76,6 +76,23 @@ Note: All named lamps give the original `fishinglamp` bonus alongside their own 
 | ![image](https://fishbot.app/items/profishinglamp.png) | Profishinglamp | | Fishinglamp + 4x Onyx | +1 fishing level, +1% fishing xp |
 | ![lampiata](https://github.com/fishbotapp/fishbotwiki/assets/163616414/516ca189-b6c0-4b88-9e9c-185ba849b636) | Lampiata | 2000x Shell | Fishing Guild Shop | Can use **all** lamps at the same time |
 
+
+
+## Helms 
+
+Aka the `head` gearslot
+| Icon | Name | Store Price | Obtained | Effect |
+| ------ | ------ | ----- | ------- | ---- |
+| ![image](https://fishbot.app/items/fishinglamp.png) | ?????? |  | Barrel (Thieve UDT) |  |
+| ![image](https://fishbot.app/items/shrimperslamp.png) | Rustycap | |Barrel (Thieve UDT)  |   |
+| ![image](https://fishbot.app/items/chovylamp.png) | Southshorecap | |Shore (Thieve UDT)  |    |
+| ![image](https://fishbot.app/items/sleeperslamp.png) | Northshorecap | |Shore (Thieve UDT) |  |
+| ![image](https://fishbot.app/items/troutylamp.png) | Sneakerscap | |Shop (Thieve UDT) | |
+| ![image](https://fishbot.app/items/mulcherslamp.png) | Tickerscap | |Craftbox (Thieve UDT) |  |
+| ![image](https://fishbot.app/items/mulcherslamp.png) | Fishbovahat | | Via !make |  |
+
+
+
 -----------------------------
 
 [Home](https://fishbotapp.github.io/fishbotwiki/)
