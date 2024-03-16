@@ -1,5 +1,18 @@
 # Thieving #
 
+Thieving is the art of targetting a known location, to extract items, coins or fish.
+
+Each time you thieve:
+- You must have a lockpick in your inventory
+- You will need to wait 1 hour to thieve again, but this can be reduced
+- You have a chance of hitting the [Thieving Unique Droptable]
+
+With the right items:
+- You have a chance of 'double thieving', which hits the thieve location twice
+- You have a chance of a 'cooldown reset', which does *not* apply the one hour thieving cooldown
+
+
+# ---- Locations -----
 
 # Barrel
 ![image](https://github.com/fishbotapp/fishbotwiki/assets/163616414/64786303-e9db-4833-bbb5-5ed02216c742)
@@ -31,7 +44,7 @@ Required: Level 27 Thieving and `shorenote`
 
 Required: Level 35 Thieving and `shopnote`
 
-
+# ---- Lockpicks -----
 
 -----------------------------
 
