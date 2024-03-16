@@ -30,7 +30,7 @@ New account:
 | ![image](https://fishbot.app/items/slapperscharm.png) | Slapperscharm| 200k | Shop |  |
 | ![image](https://fishbot.app/items/slappersorb.png) | Slappersorb | 450k |  Shop  |   |
 | ![image](https://fishbot.app/items/slappersrelic.png) | Slappersrelic |   | 1x Orbcore 3x Slapperssorb |    |
-| ![image](https://fishbot.app/items/slappersrequiem.png) | Slappersrequiem | |2x Orbcore 3x Slappersrelic | Shop |    |
+| ![image](https://fishbot.app/items/slappersrequiem.png) | Slappersrequiem | |2x Orbcore 3x Slappersrelic |     |
 
 
 
