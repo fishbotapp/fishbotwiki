@@ -10,7 +10,7 @@ Each time you thieve:
 With the right items:
 - You can dramatically reduce your thieving cooldown
 - You have a chance of 'double thieving', which hits the thieve location twice
-- You have a chance of a 'cooldown reset', which does *not* apply the one hour thieving cooldown
+- You have a chance of a 'cooldown reset', which means you are free to thieve again *immediately*!
 
 
 # ---- Locations -----
