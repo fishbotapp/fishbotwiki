@@ -7,3 +7,10 @@
   # Make Recipes #
 
   
+| Icon | Name | Level Required | Recipe | Makes multiple |
+| ------ | ------ | ----- | ------- | ---- |
+| ![image](https://fishbot.app/items/craftingpotion.png) | Craftingpotion | 1 | Vial + Mulch + Fisheye | |
+| ![image](https://fishbot.app/items/thievingpotion.png) | Thievingpotion | 12 | Vial + Mulch + Rustycoin | |
+| ![image](https://fishbot.app/items/eelrod.png) | Eelrod | 12 | Yewrod + Lockpick | |
+| ![image](https://fishbot.app/items/fishingpotion.png) | Fishingpotion | 26 | Vial + Mulch + Lobsterclaw | |
+
