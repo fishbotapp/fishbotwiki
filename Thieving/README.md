@@ -5,6 +5,6 @@ Lore Ipsum Lore IpsumLore IpsumLore IpsumLore IpsumLore IpsumLore IpsumLore Ipsu
 
 
 -----------------------------
-[Back](/)
 
-[Return Home](/)
+[Home](https://fishbotapp.github.io/fishbotwiki/)
+
