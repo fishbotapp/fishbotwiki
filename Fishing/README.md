@@ -81,6 +81,8 @@ Note: All named lamps give the original `fishinglamp` bonus alongside their own 
 ## Helms 
 
 Aka the `head` gearslot
+
+
 | Icon | Name | Store Price | Obtained | Effect |
 | ------ | ------ | ----- | ------- | ---- |
 | ![haty](https://github.com/fishbotapp/fishbotwiki/assets/163616414/51ac7b86-3f54-4bd3-a7ed-e258d526da13) | ?????? |  | Barrel (Thieve UDT) |  |
