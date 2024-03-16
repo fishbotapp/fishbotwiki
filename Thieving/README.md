@@ -51,11 +51,11 @@ Required: Level 35 Thieving and `shopnote`
 | ------ | ------ | ------- | ---- | ---- |
 | ![image](https://fishbot.app/items/minilockpick.png) | Minilockpick | 16k | Shop | |
 | ![image](https://fishbot.app/items/lockpick.png) | Lockpick | 160k | Shop | |
-| ![image](https://fishbot.app/items/lockpick.png) | Bronzelockpick | 950k | Shop | |
-| ![image](https://fishbot.app/items/lockpick.png) | Silverlockpick |  | Purples / Pirates | |
-| ![image](https://fishbot.app/items/lockpick.png) | Goldlockpick |  | Purples / Pirates | |
-| ![image](https://fishbot.app/items/lockpick.png) | Platinumlockpick |  | Thieving with a `luckyrose` | |
-| ![image](https://fishbot.app/items/lockpick.png) | Enchantedlockpick |  | Goldlockpick + Orbcore | |
+| ![image](https://fishbot.app/items/bronzelockpick.png) | Bronzelockpick | 950k | Shop | |
+| ![image](https://fishbot.app/items/silverlockpick.png) | Silverlockpick |  | Purples / Pirates | |
+| ![image](https://fishbot.app/items/goldlockpick.png) | Goldlockpick |  | Purples / Pirates | |
+| ![image](https://fishbot.app/items/platinumlockpick.png) | Platinumlockpick |  | Thieving with a `luckyrose` | |
+| ![image](https://fishbot.app/items/enchantedlockpick.png) | Enchantedlockpick |  | Goldlockpick + Orbcore | |
 
 
 
