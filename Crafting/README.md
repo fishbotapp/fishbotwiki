@@ -19,7 +19,7 @@ Most (but not all) crafting is done via the [!make command](./Make.md)
 ![image](https://fishbot.app/items/chisel.png) Level 35: `!use uncutruby` to chisel an `uncutruby` into a `ruby`\
 ![image](https://fishbot.app/items/chisel.png) Level 37: `!use uncutamethyst` to chisel an `uncutamethyst` into an `amethyst`\
 ![image](https://fishbot.app/items/chisel.png) Level 39: `!use uncutlapis` to chisel an `uncutlapis` into a `lapis`\
-![image](https://fishbot.app/items/chisel.png) Level 41: `!use uncutonyx` to chisel an `uncutonyx` into an `onyx`\
+![image](https://fishbot.app/items/chisel.png) Level 41: `!use uncutonyx` to chisel an `uncutonyx` into an `onyx`
 
 
 
