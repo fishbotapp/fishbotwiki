@@ -84,7 +84,7 @@ Aka the `head` gearslot
 | Icon | Name | Store Price | Obtained | Effect |
 | ------ | ------ | ----- | ------- | ---- |
 | ![haty](https://github.com/fishbotapp/fishbotwiki/assets/163616414/1649ed75-5bdc-4f7d-8e5e-59954259417d) | ?????? |  | Barrel (Thieve UDT) |  |
-| ![image](https://fishbot.app/items/rustycap.png) | Rustycap | |Barrel (Thieve UDT)  |   |
+| ![image](https://fishbot.app/items/rustycap.png) | Rustycap | |Under Barrel (Thieve UDT)  |   |
 | ![image](https://fishbot.app/items/southshorecap.png) | Southshorecap | |Shore (Thieve UDT)  |    |
 | ![image](https://fishbot.app/items/northshorecap.png) | Northshorecap | |Shore (Thieve UDT) |  |
 | ![image](https://fishbot.app/items/sneakerscap.png) | Sneakerscap | |Shop (Thieve UDT) | |
