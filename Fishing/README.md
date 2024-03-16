@@ -83,13 +83,13 @@ Note: All named lamps give the original `fishinglamp` bonus alongside their own 
 Aka the `head` gearslot
 | Icon | Name | Store Price | Obtained | Effect |
 | ------ | ------ | ----- | ------- | ---- |
-| ![image](https://fishbot.app/items/fishinglamp.png) | ?????? |  | Barrel (Thieve UDT) |  |
-| ![image](https://fishbot.app/items/shrimperslamp.png) | Rustycap | |Barrel (Thieve UDT)  |   |
-| ![image](https://fishbot.app/items/chovylamp.png) | Southshorecap | |Shore (Thieve UDT)  |    |
-| ![image](https://fishbot.app/items/sleeperslamp.png) | Northshorecap | |Shore (Thieve UDT) |  |
-| ![image](https://fishbot.app/items/troutylamp.png) | Sneakerscap | |Shop (Thieve UDT) | |
-| ![image](https://fishbot.app/items/mulcherslamp.png) | Tickerscap | |Craftbox (Thieve UDT) |  |
-| ![image](https://fishbot.app/items/mulcherslamp.png) | Fishbovahat | | Via !make |  |
+| ![haty](https://github.com/fishbotapp/fishbotwiki/assets/163616414/1649ed75-5bdc-4f7d-8e5e-59954259417d) | ?????? |  | Barrel (Thieve UDT) |  |
+| ![image](https://fishbot.app/items/rustycap.png) | Rustycap | |Barrel (Thieve UDT)  |   |
+| ![image](https://fishbot.app/items/southshorecap.png) | Southshorecap | |Shore (Thieve UDT)  |    |
+| ![image](https://fishbot.app/items/borthshorecap.png) | Northshorecap | |Shore (Thieve UDT) |  |
+| ![image](https://fishbot.app/items/sneakerscap.png) | Sneakerscap | |Shop (Thieve UDT) | |
+| ![image](https://fishbot.app/items/tickerscap.png) | Tickerscap | |Craftbox (Thieve UDT) |  |
+| ![image](https://fishbot.app/items/fishbovahat.png) | Fishbovahat | | Via !make |  |
 
 
 
