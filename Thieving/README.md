@@ -2,7 +2,8 @@
 
 
 # Barrel
-![image](https://github.com/fishbotapp/fishbotwiki/assets/163616414/93ef91ae-1d86-4b45-919d-7e9042a99e01)
+![image](https://github.com/fishbotapp/fishbotwiki/assets/163616414/64786303-e9db-4833-bbb5-5ed02216c742)
+
 
 
 
