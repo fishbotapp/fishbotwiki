@@ -19,6 +19,15 @@ New account:
 
 # Gambling Items #
 
+| Icon | Name | Store Price | Obtained | Effect |
+| ------ | ------ | ----- | ------- | ---- |
+| ![image](https://fishbot.app/items/gamblerscharm.png) | Gamblersmarble | 70k | Shop |  |
+| ![image](https://fishbot.app/items/gamblerscharm.png) | Gamblerscharm | 200k | Shop |  |
+| ![image](https://fishbot.app/items/gamblerscharm.png) | Gamblersorb | 450k | Shop |    |
+| ![image](https://fishbot.app/items/slappersmarble.png) | Slappersmarble | 70k | Shop |  |
+| ![image](https://fishbot.app/items/slapperscharm.png) | Slapperscharm | 200k | Shop |  |
+| ![image](https://fishbot.app/items/gamblerscharm.png) | Slappersorb | 450k | Shop |   |
+
 
 
 -----------------------------
