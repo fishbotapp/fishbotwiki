@@ -74,6 +74,7 @@ Note: All named lamps give the original `fishinglamp` bonus alongside their own 
 | ![image](https://fishbot.app/items/troutylamp.png) | Troutylamp | |Fishinglamp + 4x Amethyst | | |
 | ![image](https://fishbot.app/items/mulcherslamp.png) | Mulcherslamp | |Fishinglamp + 4x Lapis |  |
 | ![image](https://fishbot.app/items/profishinglamp.png) | Profishinglamp | | Fishinglamp + 4x Onyx | +1 fishing level, +1% fishing xp |
+| ![lampiata](https://github.com/fishbotapp/fishbotwiki/assets/163616414/516ca189-b6c0-4b88-9e9c-185ba849b636) | Lampiata | 2000x Shell | Fishing Guild Shop | Can use **all** lamps at the same time |
 
 -----------------------------
 
