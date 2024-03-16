@@ -5,7 +5,7 @@ Thieving is the art of targetting a known location, to extract items, coins or f
 Each time you thieve:
 - You must have a lockpick in your inventory
 - You will need to wait 1 hour to thieve again, but this can be reduced
-- You have a chance of hitting the [Thieving Unique Droptable]
+- You have a chance of hitting the [Thieving Unique Droptable](./UDT.md)
 
 With the right items:
 - You have a chance of 'double thieving', which hits the thieve location twice
