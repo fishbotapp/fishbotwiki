@@ -44,6 +44,20 @@ Note: Information here is based on community observation and may be innacurate. 
 | ![BPRNAEBQ](https://github.com/fishbotapp/fishbotwiki/assets/163616414/2ab090f6-b1e0-4bf2-a489-483f5b2bc766) | Oceanrod | 250m | Shop | +1 fishing level, cannot catch lobster, shrimp or anchovy |
 
 
+# Gear 
+
+## Rod enhancements
+
+Note: Grips do not stack with other grips, Reels do not stack with other reels.
+
+| Icon | Name | Store Price | Obtained | Effect |
+| ------ | ------ | ----- | ------- | ---- |
+| ![image](https://fishbot.app/items/goodgrip.png) | Goodgrip | 3m | Shop | +1 Rod Power |
+| ![image](https://fishbot.app/items/greatgrip.png) | Greatgrip | 8m | Shop | +2 Rod Power  |
+| ![image](https://fishbot.app/items/supremegrip.png) | Supremegrip | 350x shell | Fishing Guild Shop |  +3 Rod Power  |
+| ![image](https://fishbot.app/items/goodreel.png) | Goodreel | 3m| Shop |  +1 Rod Speed |
+| ![image](https://fishbot.app/items/greatreel.png) | Greatreel | 8m | Shop | +2 Rod Speed  |
+| ![image](https://fishbot.app/items/supremereel.png) | Supremereel | 350x shell | Fishing Guild Shop |  +3 Rod Speed |
 
 -----------------------------
 
