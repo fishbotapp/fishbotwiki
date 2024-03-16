@@ -4,6 +4,6 @@ Bla Bla Bla
 
 
 -----------------------------
-[Back](../)
+[Back](/)
 
 [Return Home](/)
