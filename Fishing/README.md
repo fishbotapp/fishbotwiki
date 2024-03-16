@@ -69,10 +69,10 @@ Note: All named lamps give the original `fishinglamp` bonus alongside their own 
 | ------ | ------ | ----- | ------- | ---- |
 | ![image](https://fishbot.app/items/fishinglamp.png) | Fishinglamp | 400k | Shop | After payday 50: +1% fish gained, +1% fishing xp  |
 | ![image](https://fishbot.app/items/shrimperslamp.png) | Shrimperslamp | |Fishinglamp + 4x Sapphire  |   |
-| ![image](https://fishbot.app/items/choverslamp.png) | Choverslamp | |Fishinglamp + 4x Amethyst  |    |
+| ![image](https://fishbot.app/items/chovylamp.png) | Chovylamp | |Fishinglamp + 4x Lapis  |    |
 | ![image](https://fishbot.app/items/mulcherslamp.png) | Mulcherslamp | |Fishinglamp + 4x Emerald |  |
 | ![image](https://fishbot.app/items/sleeperslamp.png) | Sleeperslamp | |Fishinglamp + 4x Ruby |  |
-| ![image](https://fishbot.app/items/troutylamp.png) | Troutylamp | |Fishinglamp + 4x Lapis | | |
+| ![image](https://fishbot.app/items/troutylamp.png) | Troutylamp | |Fishinglamp + 4x Amethyst | | |
 | ![image](https://fishbot.app/items/profishinglamp.png) | Profishinglamp | | Fishinglamp + 4x Onyx | +1 fishing level, +1% fishing xp |
 
 -----------------------------
