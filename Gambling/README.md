@@ -5,6 +5,6 @@ Just dont do it kids
 
 
 -----------------------------
-[Back](/)
 
-[Return Home](/)
+[Home](https://fishbotapp.github.io/fishbotwiki/)
+
