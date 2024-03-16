@@ -12,6 +12,6 @@
 | ![image](https://fishbot.app/items/craftingpotion.png) | Craftingpotion | 7 | ![image](https://fishbot.app/items/vial.png) ![image](https://fishbot.app/items/mulch.png)  ![image](https://fishbot.app/items/fisheye.png)  | |
 | ![image](https://fishbot.app/items/eelrod.png) | Eelrod | 12 | ![image](https://fishbot.app/items/yewrod.png) ![image](https://fishbot.app/items/lockpick.png)  | |
 | ![image](https://fishbot.app/items/thievingpotion.png) | Thievingpotion | 19 | ![image](https://fishbot.app/items/vial.png)  ![image](https://fishbot.app/items/mulch.png)  ![image](https://fishbot.app/items/rustycoin.png)  | |
-| ![image](https://fishbot.app/items/saltcatcherrod.png) | Saltcatcherrod | 30 | ![image](https://fishbot.app/items/maplerod.png)  ![image](https://fishbot.app/items/glasstrinker.png)   | |
+| ![image](https://fishbot.app/items/saltcatcherrod.png) | Saltcatcherrod | 30 | ![image](https://fishbot.app/items/maplerod.png)  ![image](https://fishbot.app/items/glasstrinket.png)   | |
 | ![image](https://fishbot.app/items/fishingpotion.png) | Fishingpotion | 32 | ![image](https://fishbot.app/items/vial.png)  ![image](https://fishbot.app/items/mulch.png)   ![image](https://fishbot.app/items/lobsterclaw.png)  | |
 
