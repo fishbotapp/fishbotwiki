@@ -15,7 +15,6 @@ New account:
 
 - Gamble: 25000
 - Slots: 250
-- Slots2: 250
   
 
 # Gambling Items #
