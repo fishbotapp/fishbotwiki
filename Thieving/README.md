@@ -46,6 +46,19 @@ Required: Level 35 Thieving and `shopnote`
 
 # ---- Lockpicks -----
 
+
+| Icon | Name | Price | Where |Effect |
+| ------ | ------ | ------- | ---- | ---- |
+| ![image](https://fishbot.app/items/minilockpick.png) | Minilockpick | 16k | Shop | |
+| ![image](https://fishbot.app/items/lockpick.png) | Lockpick | 160k | Shop | |
+| ![image](https://fishbot.app/items/lockpick.png) | Bronzelockpick | 950k | Shop | |
+| ![image](https://fishbot.app/items/lockpick.png) | Silverlockpick |  | Purples / Pirates | |
+| ![image](https://fishbot.app/items/lockpick.png) | Goldlockpick |  | Purples / Pirates | |
+| ![image](https://fishbot.app/items/lockpick.png) | Platinumlockpick |  | Thieving with a `luckyrose` | |
+| ![image](https://fishbot.app/items/lockpick.png) | Enchantedlockpick |  | Goldlockpick + Orbcore | |
+
+
+
 -----------------------------
 
 [Home](https://fishbotapp.github.io/fishbotwiki/)
