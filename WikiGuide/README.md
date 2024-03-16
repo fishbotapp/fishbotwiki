@@ -8,8 +8,7 @@
 
 - Since it is a public repo, you can click the edit icon and changes or add pages as you like.
 
-![image](https://github.com/fishbotapp/fishbotwiki/assets/163616414/851e1b9e-b553-4691-bf9c-78a35c22023d)
-
+![image](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c0fbd9e2-0015-49f6-85f9-7b3a5dece388)
 
 - When done with your changes remember to 'commit to main'
 
