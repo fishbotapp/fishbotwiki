@@ -8,6 +8,7 @@ Ipsum Lore Ipsum Lore Ipsum Lore Ipsum Lore Ipsum Lore Ipsum Lore Ipsum
 
 
 -----------------------------
-[Back](/)
+[Back](../)
 
-[Return Home](/)
+[Home](https://fishbotapp.github.io/fishbotwiki/)
+
