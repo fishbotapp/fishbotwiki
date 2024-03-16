@@ -10,7 +10,7 @@ Note: Information here is based on community observation and may be innacurate. 
 
 ![image](https://github.com/fishbotapp/fishbotwiki/assets/163616414/8de59538-021d-468e-a508-c94074473a6f)
 
-**Shrimp**
+**Shrimp**\
 Level 1
 
 
@@ -19,7 +19,7 @@ Level 1
 
 
 
-**Babyeel**
+**Babyeel**\
 Level 1
 *Requirea: an eel rod*
 
@@ -29,7 +29,7 @@ Level 1
 
 
 
-**Anchovy**
+**Anchovy**\
 Level 3
 
 
@@ -38,13 +38,13 @@ Level 3
 
 
 
-**Trout**
+**Trout**\
 Level 10
 
 
 ![image](https://fishbot.app/items/lobster.png)
 
-**Lobster**
+**Lobster**\
 Level 15
 *Requires: mulching the waters*
 
@@ -55,7 +55,7 @@ Level 15
 
 
 
-**Pike**
+**Pike**\
 Level 20
 
 
@@ -63,14 +63,14 @@ Level 20
 
 ![image](https://fishbot.app/items/swordfish.png) 
 
-**Swordfish**
+**Swordfish**\
 Level 30
 
 
 
 ![image](https://fishbot.app/items/catfish.png) 
 
-**Catfish**
+**Catfish**\
 Level 40
 
 
@@ -78,13 +78,13 @@ Level 40
 ![image](https://fishbot.app/items/angler.png)
 
 
-**Angler**
+**Angler**\
 Level 50 
 
 
 ![image](https://fishbot.app/items/eel.png) 
 
-**Eel**
+**Eel**\
 Level 58
 *Requires: and eel rod*
 
