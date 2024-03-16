@@ -39,9 +39,9 @@ Note: Information here is based on community observation and may be innacurate. 
 | ![image](https://fishbot.app/items/ancientrod.png) | Ancientrod | 20m | Shop | |
 | ![image](https://fishbot.app/items/galacticrod.png) | Galacticrod | 40m | Shop | |
 | ![image](https://fishbot.app/items/primalrod.png) | Primalrod | 100m | Shop | |
-| ![image](https://fishbot.app/items/progalacticrod.png) | Progalacticrod | 200m | Shop | +25% Fishing Xp | 
+| ![TNYNPGVPEBQ](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c072d907-c2d9-4af5-bb0b-b7d89f056b84)| Progalacticrod | 200m | Shop | +25% Fishing Xp | 
 | ![image](https://fishbot.app/items/primordialrod.png) | Primordialrod | 250m | Shop | |
-| ![image](https://fishbot.app/items/oceanrod.png) | Oceanrod | 250m | Shop | +1 fishing level, cannot catch lobster, shrimp or anchovy |
+| ![BPRNAEBQ](https://github.com/fishbotapp/fishbotwiki/assets/163616414/2ab090f6-b1e0-4bf2-a489-483f5b2bc766) | Oceanrod | 250m | Shop | +1 fishing level, cannot catch lobster, shrimp or anchovy |
 
 
 
