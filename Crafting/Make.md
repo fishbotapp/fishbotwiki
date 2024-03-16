@@ -15,6 +15,9 @@
 | ![image](https://fishbot.app/items/fishbovaboots.png) | Fishbovaboots | 21 | <sup>5x</sup> ![image](https://fishbot.app/items/bova.png)  ![image](https://fishbot.app/items/fishberry.png)  | |
 | ![image](https://fishbot.app/items/thievebovaboots.png) | Thievebovaboots | 21 |<sup>5x</sup> ![image](https://fishbot.app/items/bova.png)  ![image](https://fishbot.app/items/thieveberry.png)  | |
 | ![image](https://fishbot.app/items/craftbovaboots.png) | Craftbovaboots | 21 | <sup>5x</sup> ![image](https://fishbot.app/items/bova.png)  ![image](https://fishbot.app/items/craftberry.png)  | |
+| ![image](https://fishbot.app/items/fishbovagloves.png) | Fishbovagloves | 27 | <sup>7x</sup> ![image](https://fishbot.app/items/bova.png)  ![image](https://fishbot.app/items/fishberry.png)  | |
+| ![image](https://fishbot.app/items/thievebovagloves.png) | Thievebovagloves | 27 |<sup>7x</sup> ![image](https://fishbot.app/items/bova.png)  ![image](https://fishbot.app/items/thieveberry.png)  | |
+| ![image](https://fishbot.app/items/craftbovagloves.png) | Craftbovagloves | 27 | <sup>7x</sup> ![image]
 | ![image](https://fishbot.app/items/saltcatcherrod.png) | Saltcatcherrod | 30 | ![image](https://fishbot.app/items/maplerod.png)  ![image](https://fishbot.app/items/glasstrinket.png)   | |
 | ![image](https://fishbot.app/items/fishingpotion.png) | Fishingpotion | 32 | ![image](https://fishbot.app/items/vial.png)  ![image](https://fishbot.app/items/mulch.png)   ![image](https://fishbot.app/items/lobsterclaw.png)  | |
 
