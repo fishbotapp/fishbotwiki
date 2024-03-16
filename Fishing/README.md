@@ -68,12 +68,12 @@ Note: All named lamps give the original `fishinglamp` bonus alongside their own 
 | Icon | Name | Store Price | Obtained | Effect |
 | ------ | ------ | ----- | ------- | ---- |
 | ![image](https://fishbot.app/items/fishinglamp.png) | Fishinglamp | 400k | Shop | After payday 50: +1% fish gained, +1% fishing xp  |
-| ![image](https://fishbot.app/items/shrimperslamp.png) | Shrimperslamp | |Fishinglamp + 4x Sapphire + 12x crushedvial |   |
-| ![image](https://fishbot.app/items/chovylamp.png) | Chovylamp | |Fishinglamp + 4x Emerald  + 12x crushedvial |    |
-| ![image](https://fishbot.app/items/sleeperslamp.png) | Sleeperslamp | |Fishinglamp + 4x Ruby  + 12x crushedvial|  |
-| ![image](https://fishbot.app/items/troutylamp.png) | Troutylamp | |Fishinglamp + 4x Amethyst  + 12x crushedvial| |
-| ![image](https://fishbot.app/items/mulcherslamp.png) | Mulcherslamp | |Fishinglamp + 4x Lapis + 12x crushedvial |  |
-| ![image](https://fishbot.app/items/profishinglamp.png) | Profishinglamp | | Fishinglamp + 4x Onyx + 12x crushedvial | +1 fishing level, +1% fishing xp |
+| ![image](https://fishbot.app/items/shrimperslamp.png) | Shrimperslamp | |![image](https://fishbot.app/items/fishinglamp.png) 4x ![image](https://fishbot.app/items/sapphire.png) + 12x ![image](https://fishbot.app/items/crushedvial.png) |   |
+| ![image](https://fishbot.app/items/chovylamp.png) | Chovylamp | |![image](https://fishbot.app/items/fishinglamp.png) 4x ![image](https://fishbot.app/items/emerald.png) + 12x ![image](https://fishbot.app/items/crushedvial.png)  |    |
+| ![image](https://fishbot.app/items/sleeperslamp.png) | Sleeperslamp | |![image](https://fishbot.app/items/fishinglamp.png) 4x ![image](https://fishbot.app/items/ruby.png) + 12x ![image](https://fishbot.app/items/crushedvial.png) |  |
+| ![image](https://fishbot.app/items/troutylamp.png) | Troutylamp | |![image](https://fishbot.app/items/fishinglamp.png) 4x ![image](https://fishbot.app/items/amethyst.png) + 12x ![image](https://fishbot.app/items/crushedvial.png) | |
+| ![image](https://fishbot.app/items/mulcherslamp.png) | Mulcherslamp | |![image](https://fishbot.app/items/fishinglamp.png) 4x ![image](https://fishbot.app/items/lapis.png) + 12x ![image](https://fishbot.app/items/crushedvial.png)  |  |
+| ![image](https://fishbot.app/items/profishinglamp.png) | Profishinglamp | | ![image](https://fishbot.app/items/fishinglamp.png) 4x ![image](https://fishbot.app/items/onyx.png) + 12x ![image](https://fishbot.app/items/crushedvial.png)  | +1 fishing level, +1% fishing xp |
 | ![lampiata](https://github.com/fishbotapp/fishbotwiki/assets/163616414/516ca189-b6c0-4b88-9e9c-185ba849b636) | Lampiata | 2000x Shell | Fishing Guild Shop | Can use **all** lamps at the same time |
 
 
