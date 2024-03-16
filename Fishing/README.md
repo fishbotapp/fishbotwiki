@@ -1,6 +1,5 @@
-![image](https://github.com/fishbotapp/fishbotwiki/assets/163616414/42361705-6b97-4b10-b836-c7383b95167f) ![image](https://github.com/fishbotapp/fishbotwiki/assets/163616414/42361705-6b97-4b10-b836-c7383b95167f)  ![image](https://github.com/fishbotapp/fishbotwiki/assets/163616414/42361705-6b97-4b10-b836-c7383b95167f) 
+![image](https://github.com/fishbotapp/fishbotwiki/assets/163616414/42361705-6b97-4b10-b836-c7383b95167f)
 ## Fishing ## 
-![image](https://github.com/fishbotapp/fishbotwiki/assets/163616414/42361705-6b97-4b10-b836-c7383b95167f)  ![image](https://github.com/fishbotapp/fishbotwiki/assets/163616414/42361705-6b97-4b10-b836-c7383b95167f)  ![image](https://github.com/fishbotapp/fishbotwiki/assets/163616414/42361705-6b97-4b10-b836-c7383b95167f) 
 
 
 Note: Information here is based on community observation and may be innacurate. If you have more accurate data, please add it!
