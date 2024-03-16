@@ -24,5 +24,6 @@ Each location holds a pool of items avaliable to receive from hitting their UDT.
 | ![image](https://fishbot.app/items/pikesummoner.png) | Pikesummoner | Shore |  |
 | ![image](https://fishbot.app/items/gwillet.png) | Gwillet | Shop |  |
 | ![image](https://fishbot.app/items/glode.png) | Glode | Craftbox |  |
+| ![image](https://fishbot.app/items/glowpeach.png) | Glowpeach | Craftbox |  |
 
 
