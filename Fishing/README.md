@@ -22,9 +22,9 @@ Level 1
 | ![image](https://fishbot.app/items/lobster.png) | Lobster | 15 | Mulching the waters |
 | ![image](https://fishbot.app/items/pike.png) | Pike | 20 | |
 | ![image](https://fishbot.app/items/swordfish.png) | Swordfish | 30 | |
-| ![image](https://fishbot.app/items/swordfish.png) | Catfish | 40 | |
-| ![image](https://fishbot.app/items/swordfish.png) | Angler | 30 | |
-| ![image](https://fishbot.app/items/swordfish.png) | Eel | 58 | An eel rod |
+| ![image](https://fishbot.app/items/catfish.png) | Catfish | 40 | |
+| ![image](https://fishbot.app/items/angler.png) | Angler | 30 | |
+| ![image](https://fishbot.app/items/eel.png) | Eel | 58 | An eel rod |
 
 
 
