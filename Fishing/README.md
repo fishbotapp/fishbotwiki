@@ -33,7 +33,7 @@ Note: Information here is based on community observation and may be innacurate. 
 | ![image](https://fishbot.app/items/eelrod.png) | Eelrod | | Yewrod + Lockpick | Allows you to fish babyeel and eel |
 | ![image](https://fishbot.app/items/magicrod.png) | Magicrod | 800k | Shop | |
 | ![image](https://fishbot.app/items/enchantedrod.png) | Enchantedrod | 2m | Shop | |
-| ![image](https://fishbot.app/items/premiumeelrod.png) | Enchantedrod |  | Enchantedrod + Silverlockpick |Allows you to fish babyeel and eel, +10% babyeel caught, +10% eel caught | 
+| ![image](https://fishbot.app/items/premiumeelrod.png) | Premiumeelrod |  | Enchantedrod + Silverlockpick |Allows you to fish babyeel and eel, +10% babyeel caught, +10% eel caught | 
 | ![image](https://fishbot.app/items/abyssalrod.png) | Abyssalrod | 4.5m | Shop | |
 | ![image](https://fishbot.app/items/mysticrod.png) | Mysticrod | 7m | Shop | |
 | ![image](https://fishbot.app/items/ancientrod.png) | Ancientrod | 20m | Shop | |
