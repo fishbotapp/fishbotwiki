@@ -5,6 +5,6 @@ bla bla bla goblin bova u name it
 
 
 -----------------------------
-[Back](../)
 
-[Return Home](/)
+[Home](https://fishbotapp.github.io/fishbotwiki/)
+
