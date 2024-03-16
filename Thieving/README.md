@@ -49,13 +49,13 @@ Required: Level 35 Thieving and `shopnote`
 
 | Icon | Name | Price | Where |Effect |
 | ------ | ------ | ------- | ---- | ---- |
-| ![image](https://fishbot.app/items/minilockpick.png) | Minilockpick | 16k | Shop | |
+| ![image](https://fishbot.app/items/minilockpick.png) | Minilockpick | 16k | Shop | 1 in 10 chance to break |
 | ![image](https://fishbot.app/items/lockpick.png) | Lockpick | 160k | Shop | |
-| ![image](https://fishbot.app/items/bronzelockpick.png) | Bronzelockpick | 950k | Shop | |
-| ![image](https://fishbot.app/items/silverlockpick.png) | Silverlockpick |  | Purples / Pirates | |
-| ![image](https://fishbot.app/items/goldlockpick.png) | Goldlockpick |  | Purples / Pirates | |
-| ![image](https://fishbot.app/items/platinumlockpick.png) | Platinumlockpick |  | Thieving with a `luckyrose` | |
-| ![image](https://fishbot.app/items/enchantedlockpick.png) | Enchantedlockpick |  | Goldlockpick + Orbcore | |
+| ![image](https://fishbot.app/items/bronzelockpick.png) | Bronzelockpick | 950k | Shop | +8% chance of double thieve |
+| ![image](https://fishbot.app/items/silverlockpick.png) | Silverlockpick |  | Purples / Pirates | +18% chance of double thieve |
+| ![image](https://fishbot.app/items/goldlockpick.png) | Goldlockpick |  | Purples / Pirates | +28% chance of double thieve |
+| ![image](https://fishbot.app/items/platinumlockpick.png) | Platinumlockpick |  | Thieving with a `luckyrose` in your inventory | +40% chance of double thieve |
+| ![image](https://fishbot.app/items/enchantedlockpick.png) | Enchantedlockpick |  | Goldlockpick + Orbcore | +150% thieve xp but cannot gain items |
 
 
 
