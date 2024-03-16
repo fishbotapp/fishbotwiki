@@ -20,3 +20,8 @@
 - If you copy an image from somewhere you can paste it into the github editor and it will auto upload and embed
 
 - Be respectful and responsible!
+
+
+-----------------------------
+
+[Home](https://fishbotapp.github.io/fishbotwiki/)
