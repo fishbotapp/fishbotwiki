@@ -62,7 +62,7 @@ Note: Grips do not stack with other grips, Reels do not stack with other reels.
 
 ## Lamps
 
-Note: Lamps do not stack with eachother, only one can be in effect at once.
+Note: Lamps do not stack with eachother, only one can be in effect at once.\
 Note: All named lamps give the original `fishinglamp` bonus alongside their own special bonus.
 
 | Icon | Name | Store Price | Obtained | Effect |
