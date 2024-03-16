@@ -4,6 +4,6 @@ Bla Bla Bla
 
 
 -----------------------------
-[Back](/)
+[Back](https://fishbotapp.github.io/fishbotwiki/)
 
-[Return Home](/)
+[Home](https://fishbotapp.github.io/fishbotwiki/)
