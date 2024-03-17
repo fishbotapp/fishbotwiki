@@ -97,7 +97,7 @@ Aka the `head` gearslot
 | ![image](https://fishbot.app/items/fishbovahat.png) | Fishbovahat | | Via !make |  |
 
 
-# Rustycap
+### Rustycap
 ![image](https://fishbot.app/items/rustycap.png) 
 
 Known dropped items: `rustycoin`, `eelhide`
