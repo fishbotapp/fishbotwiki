@@ -7,6 +7,34 @@ Note: Information here is based on community observation and may be innacurate. 
 Related:
   - [Fishmarkets](./Fishmarkets/Fishmarkets.md)
 
+
+# How?
+
+To fish, type `!fish`
+
+To be more specific on your desired length of fishing, you can declare a length
+
+example: '!fish xl`
+
+all lengths: `xs`,`s`,`m`,`l`,`xl`,`xxl`
+
+# Fishing Lengths
+
+A new player can:
+  - s
+  - m
+  - l
+
+
+| Icon | Name | Obtained  | Price | Effect |
+| ------ | ------ | ----- | ------- |---|
+| ![image](https://fishbot.app/items/fishingbag.png) | Fishingbag | Shop or `!make` | 40k | Unlocks `!fish xl` |
+| ![image](https://fishbot.app/items/macrokit.png) | Macrokit | Shop | 160k |  Unlocks `!fish xxl` |
+| ![image](https://fishbot.app/items/microkit.png)  | Microkit | Shop | 160k| Unlocks `!fish xs` |
+| ![image](https://fishbot.app/items/wildkit.png) | Wildkit | Pirates / Mysteryprize / `!make` | | Unlocks `!fish w` which randomly selects a trip length but gives +1 rod power +1 rod speed and +1 fishing level|
+| ![image](https://fishbot.app/items/safekit.png) | Safekit | 15 | Pirates / Mysteryprize | Unlocks `!fish sxxl` which does an xxl but will not extend your fishing trip past a reset |
+
+
 # Fish
 
 | Icon | Name | Level  | Requirements |
