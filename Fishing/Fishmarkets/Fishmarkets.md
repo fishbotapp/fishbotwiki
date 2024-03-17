@@ -1,6 +1,7 @@
 # Fishmarkets
 
-![fishmarket](https://github.com/fishbotapp/fishbotwiki/assets/163616414/664d95fe-2b19-4666-aa5f-46c15a160134)
+![New Project](https://github.com/fishbotapp/fishbotwiki/assets/163616414/1d58d5cf-f976-49a4-98d2-663a7b4c41a2)
+
 
 20% of all fish sold by players will end up in the `fishmarkets` and will be avaliable for purchase by players.
 
