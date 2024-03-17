@@ -99,6 +99,7 @@ Aka the `head` gearslot
 
 # Rustycap
 ![image](https://fishbot.app/items/rustycap.png) 
+
 Known dropped items: `rustycoin`, `eelhide`
 
 -----------------------------
