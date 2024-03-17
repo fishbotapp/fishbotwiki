@@ -100,7 +100,11 @@ Aka the `head` gearslot
 ### Rustycap
 ![image](https://fishbot.app/items/rustycap.png) 
 
-Known dropped items: `rustycoin`, `eelhide`
+It triggers on fishing trips, the longer the trip the more likely.
+
+Items we have seen so far received by rustycoin trigger:
+
+`rustycoin`, `eelhide`
 
 -----------------------------
 
