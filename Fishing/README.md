@@ -32,7 +32,7 @@ A new player can:
 | ![image](https://fishbot.app/items/macrokit.png) | Macrokit | Shop | 160k |  Unlocks `!fish xxl` |
 | ![image](https://fishbot.app/items/microkit.png)  | Microkit | Shop | 160k| Unlocks `!fish xs` |
 | ![image](https://fishbot.app/items/wildkit.png) | Wildkit | Pirates / Mysteryprize / `!make` | | Unlocks `!fish w` which randomly selects a trip length but gives +1 rod power +1 rod speed and +1 fishing level|
-| ![image](https://fishbot.app/items/safekit.png) | Safekit | 15 | Pirates / Mysteryprize | Unlocks `!fish sxxl` which does an xxl but will not extend your fishing trip past a reset |
+| ![image](https://fishbot.app/items/safekit.png) | Safekit  | Pirates / Mysteryprize | | Unlocks `!fish sxxl` which does an xxl but will not extend your fishing trip past a reset |
 
 
 # Fish
