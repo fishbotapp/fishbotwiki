@@ -4,6 +4,9 @@
 
 Note: Information here is based on community observation and may be innacurate. If you have more accurate data, please add it!
 
+Related:
+  - [Fishmarkets](./Fishmarkets/Fishmarkets.md)
+
 # Fish
 
 | Icon | Name | Level  | Requirements |
