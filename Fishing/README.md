@@ -47,7 +47,7 @@ A new player can:
 | ![image](https://fishbot.app/items/pike.png) | Pike | 20 | |
 | ![image](https://fishbot.app/items/swordfish.png) | Swordfish | 30 | |
 | ![image](https://fishbot.app/items/catfish.png) | Catfish | 40 | |
-| ![image](https://fishbot.app/items/angler.png) | Angler | 30 | |
+| ![image](https://fishbot.app/items/angler.png) | Angler | 50 | |
 | ![image](https://fishbot.app/items/eel.png) | Eel | 58 | An eel rod |
 
 
