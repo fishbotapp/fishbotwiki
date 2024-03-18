@@ -25,7 +25,7 @@ The higher your thieve level:
 ## Barrel
 ![image](https://github.com/fishbotapp/fishbotwiki/assets/163616414/64786303-e9db-4833-bbb5-5ed02216c742)
 
-Required: Level 1 Thieving
+**Required**: Level 1 Thieving
 
 Your starting location as a thiever.
 
@@ -86,7 +86,7 @@ Known item drops:
 ## Craftbox
 ![image](https://github.com/fishbotapp/fishbotwiki/assets/163616414/39092efa-19ec-4e1a-922f-54376c798882)
 
-Required: Level 35 Thieving and `shopnote`
+**Required**: Level 35 Thieving and `shopnote`
 
 # ---- Lockpicks -----
 
