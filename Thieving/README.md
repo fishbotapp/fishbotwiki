@@ -6,12 +6,19 @@ Each time you thieve:
 - You must have a lockpick in your inventory
 - You will need to wait 1 hour to thieve again, this is called thieving cooldown
 - You have a chance of hitting the [Thieving Unique Droptable](./UDT.md)
+- You have a chance of finding an uncut gem
 
 With the right items:
 - You can dramatically reduce your thieving cooldown
 - You have a chance of 'double thieving', which hits the thieve location twice
 - You have a chance of a 'cooldown reset', which means you are free to thieve again *immediately*!
 
+The higher your thieve level:
+- The faster you complete the thieve trip
+- Findable items become better and more valuable
+- Number of fish found increase in quantity and type
+- The more chance you have of hitting the [Thieving Unique Droptable](./UDT.md)
+- The more chance you have of finding a note, this grants you access to a new thieving location
 
 # ---- Locations -----
 
@@ -20,6 +27,18 @@ With the right items:
 
 Required: Level 1 Thieving
 
+Your starting location as a thiever.
+
+ - **Always** you will get some low tier fish (`shrimp`,`anchovy`,`trout`)
+ - **Commonly** you will find a small amount of gold
+ - **Sometimes** you will find an item
+
+Items found here are various low level, low price craftables, some low tier tods, crafting supplies. You will see a lot of `vial`, `fisheye` and `mulch`
+
+Known item drops:
+  - `vial`,`mulch`,`fisheye` (common)
+  - `barrelnote` and `otherbarrelnote`
+  - `straw` (rare)
 
 
 ## Under Barrel
@@ -27,11 +46,34 @@ Required: Level 1 Thieving
 
 Required: Level 12 Thieving and `otherbarrelnote`
 
+A potential side area you may explore. It is well known for its highly common drop of `rustycoin`... a very commonly needed crafting item for thieving recipes.
+
+ - **Sometimes** you will find a small amount of coins
+ - **Always** you will find an item
+
+Items found here are a select few low level crafting ingrediants and collectables. It also is a reliable (though rare) spot to stock up on `dubloon`.
+
+Known item drops:
+  - `rustycoin` (very common)
+  - `dubloon`, `turncoat` (rare)
 
 ## Shore
 ![image](https://github.com/fishbotapp/fishbotwiki/assets/163616414/a8f5c4e5-81ab-4201-a80e-9e407eeacf87)
 
 Required: Level 15 Thieving and `barrelnote`
+
+First real unlockable thieve location. Players need to both hit 15 thieving and find a `barrelnote` from the barrel before they can thieve here. It drops medium tier fish alongside the regular goodies of items and gold.
+
+ - **Always** you will some low/medium tier fish (`anchovy`,`trout`,`pike`)
+ - **Sometimes** you will find a low/medium amount of coins
+ - **Sometimes** you will find an item
+
+Items found here are a variety of low level crafting ingrediants, rods and low tier store supplies. There are some decent store items found here that can fetch a good sell value (like the `vippass` for 380k). You can also find a singular higher tier fish like 1x `lobster` or 1x `swordfish`.
+
+Known item drops:
+  - `vial`,`mulch`,`rustycoin`,`fisheye` (very common)
+  - various tools like the `gutter`, `craftingknife` and `straw`
+  - good sellables like `vippass` and `shrimpbattery`
 
 
 # Shop
