@@ -60,7 +60,8 @@ Known item drops:
 
 
 ## Shore
-![image](https://github.com/fishbotapp/fishbotwiki/assets/163616414/a8f5c4e5-81ab-4201-a80e-9e407eeacf87)
+![shore](https://github.com/fishbotapp/fishbotwiki/assets/163616414/8f28bf65-a5b0-417e-9935-8840c544ca89)
+
 
 **Required**: Level 15 Thieving and `barrelnote`
 
