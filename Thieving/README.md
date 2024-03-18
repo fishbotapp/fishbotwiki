@@ -44,7 +44,7 @@ Known item drops:
 ## Under Barrel
 ![image](https://github.com/fishbotapp/fishbotwiki/assets/163616414/d6c34684-305e-4b1e-ac01-fdf137a98822)
 
-Required: Level 12 Thieving and `otherbarrelnote`
+**Required**: Level 12 Thieving and `otherbarrelnote`
 
 A potential side area you may explore. It is well known for its highly common drop of `rustycoin`... a very commonly needed crafting item for thieving recipes.
 
@@ -60,7 +60,7 @@ Known item drops:
 ## Shore
 ![image](https://github.com/fishbotapp/fishbotwiki/assets/163616414/a8f5c4e5-81ab-4201-a80e-9e407eeacf87)
 
-Required: Level 15 Thieving and `barrelnote`
+**Required**: Level 15 Thieving and `barrelnote`
 
 First real unlockable thieve location. Players need to both hit 15 thieving and find a `barrelnote` from the barrel before they can thieve here. It drops medium tier fish alongside the regular goodies of items and gold.
 
@@ -79,7 +79,8 @@ Known item drops:
 # Shop
 ![image](https://github.com/fishbotapp/fishbotwiki/assets/163616414/56f74eb6-1d0d-4afa-a349-66b8152e7f9c)
 
-Required: Level 27 Thieving and `shorenote`
+**Required**: Level 27 Thieving and `shorenote`
+
 
 
 ## Craftbox
