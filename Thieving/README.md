@@ -86,7 +86,8 @@ Known item drops:
 
 
 ## Craftbox
-![image](https://github.com/fishbotapp/fishbotwiki/assets/163616414/39092efa-19ec-4e1a-922f-54376c798882)
+![cbox](https://github.com/fishbotapp/fishbotwiki/assets/163616414/3c3a8561-4447-40cb-ab00-4335d021f7d5)
+
 
 **Required**: Level 35 Thieving and `shopnote`
 
