@@ -5,43 +5,43 @@ To interact with them (when they are spawned) try: `!ne`, `!se`, `!nw` or `!sw` 
 
 #### Supply chests ####
 
-Coin chests give coins
+Coin chests give coins.\
 ![chest_coins_tbow](https://github.com/fishbotapp/fishbotwiki/assets/163616414/6178da55-3eaa-4357-9e30-45e627dda841)![chest_coins_scythe](https://github.com/fishbotapp/fishbotwiki/assets/163616414/db9fe907-4d9b-4108-b458-38bb82b862d3)
 
-Item chests give fish or items
+Item chests give fish or items.\
 ![chest_item_tbow](https://github.com/fishbotapp/fishbotwiki/assets/163616414/7fcb4456-fa9e-4376-b77d-b64ec5a56495)![chest_item_scythe](https://github.com/fishbotapp/fishbotwiki/assets/163616414/d31ea428-6da7-4894-966b-343020417fe8)
 
-Purple chests give LOTS of fish or powerful/rare items
+Purple chests give LOTS of fish or powerful/rare items.\
 ![chest_purple_tbow](https://github.com/fishbotapp/fishbotwiki/assets/163616414/289d4a6e-53f0-494c-a56d-2bfcfdea4190)![chest_purple_scythe](https://github.com/fishbotapp/fishbotwiki/assets/163616414/30f720fd-0373-474f-b923-fef03f93e13f)
 
 
 ### Pirate ####
 
-Pirate chests give very rare and powerful loot
+Pirate chests give very rare and powerful loot.\
 ![chest_pirate](https://github.com/fishbotapp/fishbotwiki/assets/163616414/7f30b8ad-6664-4720-8011-facf7883e982)
 *Pirate chests require a `dubloon` to access, which is then consumed.*
 
 #### Ghostly ####
 
-Ghostly chests grant xp in all skills or rare ghostly items.
+Ghostly chests grant xp in all skills or rare ghostly items.\
 ![chest_ghostly_faded](https://github.com/fishbotapp/fishbotwiki/assets/163616414/ddf23a67-4d5a-4f10-b2e7-2b75756597bd)![chest_ghostly](https://github.com/fishbotapp/fishbotwiki/assets/163616414/1ef23391-fe77-4330-8d63-11607871b74e)
 *Ghostly chests are hard to see, they appear near invisible until it is claimed for the first time*
 
 #### Bova ####
 
-Bova trees give bova and berries, used for gear crafting.
+Bova trees give bova and berries, used for gear crafting.\
 ![chest_bova](https://github.com/fishbotapp/fishbotwiki/assets/163616414/888588c9-b7af-4779-b4e7-9e553eba6994)![chest_bovapurple](https://github.com/fishbotapp/fishbotwiki/assets/163616414/1cf374be-07d7-4a57-a61a-1c675a2e6bbd)
 
 
 #### Goblin ####
 
-Goblins will either give you trout or a mysterysack of goblin goods.
+Goblins will either give you trout or a mysterysack of goblin goods.\
 ![chest_goblin_r](https://github.com/fishbotapp/fishbotwiki/assets/163616414/b0247101-fd5f-42da-a143-9fb8b90afc91)![chest_goblinpurple_r](https://github.com/fishbotapp/fishbotwiki/assets/163616414/563999f1-24d5-4bb9-a1c0-fe2c46caffbd)
 
 
 #### Holiday ####
 
-Holiday chests spawn on holiday events
+Holiday chests spawn during holiday events.\
 ![chest_bday](https://github.com/fishbotapp/fishbotwiki/assets/163616414/bff7a5fe-553a-4853-85f9-0223153563ac)![chest_hween](https://github.com/fishbotapp/fishbotwiki/assets/163616414/fb9dbed5-9297-4a69-8d00-5d98b36a7e2d)![chest_xmas](https://github.com/fishbotapp/fishbotwiki/assets/163616414/364d9379-f832-4370-be2c-ddc203119fed)
 
 Known holiday events:
