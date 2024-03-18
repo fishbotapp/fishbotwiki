@@ -36,7 +36,7 @@ Bova trees give bova and berries, used for gear crafting.\
 
 ## Goblin
 
-Goblins will either give you trout or a mysterysack of goblin goods.\
+Goblins will either give you trout or a mystery-sack of goblin goods.\
 ![chest_goblin_r](https://github.com/fishbotapp/fishbotwiki/assets/163616414/b0247101-fd5f-42da-a143-9fb8b90afc91)![chest_goblinpurple_r](https://github.com/fishbotapp/fishbotwiki/assets/163616414/563999f1-24d5-4bb9-a1c0-fe2c46caffbd)
 
 
