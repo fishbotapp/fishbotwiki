@@ -1,6 +1,7 @@
 # Corner Events
 
 Every 15 mins, there is a chance a corner event will spawn in one of the 4 corners of the lake.
+
 To interact with them (when they are spawned) try: `!ne`, `!se`, `!nw` or `!sw` (Northeast, Southeast, Northwest, Southwest)
 
 ## Supply chests
