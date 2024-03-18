@@ -56,6 +56,7 @@ Items found here are a select few low level crafting ingrediants and collectable
 Known item drops:
   - `rustycoin` (very common)
   - `dubloon`, `turncoat` (rare)
+  - `shorenote`
 
 ## Shore
 ![image](https://github.com/fishbotapp/fishbotwiki/assets/163616414/a8f5c4e5-81ab-4201-a80e-9e407eeacf87)
