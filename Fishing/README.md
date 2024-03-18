@@ -14,7 +14,7 @@ To fish, type `!fish`
 
 To be more specific on your desired length of fishing, you can declare a length
 
-example: '!fish xl`
+example: `!fish xl`
 
 all lengths: `xs`,`s`,`m`,`l`,`xl`,`xxl`
 
