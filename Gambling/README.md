@@ -13,7 +13,7 @@ You can gamble in fishbot with
 
 New account:
 
-- Gamble: 25000
+- Gamble: 10000
 - Slots: 250
   
 
@@ -21,16 +21,24 @@ New account:
 
 | Icon | Name | Store Price | Obtained | Effect |
 | ------ | ------ | ----- | ------- | ---- |
-| ![image](https://fishbot.app/items/gamblersmarble.png) | Gamblersmarble | 70k | Shop |  |
-| ![image](https://fishbot.app/items/gamblerscharm.png) | Gamblerscharm | 200k | Shop |  |
-| ![image](https://fishbot.app/items/gamblersorb.png) | Gamblersorb | 450k | Shop |    |
-| ![image](https://fishbot.app/items/gamblersrelic.png) | Gamblersrelic |  |1x Orbcore 3x Gamblersorb|    |
-| ![image](https://fishbot.app/items/gamblersrequiem.png) | Gamblersrequiem | |2x Orbcore 3x Gamblersrelic |    |
-| ![image](https://fishbot.app/items/slappersmarble.png) | Slappersmarble | 70k | Shop |  |
-| ![image](https://fishbot.app/items/slapperscharm.png) | Slapperscharm| 200k | Shop |  |
-| ![image](https://fishbot.app/items/slappersorb.png) | Slappersorb | 450k |  Shop  |   |
-| ![image](https://fishbot.app/items/slappersrelic.png) | Slappersrelic |   | 1x Orbcore 3x Slapperssorb |    |
-| ![image](https://fishbot.app/items/slappersrequiem.png) | Slappersrequiem | |2x Orbcore 3x Slappersrelic |     |
+| ![image](https://fishbot.app/items/gamblerspotion.png) | Gamblerspotion | | 60k + 4x rustycoin 2x crushedvial 6x fisheggs 1x vial |  2x gamble and slot limit, +1 to gamble rolls, +1% feature and mysteryprize chance in slots2 for 2 hours|
+| ![image](https://fishbot.app/items/extendedgamblerspotion.png) | Extendedgamblerspotion | | 2x gamblerspotion 1x sipperscharm 12x crushedgem |  Gamblerspotion but lasts until next reset |
+| ![image](https://fishbot.app/items/gamblersmarble.png) | Gamblersmarble | 70k | Shop | 25k gamble limit |
+| ![image](https://fishbot.app/items/gamblerscharm.png) | Gamblerscharm | 200k | Shop | 50k gamble limit  |
+| ![image](https://fishbot.app/items/gamblersorb.png) | Gamblersorb | 450k | Shop |  100k gamble limit  |
+| ![image](https://fishbot.app/items/gamblersrelic.png) | Gamblersrelic |  |1x Orbcore 3x Gamblersorb|  250k gamble limit  |
+| ![image](https://fishbot.app/items/gamblersrequiem.png) | Gamblersrequiem | |2x Orbcore 3x Gamblersrelic |  400k gamble limit  |
+| ![image](https://fishbot.app/items/slappersmarble.png) | Slappersmarble | 70k | Shop | 500 bet limit on slots & slots2 |
+| ![image](https://fishbot.app/items/slapperscharm.png) | Slapperscharm| 200k | Shop | 1k bet limit on slots & slots2  |
+| ![image](https://fishbot.app/items/slappersorb.png) | Slappersorb | 450k |  Shop  | 2k bet limit on slots & slots2   |
+| ![image](https://fishbot.app/items/slappersrelic.png) | Slappersrelic |   | 1x Orbcore 3x Slapperssorb |  5k bet limit on slots & slots2   |
+| ![image](https://fishbot.app/items/slappersrequiem.png) | Slappersrequiem | |2x Orbcore 3x Slappersrelic |  10k bet limit on slots & slots2    |
+| ![image](https://fishbot.app/items/gamblersglasses.png) | Gamblersglasses | | Thieving while having a `luckyrose` in your inventory | -50% gamble & slots cooldown,  +1 roll in duels, 1.5x gamble & slots limit, +3 extra free spins on any slots2 feature, +1% chance of mysteryprize. If worn, +1% extra feech odds but  1 in 3000 chance to break per use |
+
+
+
+
+
 
 
 
