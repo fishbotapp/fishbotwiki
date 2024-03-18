@@ -18,7 +18,7 @@ I wish to **buy** **3** **sapphire**s from **whoopbang**:
 
 `!playershops buy 3 sapphire whoopbang`
 
-I wish to **sell** **10** **eelhide** for **10000** `each`*:
+I wish to **sell** **10** **eelhide** for **10000** each:
 
 `!playershops sell 10 eelhide 10000`
 
