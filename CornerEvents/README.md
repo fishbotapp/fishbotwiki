@@ -18,13 +18,13 @@ Purple chests give LOTS of fish or powerful/rare items.\
 ### Pirate ####
 
 Pirate chests give very rare and powerful loot.\
-![chest_pirate](https://github.com/fishbotapp/fishbotwiki/assets/163616414/7f30b8ad-6664-4720-8011-facf7883e982)
+![chest_pirate](https://github.com/fishbotapp/fishbotwiki/assets/163616414/7f30b8ad-6664-4720-8011-facf7883e982)\
 *Pirate chests require a `dubloon` to access, which is then consumed.*
 
 #### Ghostly ####
 
 Ghostly chests grant xp in all skills or rare ghostly items.\
-![chest_ghostly_faded](https://github.com/fishbotapp/fishbotwiki/assets/163616414/ddf23a67-4d5a-4f10-b2e7-2b75756597bd)![chest_ghostly](https://github.com/fishbotapp/fishbotwiki/assets/163616414/1ef23391-fe77-4330-8d63-11607871b74e)
+![chest_ghostly_faded](https://github.com/fishbotapp/fishbotwiki/assets/163616414/ddf23a67-4d5a-4f10-b2e7-2b75756597bd)![chest_ghostly](https://github.com/fishbotapp/fishbotwiki/assets/163616414/1ef23391-fe77-4330-8d63-11607871b74e)\
 *Ghostly chests are hard to see, they appear near invisible until it is claimed for the first time*
 
 #### Bova ####
