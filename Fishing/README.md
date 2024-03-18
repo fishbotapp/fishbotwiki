@@ -117,11 +117,11 @@ Aka the `head` gearslot
 | Icon | Name | Store Price | Obtained | Effect |
 | ------ | ------ | ----- | ------- | ---- |
 | ![haty](https://github.com/fishbotapp/fishbotwiki/assets/163616414/51ac7b86-3f54-4bd3-a7ed-e258d526da13) | ?????? |  | Barrel (Thieve UDT) |  |
-| ![image](https://fishbot.app/items/rustycap.png) | Rustycap | |Under Barrel ([Thieve UDT](../Thieving/UDT.md))  |   |
+| ![image](https://fishbot.app/items/rustycap.png) | Rustycap | |Under Barrel ([Thieve UDT](../Thieving/UDT.md))  | If worn: *You will have a chance to get rustycoin and various other items from fishing*  |
 | ![image](https://fishbot.app/items/southshorecap.png) | Southshorecap | |Shore ([Thieve UDT](../Thieving/UDT.md))  |    |
 | ![image](https://fishbot.app/items/northshorecap.png) | Northshorecap | |Shore ([Thieve UDT](../Thieving/UDT.md))  |  |
-| ![image](https://fishbot.app/items/sneakerscap.png) | Sneakerscap | |Shop ([Thieve UDT](../Thieving/UDT.md)) | |
-| ![image](https://fishbot.app/items/tickerscap.png) | Tickerscap | |Craftbox ([Thieve UDT](../Thieving/UDT.md)) |  |
+| ![image](https://fishbot.app/items/sneakerscap.png) | Sneakerscap | |Shop ([Thieve UDT](../Thieving/UDT.md)) | If worn: *You will get 1x charge for every time you thieve the shop. When payday 80 hits, you dispel the charges for thieve xp and thieving related items.* |
+| ![image](https://fishbot.app/items/tickerscap.png) | Tickerscap | |Craftbox ([Thieve UDT](../Thieving/UDT.md)) | If worn: *You will gather 1x charge for every time someone does a !make while you are fishing. When your trip ends, you dispel the charges for fishing and crafting xp, as well as a small chance of items.*|
 | ![image](https://fishbot.app/items/fishbovahat.png) | Fishbovahat | | Via !make |  |
 
 
