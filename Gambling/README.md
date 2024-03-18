@@ -33,7 +33,7 @@ New account:
 | ![image](https://fishbot.app/items/slappersorb.png) | Slappersorb | 450k |  Shop  | 2k bet limit on slots & slots2   |
 | ![image](https://fishbot.app/items/slappersrelic.png) | Slappersrelic |   | 1x Orbcore 3x Slapperssorb |  5k bet limit on slots & slots2   |
 | ![image](https://fishbot.app/items/slappersrequiem.png) | Slappersrequiem | |2x Orbcore 3x Slappersrelic |  10k bet limit on slots & slots2    |
-| ![image](https://fishbot.app/items/gamblersglasses.png) | Gamblersglasses | | Thieving while having a `luckyrose` in your inventory | -50% gamble & slots cooldown,  +1 roll in duels, 1.5x gamble & slots limit, +3 extra free spins on any slots2 feature, +1% chance of mysteryprize. If worn, +1% extra feech odds but  1 in 3000 chance to break per use |
+| ![image](https://fishbot.app/items/gamblersglasses.png) | Gamblersglasses | | Thieving while having a `luckyrose` in your inventory | -50% gamble & slots cooldown,  +1 roll in duels, 1.5x gamble & slots limit, +3 extra free spins on any slots2 feature, +1% chance of mysteryprize. If worn: *+1% extra feech odds but  1 in 3000 chance to break per use* |
 
 
 
