@@ -42,7 +42,8 @@ Known item drops:
 
 
 ## Under Barrel
-![image](https://github.com/fishbotapp/fishbotwiki/assets/163616414/d6c34684-305e-4b1e-ac01-fdf137a98822)
+![barrel](https://github.com/fishbotapp/fishbotwiki/assets/163616414/bf664d2b-2ebe-47d1-8843-1feb77a725e4)
+
 
 **Required**: Level 12 Thieving and `otherbarrelnote`
 
