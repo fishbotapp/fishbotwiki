@@ -28,4 +28,4 @@ I wish to **cancel** my selling offer on **eelhide**:
 
 I wish to **cancel** **all** my selling offers:
 
-`!playershops cancel eelhide`
+`!playershops cancel all`
