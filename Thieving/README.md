@@ -108,7 +108,17 @@ Known item drops:
 
 # Gear 
 
-## Jewelery ##
+
+## Jewelery
+
+Note: `thievexpammy` and `thievetimeammy` will cancel eachother out if you have both.
+
+| Icon | Name | Store Price | Obtained | Effect |
+| ------ | ------ | ----- | ------- | ---- |
+| ![image](https://fishbot.app/items/thievexpammy.png) | Thievexpammy | 1.6m | Shop | +14% thieving xp. Can be imbued 15 times with 1x `ruby`, each imbue gives +1% thieving xp gained. If worn: *+1% thieving xp* |
+| ![image](https://fishbot.app/items/thievetimeammy.png) | Thievetimeammy | 1.6m | Shop | -10% thieving cooldown duration. Can be imbued 15 times with 1x `amethyst`, each imbue gives -1% thieving cooldown duration. If worn: *-1% thieving cooldown duration* |
+
+
 
 -----------------------------
 
