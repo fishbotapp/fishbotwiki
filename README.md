@@ -1,7 +1,7 @@
 
 # Fishbot.app Wiki #
 
-Built by the community, for the community.
+Built by the community, for the community!
 
 
 
