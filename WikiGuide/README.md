@@ -1,7 +1,7 @@
 ## Wiki editing guide ##
 
 - Required:
-  - A free github account
+  - A free github account (https://github.com/signup)
   - *Telling the admin your github account name so he can enable access*
 
 ## How ##
