@@ -2,7 +2,7 @@
 
 - Required:
   - A free github account
-  - *Letting the admin know your github account name so he can enable access*
+  - *Telling the admin your github account name so he can enable access*
 
 ## How ##
 
