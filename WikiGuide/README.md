@@ -14,12 +14,8 @@
 
 
 
-<span style="color:red">
-<b>IF YOU SEE THIS, ADMIN HAS NOT ENABLED YOUR ACC YET, SORRY</b>
-</span>
 
-![image](https://github.com/fishbotapp/fishbotwiki/assets/163616414/bbda631d-7a47-4a5d-9e8f-bb44b0d6ff23)
-
+![image](https://github.com/fishbotapp/fishbotwiki/assets/163616414/9452c1d9-fa0e-4226-94a8-b640cc0a75ff)
 
 
 
