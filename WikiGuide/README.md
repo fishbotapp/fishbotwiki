@@ -12,6 +12,10 @@
 
 ![image](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c0fbd9e2-0015-49f6-85f9-7b3a5dece388)
 
+<span style="color:red">
+<b>IF YOU SEE THIS, ADMIN HAS NOT ENABLED YOUR ACC YET, SORRY</b>
+</span>
+![image](https://github.com/fishbotapp/fishbotwiki/assets/163616414/bbda631d-7a47-4a5d-9e8f-bb44b0d6ff23)
 
 
 - When done with your changes remember to 'commit to main'
