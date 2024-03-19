@@ -106,7 +106,9 @@ Known item drops:
 | ![image](https://fishbot.app/items/platinumlockpick.png) | Platinumlockpick |  | Thieving with a `luckyrose` in your inventory | +40% chance of double thieve |
 | ![image](https://fishbot.app/items/enchantedlockpick.png) | Enchantedlockpick |  | Goldlockpick + Orbcore | +150% thieve xp but cannot gain items |
 
+# Gear 
 
+## Jewelery ##
 
 -----------------------------
 
