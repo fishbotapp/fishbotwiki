@@ -1,12 +1,14 @@
 ## Wiki editing guide ##
 
-- Required: A github account
+- Required:
+  - A free github account
+  - *Letting the admin know your github account name so he can enable access*
 
 ## How ##
 
 - Go to the <a href="https://github.com/fishbotapp/fishbotwiki/" target="_blank">Fishbot Wiki Github Page</a>
 
-- Since it is a public repo, you can click the edit icon and changes or add pages as you like.
+- You can click the edit icon and changes or add pages as you like.
 
 ![image](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c0fbd9e2-0015-49f6-85f9-7b3a5dece388)
 
