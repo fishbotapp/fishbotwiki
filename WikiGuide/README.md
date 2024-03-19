@@ -27,6 +27,8 @@
 
 - The changes will end up on the Fishbot.app website within 5 mins max
 
+- It doesnt need to be perfect, fancy or pretty. Any contributions are *very much appreciated*.
+
 - If you copy an image from somewhere you can paste it into the github editor and it will auto upload and embed
 
 - If you wanna get fancy, see [this guide which helps to understand markdown and how to use it.](https://support.squarespace.com/hc/en-us/articles/206543587-Markdown-cheat-sheet)
