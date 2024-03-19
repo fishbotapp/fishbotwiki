@@ -85,7 +85,7 @@ Note: `fishfortunering` and `fishxpring` will cancel eachother out if you have b
 | Icon | Name | Store Price | Obtained | Effect |
 | ------ | ------ | ----- | ------- | ---- |
 | ![image](https://fishbot.app/items/fishxpring.png) | Fishxpring | 2m | Shop | +10% fishing xp. Can be imbued 15 times with 1x `sapphire`, each imbue gives +1% fishing xp gained |
-| ![image](https://fishbot.app/items/fishfortunering.png) | Fishfortunering | 2m | Shop | +10% all fish gained. Can be imbued 15 times with 1x `emerald`, each imbue gives +1% all fish gained |
+| ![image](https://fishbot.app/items/fishfortunering.png) | Fishfortunering | 2m | Shop | +10% all fish gained. Can be imbued 15 times with 1x `emerald`, each imbue gives +1% all fish gained.  |
 
 
 
