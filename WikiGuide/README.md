@@ -18,11 +18,6 @@
 
 
 
-![image](https://github.com/fishbotapp/fishbotwiki/assets/163616414/9452c1d9-fa0e-4226-94a8-b640cc0a75ff)
-
-
-
-
 - When done with your changes remember to 'commit to main'
 
 ![image](https://github.com/fishbotapp/fishbotwiki/assets/163616414/f7fe6aeb-4cd7-4f2b-a1fe-33698a486c91)
