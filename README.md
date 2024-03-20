@@ -16,4 +16,7 @@ Contents:
 
 [Wiki Editing Guide](/WikiGuide/README.md)
 
+For game suggestions:
+- [Suggestions](./Suggestions.md)
+
 Enjoy
