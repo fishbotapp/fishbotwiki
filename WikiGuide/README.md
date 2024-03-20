@@ -29,6 +29,8 @@
 
 - If you copy an image from somewhere you can paste it into the github editor and it will auto upload and embed
 
+- imo, best way to work is to copy and paste something from another segment and then change the info 
+
 - If you wanna get fancy, see [this guide which helps to understand markdown and how to use it.](https://support.squarespace.com/hc/en-us/articles/206543587-Markdown-cheat-sheet)
 
 - Be respectful and responsible!
