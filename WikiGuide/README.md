@@ -2,11 +2,14 @@
 
 - Required:
   - A free github account (https://github.com/signup)
-  - *Telling the admin your github account name so he can enable access*
 
 ## How ##
 
-- Go to the <a href="https://github.com/fishbotapp/fishbotwiki/" target="_blank">Fishbot Wiki Github Page</a>
+- Once you have created a github account, type `!setgithubusername your_github_username` on fishbot chat
+
+- If it tells you its successful, you will get an email inviting you to edit the wiki. You can alternately accept the invite on github.com
+
+- Once accepted, go to the <a href="https://github.com/fishbotapp/fishbotwiki/" target="_blank">Fishbot Wiki Github Page</a>
 
 - You can click the edit icon and changes or add pages as you like.
 
