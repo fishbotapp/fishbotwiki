@@ -21,6 +21,7 @@ Each location holds a pool of items avaliable to receive from hitting their UDT.
 | ![image](https://fishbot.app/items/scrollofmulchmania.png) | Scrollofbonanza | **All** |  |
 | ![image](https://fishbot.app/items/leatherpack.png) | Leatherpack | Underbarrell |  |
 | ![image](https://fishbot.app/items/swordfishmarket.png) | Swordfishmarket | Shop, Shore? |  |
+| ![image](https://fishbot.app/items/pikepassport.png) | Pikepassport | Shore |  |
 | ![image](https://fishbot.app/items/pikesummoner.png) | Pikesummoner | Shore |  |
 | ![image](https://fishbot.app/items/blingtrinket.png) | Blingtrinket | Barrell |  |
 | ![image](https://fishbot.app/items/gwillet.png) | Gwillet | Shop |  |
