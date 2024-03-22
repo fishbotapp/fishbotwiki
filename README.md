@@ -11,6 +11,7 @@ Contents:
 - [Thieving](./Thieving/README.md)
   - [Thieve UDT](./Thieving/UDT.md)
 - [Crafting](./Crafting/README.md)
+  - [Make Recipes](./Crafting/MakeCommand.md)
 - [Corner Events](./CornerEvents/README.md)
 - [Gambling](./Gambling/README.md)
 
