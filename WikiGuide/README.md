@@ -1,7 +1,7 @@
 ## Wiki editing guide ##
 
 - Required:
-  - A free github account (https://github.com/signup)
+  - A free github account (https://github.com/signup). *Make sure you verify your email so the account is active.*
 
 ## How ##
 
