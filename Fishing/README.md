@@ -135,7 +135,7 @@ Aka the `head` gearslot
 | ![image](https://fishbot.app/items/sneakerscap.png) | Sneakerscap | |Shop ([Thieve UDT](../Thieving/UDT.md)) | If worn: *You will get 1x charge for every time you thieve the shop. When payday 80 hits, you dispel the charges for thieve xp and thieving related items.* |
 | ![image](https://fishbot.app/items/tickerscap.png) | Tickerscap | |Craftbox ([Thieve UDT](../Thieving/UDT.md)) | If worn: *You will gather 1x charge for every time someone does a !make while you are fishing. When your trip ends, you dispel the charges for fishing and crafting xp, as well as a small chance of items.*|
 | ![image](https://fishbot.app/items/fishbovahat.png) | Fishbovahat | | Via !make |  |
-
+| ![image](https://fishbot.app/items/bluewizardhat.png) | Bluewizardhat | |  |   If worn: `gives a small chance of finding a crushedgem, crushedvial or glowblip from fishing` |
 
 ### Rustycap
 ![image](https://fishbot.app/items/rustycap.png) 
