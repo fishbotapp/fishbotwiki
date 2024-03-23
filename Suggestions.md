@@ -6,6 +6,8 @@
 ## QUALITY OF LIFE
  - Removing purple emoji from things that aren't so special (example: rustycap and mulchpocket)
 
+ - Blingbox cooldown message / anti spam measures
+
  - `slots2autospinner`
    - you add charges to it by doing `!slots2autospinner charge`
    - a charge costs 1x `crusheddubloon`
