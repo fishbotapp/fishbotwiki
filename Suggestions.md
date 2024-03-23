@@ -15,6 +15,9 @@
    - the spins will occur every 5 seconds, and will pause if you are in a FEECH
    - you cannot stop the 200x spins once it starts
 
+## BALANCE
+ - guild wearables buffed (example burlyvest 10% -> 12%)
+
 ## IDEAS / FEATURES
 - Page on fishbot.app with widgets and stream and chat, a better way to play
 
