@@ -113,7 +113,7 @@ Known item drops:
   - `glowenergy`, `orbcore` (very rare craft ingredients)
   - `gutter`, `craftingknife`, `chisel`, `straw` (basic tools)
   - `sickle`, `mulchmallet`, `hammer`, `eyehook` (rare tools)
-  - `dubloon`, `turncoat`, `lobsterlure` (rare items)
+  - `dubloon`, `turncoat`, `lobsterlure`, `smallxpbag` (rare items)
   - `greencoat`, `redcoat` (very rare items)
 
 # ---- Lockpicks -----
