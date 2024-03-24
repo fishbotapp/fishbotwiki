@@ -111,7 +111,7 @@ Known item drops:
   - `glowenergy`, `orbcore` (very rare craft ingredients) 
   - `saltdispencer`, `redsaltdispencer`, `greensaltdispencer` (high tier craft items) 
   - `gutter`, `craftingknife`, `chisel`, `straw` (basic tools)
-  - `sickle` `mulchmallet` `hammer`, `eyehook` (rare tools)
+  - `sickle`, `mulchmallet`, `hammer`, `eyehook` (rare tools)
   - `dubloon`, `turncoat`, `lobsterlure` (rare thieves)
   - `greencoat`, `redcoat` (very rare thieves)
 
