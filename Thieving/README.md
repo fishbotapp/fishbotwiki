@@ -95,7 +95,7 @@ Known item drops:
 
 One stop thieve location for all Crafting ingredients, Tools and also much higher tier Loot
 
-- **Always** you will receive a crafting ingredient
+- **Always** you will receive at least a crafting ingredient
 - **Commonly** you may receive a tool for crafting, ingredient pack (fisheyepack, vialpack)
 - **Sometimes** you may receive higher tier ingredients (glasstrinket, crusheddubloon, uncut gem)
 - **Rare** you may receive higher tier items for crafting (saltdispencer, redsaltdispencer, greensaltdispencer, glowing tools)
