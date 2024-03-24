@@ -109,8 +109,8 @@ Known item drops:
   - `crusheddubloon`, `glowblip`, `glasstrinket` (rare craft ingredients)
   - `glowenergy`, `orbcore` (very rare craft ingredients) 
   - `saltdispencer`, `redsaltdispencer`, `greensaltdispencer` (high tier craft items) 
-  - `gutter`, `craftingknife`, `chisel` `straw` (basic tools)
-  - `sickle` `mulchmallet` `hammer` `eyehook` (rare tools)
+  - `gutter`, `craftingknife`, `chisel`, `straw` (basic tools)
+  - `sickle` `mulchmallet` `hammer`, `eyehook` (rare tools)
   - `dubloon` and `turncoat` (rare thieves)
 
 # ---- Lockpicks -----
