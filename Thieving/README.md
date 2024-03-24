@@ -106,11 +106,11 @@ Known item drops:
   - `vial`,`mulch`,`rustycoin`,`fisheye` (very common)
   - `vialpack`,`mulchpack`,`rustycoinpack`,`fisheyepack` (common)
   - `pileofsand`, `saltrock`, `crushedvial` (less common)
-  - rarer craft ingredients `crusheddubloon`, `glowblip`, `glasstrinket`
-  - very rare craft ingredients `glowenergy`, `orbcore`
-  - high tier craft items `saltdispencer`, `redsaltdispencer`, `greensaltdispencer`,
-  - various basic tools like the `gutter`, `craftingknife` and `straw`
-  - rarer tools like `sickle` `mulchmallet` and `hammer`
+  - `crusheddubloon`, `glowblip`, `glasstrinket` (rare craft ingredients)
+  - `glowenergy`, `orbcore` (very rare craft ingredients) 
+  - `saltdispencer`, `redsaltdispencer`, `greensaltdispencer` (high tier craft items) 
+  - `gutter`, `craftingknife`, `chisel` `straw` (basic tools)
+  - `sickle` `mulchmallet` `hammer` `eyehook` (rare tools)
   - `dubloon` and `turncoat` (rare thieves)
 
 # ---- Lockpicks -----
