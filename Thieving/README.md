@@ -112,6 +112,7 @@ Known item drops:
   - `gutter`, `craftingknife`, `chisel`, `straw` (basic tools)
   - `sickle` `mulchmallet` `hammer`, `eyehook` (rare tools)
   - `dubloon` and `turncoat` (rare thieves)
+  - `greencoat`, `redcoat` (very rare thieves)
 
 # ---- Lockpicks -----
 
