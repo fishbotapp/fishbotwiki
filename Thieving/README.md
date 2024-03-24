@@ -105,6 +105,8 @@ It is very highly recommended to thieve Craftbox whilst at your highest potentia
 Known item drops:
   - `vial`,`mulch`,`rustycoin`,`fisheye` (very common)
   - `vialpack`,`mulchpack`,`rustycoinpack`,`fisheyepack` (common)
+  - rarer craft ingredients `crusheddubloon`, `crushedvial`, `glowblip`
+  - very rare craft ingredients `glowenergy`, `orbcore`
   - various basic tools like the `gutter`, `craftingknife` and `straw`
   - rarer tools like `sickle` `mulchmallet` and `hammer`
   - `dubloon` and `turncoat` (rare thieves)
