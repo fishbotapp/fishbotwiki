@@ -98,7 +98,7 @@ One stop thieve location for all Crafting ingredients, Tools and also much highe
 - **Always** you will receive at least a crafting ingredient
 - **Commonly** you may receive a tool for crafting, ingredient pack (`fisheyepack`, `vialpack`)
 - **Sometimes** you may receive higher tier ingredients (`glasstrinket`, `crusheddubloon`, `uncutsapphire` and other gems)
-- **Rare** you may receive higher tier items for crafting (`saltdispencer`, `redsaltdispencer`, `greensaltdispencer`, `glowinggutter` and glowing tools)
+- **Rare** you may receive higher tier items for crafting (`saltdispencer`, `redsaltdispencer`, `greensaltdispencer`, `glowinggutter` and other glowing tools)
 
 It is very highly recommended to thieve Craftbox whilst at your highest potential thieve level through potions, boosting items.
 
