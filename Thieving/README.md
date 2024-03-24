@@ -100,9 +100,9 @@ One stop thieve location for all Crafting ingredients, Tools and also much highe
 - **Sometimes** you may receive higher tier ingredients (glasstrinket, crusheddubloon, uncut gem)
 - **Rare** you may receive higher tier items for crafting (saltdispencer, redsaltdispencer, greensaltdispencer, glowing tools)
 
-  It is very highly recommended to thieve Craftbox whilst at your highest potential thieve level through potions, boosting items.
+It is very highly recommended to thieve Craftbox whilst at your highest potential thieve level through potions, boosting items.
 
-  Known item drops:
+Known item drops:
   - `vial`,`mulch`,`rustycoin`,`fisheye` (very common)
   - various tools like the `gutter`, `craftingknife` and `straw`
 
