@@ -106,7 +106,8 @@ Known item drops:
   - `vial`,`mulch`,`rustycoin`,`fisheye` (very common)
   - `vialpack`,`mulchpack`,`rustycoinpack`,`fisheyepack` (common)
   - various basic tools like the `gutter`, `craftingknife` and `straw`
-  - Rarer tools like `sickle` `mulchmallet` and `hammer`
+  - rarer tools like `sickle` `mulchmallet` and `hammer`
+  - `dubloon` and `turncoat` (rare thieves)
 
 # ---- Lockpicks -----
 
