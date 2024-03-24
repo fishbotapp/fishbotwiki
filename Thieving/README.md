@@ -109,12 +109,12 @@ Known item drops:
   - `craftingpotion`,`thievingpotion`,`fishingpotion` (basic potions)
   - `pileofsand`, `saltrock`, `crushedvial` (less common)
   - `crusheddubloon`, `glowblip`, `glasstrinket` (rare craft ingredients)
-  - `glowenergy`, `orbcore` (very rare craft ingredients) 
-  - `saltdispencer`, `redsaltdispencer`, `greensaltdispencer` (high tier craft items) 
+  - `saltdispencer`, `redsaltdispencer`, `greensaltdispencer` (high tier craft items)
+  - `glowenergy`, `orbcore` (very rare craft ingredients)
   - `gutter`, `craftingknife`, `chisel`, `straw` (basic tools)
   - `sickle`, `mulchmallet`, `hammer`, `eyehook` (rare tools)
-  - `dubloon`, `turncoat`, `lobsterlure` (rare thieves)
-  - `greencoat`, `redcoat` (very rare thieves)
+  - `dubloon`, `turncoat`, `lobsterlure` (rare items)
+  - `greencoat`, `redcoat` (very rare items)
 
 # ---- Lockpicks -----
 
