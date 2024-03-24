@@ -97,7 +97,7 @@ One stop thieve location for all Crafting ingredients, Tools and also much highe
 
 - **Always** you will receive at least a crafting ingredient
 - **Commonly** you may receive a tool for crafting, ingredient pack (`fisheyepack`, `vialpack`)
-- **Sometimes** you will find a low/medium/high amount of coins
+- **Commonly** you will find a low/medium/high amount of coins
 - **Sometimes** you may receive higher tier ingredients (`glasstrinket`, `crusheddubloon`, `uncutsapphire` and other gems)
 - **Rare** you may receive higher tier items for crafting (`saltdispencer`, `redsaltdispencer`, `greensaltdispencer`, `glowinggutter` and other glowing tools)
 
