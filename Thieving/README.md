@@ -93,6 +93,19 @@ Known item drops:
 
 **Required**: Level 35 Thieving and `shopnote`
 
+One stop thieve location for all Crafting ingredients, Tools and also much higher tier Loot
+
+- **Always** you will receive a crafting ingredient
+- **Commonly** you may receive a tool for crafting, ingredient pack (fisheyepack, vialpack)
+- **Sometimes** you may receive higher tier ingredients (glasstrinket, crusheddubloon, uncut gem)
+- **Rare** you may receive higher tier items for crafting (saltdispencer, redsaltdispencer, greensaltdispencer, glowing tools)
+
+  It is very highly recommended to thieve Craftbox whilst at your highest potential thieve level through potions, boosting items.
+
+  Known item drops:
+  - `vial`,`mulch`,`rustycoin`,`fisheye` (very common)
+  - various tools like the `gutter`, `craftingknife` and `straw`
+
 # ---- Lockpicks -----
 
 
