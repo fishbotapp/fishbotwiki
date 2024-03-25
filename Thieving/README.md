@@ -39,6 +39,7 @@ Known item drops:
   - `vial`,`mulch`,`fisheye` (common)
   - `barrelnote` and `otherbarrelnote`
   - `straw` (rare)
+  - `glowblip` (rare + high thieve level)
 
 
 ## Under Barrel
@@ -85,7 +86,8 @@ Known item drops:
 
 **Required**: Level 27 Thieving and `shorenote`
 
-
+Known item drops:
+  - `shopnote`
 
 ## Craftbox
 ![cbox](https://github.com/fishbotapp/fishbotwiki/assets/163616414/3c3a8561-4447-40cb-ab00-4335d021f7d5)
