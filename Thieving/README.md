@@ -109,6 +109,7 @@ Known item drops:
   - `craftingpotion`,`thievingpotion`,`fishingpotion` (basic potions)
   - `pileofsand`, `saltrock`, `crushedvial` (less common)
   - `crusheddubloon`, `glowblip`, `glasstrinket` (rare craft ingredients)
+  - `uncutsapphire`, `uncutemerald`, `uncutruby`, `uncutamethyst`, `uncutlapis`, `uncutonyx` (gems)
   - `saltdispencer`, `redsaltdispencer`, `greensaltdispencer` (high tier craft items)
   - `glowenergy`, `orbcore` (very rare craft ingredients)
   - `gutter`, `craftingknife`, `chisel`, `straw` (basic tools)
