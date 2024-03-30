@@ -147,7 +147,7 @@ If you have a `luckyrose` in your inventory, you will have a very small chance t
 | ![image](https://fishbot.app/items/platinumlockpick.png) | Platinumlockpick | Shop | 40% chance of double thieve | 
 | ![image](https://fishbot.app/items/gamblersglasses.png) | Gamblersglasses | Craftbox | -50% gamble & slots cooldown,  +1 roll in duels, 1.5x gamble & slots limit, +3 extra free spins on any slots2 feature, +1% chance of mysteryprize. If worn: *+1% extra feech odds but  1 in 3000 chance to break per use*  | 
 
-
+Note: It is established that you can turn 3x `luckyrose` into `crownofthorns` and that from fishbot3.0 onwards, the crown (if worn) works as a luckyrose too.
 
 # Gear 
 
