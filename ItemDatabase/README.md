@@ -54,6 +54,15 @@ Items are in order of collection log
 | ![image](https://fishbot.app/items/incomeorb.png) | Incomeorb | 450k | Shop, thieving and corner chests | ** | |  | |
 | ![image](https://fishbot.app/items/interestorb.png) | Interestorb | 15m | Shop | ** | |  | |
 | ![image](https://fishbot.app/items/sippersorb.png) | Sippersorb | 300k | Thieving and purple/pirate chests | ** | |  | |
+| ![image](https://fishbot.app/items/crushedvial.png) | Crushedvial |  | Crushing `vial` with `hammer` | ** | |  | |
+| ![image](https://fishbot.app/items/mulch.png) | Mulch |  | by !makemulch (requires 25x `anchovy` and 15 fishing) | ** | |  | |
+| ![image](https://fishbot.app/items/megamulch.png) | Megamulch |  | by !use mulch (requires 200x `shrimp` and 40x `mulch` and 25 fishing) | ** | |  | |
+| ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ? | |  |  | |  | |
+| ![image](https://fishbot.app/items/fisheye.png) | Fisheye |  | by using an `eyehook` on `pike`, thieving, corner chests | ** | |  | |
+| ![image](https://fishbot.app/items/rustycoin.png) | Rustycoin |  | thieving and corner chests | ** | |  | |
+| ![image](https://fishbot.app/items/lobsterclaw.png) | Lobsterclaw |  | by using a `lobster` | ** | |  | |
+
+
 
 
 
