@@ -3,9 +3,7 @@
 
 Built by the community, for the community!
 
-
-
-Contents:
+- [Item Database](./ItemDatabase/README.md)
 - [Fishing](./Fishing/README.md)
   - [Fishmarkets](./Fishing/Fishmarkets/Fishmarkets.md)
 - [Thieving](./Thieving/README.md)
