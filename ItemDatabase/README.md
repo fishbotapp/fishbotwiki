@@ -34,7 +34,24 @@ Items are in order of collection log
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | Progalacticrod | 200m | From shop | *A tiny tiny bit better than galacticrod but gives +25% fishing xp.* | On the Rod slot |  | |
 | ![image](https://fishbot.app/items/primordialrod.png) | Primordialrod | 250m | From shop | *Ancient, from the primordial soup marking the genesis of life. Slightly better than the primalrod.* | On the Rod slot |  | |
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | Oceanrod | 250m | From shop | *A deep sea rod, meaning it CANNOT be used for mulched fishing or catching shrimp or anchovy. Grants +1 fishing level when held, slightly better than the primordialrod* | On the Rod slot |  | |
-| ![image](https://fishbot.app/items/goodreel.png) | Goodreel | 250m | From shop | *A deep sea rod, meaning it CANNOT be used for mulched fishing or catching shrimp or anchovy. Grants +1 fishing level when held, slightly better than the primordialrod* | On the Rod slot |  | |
+| ![image](https://fishbot.app/items/microkit.png) | Microkit | 70k | From shop, thieving or corner chests | *Allows you to take Xtra Short (XS) fishing trips* | |  | |
+| ![image](https://fishbot.app/items/fishingbag.png) | Fishingbag | 40k | From shop, thieving, corner chests or !make (32 crafting) | *Allows you to take Xtra Long (XL) fishing trips* | |  | |
+| ![image](https://fishbot.app/items/macrokit.png) | Macrokit | 160k | From shop, thieving or corner chests | *Allows you to take Xtra Xtra Long (XXL) fishing trips* | |  | |
+| ![image](https://fishbot.app/items/wildkit.png) | Wildkit | 450k | Purple chests or !make (49 crafting) | *Allows you to take Wildcard fishing trips. This will randomly select the trip length for you.. but grants you +1 fishing level and +1 to your rods power and speed for the trip. Use by doing !fish w* | |  | |
+| ![image](https://fishbot.app/items/safekit.png) | Wildkit | 900k | Pirate chests | *Allows you to take Safe XXL fishing trips. This will be an xxl trip, but can never be longer than a fishbot reset. Use by doing !fish sxxl* | |  | |
+| ![image](https://fishbot.app/items/gamblersmarble.png) | Gamblersmarble | 70k | Shop, thieving and corner chests | ** | |  | |
+| ![image](https://fishbot.app/items/slappersmarble.png) | Slappersmarble | 70k | Shop, thieving and corner chests | ** | |  | |
+| ![image](https://fishbot.app/items/incomemarble.png) | Incomemarble | 70k | Shop, thieving and corner chests | ** | |  | |
+| ![image](https://fishbot.app/items/interestmarble.png) | Interestmarble | 1.5m | Shop, thieving and purple/pirate chests | ** | |  | |
+| ![image](https://fishbot.app/items/sippersmarble.png) | Sippersmarble | 80k | Thieving and corner chests | ** | |  | |
+| ![image](https://fishbot.app/items/gamblerscharm.png) | Gamblerscharm | 200k | Shop, thieving and corner chests | ** | |  | |
+| ![image](https://fishbot.app/items/slapperscharm.png) | Slapperscharm | 200k | Shop, thieving and corner chests | ** | |  | |
+| ![image](https://fishbot.app/items/incomecharm.png) | Incomecharm | 200k | Shop, thieving and corner chests | ** | |  | |
+| ![image](https://fishbot.app/items/interestcharm.png) | Interestcharm | 5m | Shop, pirate chests | ** | |  | |
+| ![image](https://fishbot.app/items/sipperscharm.png) | Sipperscharm | 140k | Thieving and corner/purple chests | ** | |  | |
+
+
+
 
 
 
