@@ -61,6 +61,23 @@ Items are in order of collection log
 | ![image](https://fishbot.app/items/fisheye.png) | Fisheye |  | by using an `eyehook` on `pike`, thieving, corner chests | ** | |  | |
 | ![image](https://fishbot.app/items/rustycoin.png) | Rustycoin |  | thieving and corner chests | ** | |  | |
 | ![image](https://fishbot.app/items/lobsterclaw.png) | Lobsterclaw |  | by using a `lobster` | ** | |  | |
+| ![image](https://fishbot.app/items/fisheggs.png) | Fisheggs |  | by using a `gutter` on most fish | ** | |  | |
+| ![image](https://fishbot.app/items/pileofsand.png) | Pileofsand |  | found via mulching, fishing or corner chests | ** | |  | |
+| ![image](https://fishbot.app/items/vial.png) | Vial |  | via fishing, thieving and corner chests | ** | |  | |
+| ![image](https://fishbot.app/items/vialofsalt.png) | Vialofsalt |  | by using a `chisel` on `saltrock` or by fishing with a `saltcatcherrod` | ** | |  | |
+| ![image](https://fishbot.app/items/craftingpotion.png) | Craftingpotion |  | !make (7 crafting) | ** | |  | |
+| ![image](https://fishbot.app/items/thievingpotion.png) | Thievingpotion |  | !make (19 crafting) | ** | |  | |
+| ![image](https://fishbot.app/items/fishingpotion.png) | Fishingpotion |  | !make (32 crafting) | ** | |  | |
+| ![image](https://fishbot.app/items/mulchbomb.png) | Mulchbomb |  | !make (34 crafting) | ** | |  | |
+| ![image](https://fishbot.app/items/sortingpotion.png) | Sortingpotion |  | !make (37 crafting) | ** | |  | |
+
+
+
+
+
+
+
+
 
 
 
