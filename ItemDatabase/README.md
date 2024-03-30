@@ -8,7 +8,7 @@ Items are in order of collection log
 | -----| ---- | ----- | -------- | ------------| -------- | -------- | ------------ |
 | ![image](https://fishbot.app/items/shrimp.png) | Shrimp | 2 - 120 | Fishing (Level 1) | |  | | |
 | ![image](https://fishbot.app/items/anchovy.png) | Anchovy | 15 - 250 | Fishing (Level 6) | |  | | |
-| ![image](https://fishbot.app/items/shrimp.png) | Trout | 2 - 120 | Fishing (Level 1) | |  | | |
+| ![image](https://fishbot.app/items/trout.png) | Trout | 2 - 120 | Fishing (Level 1) | |  | | |
 | ![image](https://fishbot.app/items/pike.png) | Pike | 200 - 900 | Fishing (Level 6) | |  | | |
 | ![image](https://fishbot.app/items/lobster.png) | Lobster | 500 - 6000 | Fishing (Level 15) while mulched | |  | | |
 | ![image](https://fishbot.app/items/babyeel.png) | Babyeel | 500 - 9000 | Fishing (Level 1) with an eel rod | |  | | |
