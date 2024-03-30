@@ -132,6 +132,23 @@ Known item drops:
 | ![image](https://fishbot.app/items/platinumlockpick.png) | Platinumlockpick |  | Thieving with a `luckyrose` in your inventory | +40% chance of double thieve |
 | ![image](https://fishbot.app/items/enchantedlockpick.png) | Enchantedlockpick |  | Goldlockpick + Orbcore | +150% thieve xp but cannot gain items |
 
+
+
+
+# Luckyrose
+![image](https://fishbot.app/items/luckyrose.png)
+
+If you have a `luckyrose` in your inventory, you will have a very small chance to get a special item from your thieves.
+
+
+| Icon | Name | Location | Effect |
+| ------ | ------ | ------- | ---- |
+| ![image](https://fishbot.app/items/lobsterbarrel.png) | Lobsterbarrel | Shore | If you have over 1500 lobster in your inv, +12% lobster caught when fishing | 
+| ![image](https://fishbot.app/items/platinumlockpick.png) | Platinumlockpick | Shop | 40% chance of double thieve | 
+| ![image](https://fishbot.app/items/gamblersglasses.png) | Gamblersglasses | Craftbox |  | 
+
+
+
 # Gear 
 
 
