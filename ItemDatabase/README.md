@@ -49,7 +49,6 @@ Items are in order of collection log
 | ![image](https://fishbot.app/items/incomecharm.png) | Incomecharm | 200k | Shop, thieving and corner chests | ** | |  | |
 | ![image](https://fishbot.app/items/interestcharm.png) | Interestcharm | 5m | Shop, pirate chests | ** | |  | |
 | ![image](https://fishbot.app/items/sipperscharm.png) | Sipperscharm | 140k | Thieving and corner/purple chests | ** | |  | |
-
 | ![image](https://fishbot.app/items/gamblersorb.png) | Gamblersorb | 450k | Shop, thieving and corner chests | ** | |  | |
 | ![image](https://fishbot.app/items/slappersorb.png) | Slappersorb | 450k | Shop, thieving and corner chests | ** | |  | |
 | ![image](https://fishbot.app/items/incomeorb.png) | Incomeorb | 450k | Shop, thieving and corner chests | ** | |  | |
