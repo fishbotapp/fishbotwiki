@@ -136,7 +136,7 @@ Known item drops:
 
 
 # Luckyrose
-![image](https://fishbot.app/items/luckyrose.png)
+![image](https://fishbot.app/items/luckyrose.png)![image](https://fishbot.app/items/luckyrose.png)![image](https://fishbot.app/items/luckyrose.png)
 
 If you have a `luckyrose` in your inventory, you will have a very small chance to get a special item from your thieves.
 
@@ -145,7 +145,7 @@ If you have a `luckyrose` in your inventory, you will have a very small chance t
 | ------ | ------ | ------- | ---- |
 | ![image](https://fishbot.app/items/lobsterbarrel.png) | Lobsterbarrel | Shore | If you have over 1500 lobster in your inv, +12% lobster caught when fishing | 
 | ![image](https://fishbot.app/items/platinumlockpick.png) | Platinumlockpick | Shop | 40% chance of double thieve | 
-| ![image](https://fishbot.app/items/gamblersglasses.png) | Gamblersglasses | Craftbox |  | 
+| ![image](https://fishbot.app/items/gamblersglasses.png) | Gamblersglasses | Craftbox | -50% gamble & slots cooldown,  +1 roll in duels, 1.5x gamble & slots limit, +3 extra free spins on any slots2 feature, +1% chance of mysteryprize. If worn: *+1% extra feech odds but  1 in 3000 chance to break per use*  | 
 
 
 
