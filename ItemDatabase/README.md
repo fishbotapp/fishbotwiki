@@ -26,4 +26,16 @@ Items are in order of collection log
 | ![image](https://fishbot.app/items/magicrod.png) | Magicrod | 800k | From shop, thieving and corner chests | *Fishes insanely well! An upgraded rod, better than most rods around town* | On the Rod slot |  | |
 | ![image](https://fishbot.app/items/enchantedrod.png) | Enchantedrod | 2m | From shop and purple chests | *Fishes with the power of the gods! A world class rod, much better than most rods in the world* | On the Rod slot |  | |
 | ![image](https://fishbot.app/items/premiumeelrod.png) | Premiumeelrod | 3.2m | !make (40 Crafting) | *Fishes exclusively for eels with +10% bonus to babyeel and eel caught. About as good as an enchanted rod* | On the Rod slot |  | |
+| ![image](https://fishbot.app/items/abyssalrod.png) | Abyssalrod | 4.5m | From shop and pirate chests | *Fishes with the power of the devil! An INSANE rod, much better than most rods in the world* | On the Rod slot |  | |
+| ![image](https://fishbot.app/items/mysticrod.png) | Mysticrod | 7m | From shop | *It sparkles, glows and you can just sense its powers, surely theres no known rod thats better in the whole galaxy!* | On the Rod slot |  | |
+| ![image](https://fishbot.app/items/ancientrod.png) | Ancientrod | 16m | From shop | *Its ancient, from our great ancestors. A sheer godly and powerful rod!* | On the Rod slot |  | |
+| ![image](https://fishbot.app/items/galacticrod.png) | Galacticrod | 40m | From shop | *A rod forged in the cosmos, a true magnificent galactic creation.* | On the Rod slot |  | |
+| ![image](https://fishbot.app/items/primalrod.png) | Primalrod | 100m | From shop | *Ancient and predating all of history, forged from dinosaur bones. Surely the strongest rod to ever exist.* | On the Rod slot |  | |
+| ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | Progalacticrod | 200m | From shop | *A tiny tiny bit better than galacticrod but gives +25% fishing xp.* | On the Rod slot |  | |
+| ![image](https://fishbot.app/items/primordialrod.png) | Primordialrod | 250m | From shop | *Ancient, from the primordial soup marking the genesis of life. Slightly better than the primalrod.* | On the Rod slot |  | |
+| ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | Oceanrod | 250m | From shop | *A deep sea rod, meaning it CANNOT be used for mulched fishing or catching shrimp or anchovy. Grants +1 fishing level when held, slightly better than the primordialrod* | On the Rod slot |  | |
+| ![image](https://fishbot.app/items/goodreel.png) | Goodreel | 250m | From shop | *A deep sea rod, meaning it CANNOT be used for mulched fishing or catching shrimp or anchovy. Grants +1 fishing level when held, slightly better than the primordialrod* | On the Rod slot |  | |
+
+
+
 
