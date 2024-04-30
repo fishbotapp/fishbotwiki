@@ -142,6 +142,11 @@ Aka the `head` gearslot
 
 ## Eyes
 
+| Icon | Name | Store Price | Obtained | Effect |
+| ------ | ------ | ----- | ------- | ---- |
+|  ![image](https://fishbot.app/items/luckyspotmonocle.png) | Luckyspotmonocle |  | Purples and Pirates |   When worn, gives an EXTRA +15% fish caught and 15%+ fishing exp when fishing at the lucky fishing spot (on top of the +10% boosts that already exist). Also, increases your chances to end up at the lucky lake spot.  |
+
+
 ## Gloves
 
 ## Chest
