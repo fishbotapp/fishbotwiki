@@ -134,9 +134,33 @@ Aka the `head` gearslot
 | ![image](https://fishbot.app/items/northshorecap.png) | Northshorecap | |Shore ([Thieve UDT](../Thieving/UDT.md))  | If worn: *gives +1% fishing xp for every person currently fishing on the north shore* |
 | ![image](https://fishbot.app/items/sneakerscap.png) | Sneakerscap | |Shop ([Thieve UDT](../Thieving/UDT.md)) | If worn: *You will get 1x charge for every time you thieve the shop. When payday 80 hits, you dispel the charges for thieve xp and thieving related items.* |
 | ![image](https://fishbot.app/items/tickerscap.png) | Tickerscap | |Craftbox ([Thieve UDT](../Thieving/UDT.md)) | If worn: *You will gather 1x charge for every time someone does a !make while you are fishing. When your trip ends, you dispel the charges for fishing and crafting xp, as well as a small chance of items.*|
-| ![image](https://fishbot.app/items/fishbovahat.png) | Fishbovahat | | Via !make |  |
+| ![image](https://fishbot.app/items/fishbovahat.png) | Fishbovahat | | Via !make | When worn, +1% all fish caught and +6% fishing xp , PRICE: $IRM 160k. NOTE: This item is not for sale from the store. |
 | ![image](https://fishbot.app/items/bluewizardhat.png) | Bluewizardhat | |  |   If worn: *gives a small chance of finding a crushedgem, crushedvial or glowblip from fishing* |
 | ![image](https://fishbot.app/items/goblinhat.png) | Goblinhat | |  |   If worn: *gives +7% trout gained from fishing,  +30% coins from thieving,and 3% chance to get a free goblinmysterysack when claiming goblin events* |
+
+## Face
+
+## Eyes
+
+## Gloves
+
+## Chest
+
+## Legs
+
+## Boots
+| Icon | Name | Store Price | Obtained | Effect |
+| ------ | ------ | ----- | ------- | ---- |
+|  ![image](https://fishbot.app/items/clawgetterboots.png) | Clawgetterboots |  | via !make |   If you ever fish up over 40 lobster in a single trip, you will get a free lobsterclaw. 1 in 250 chance to break per activation. If worn, 1 in 750 chance to break., PRICE: $IRM 190k. NOTE: This item is not for sale from the store. |
+
+
+
+## Seat
+
+
+
+
+
 
 ### Rustycap
 ![image](https://fishbot.app/items/rustycap.png) 
