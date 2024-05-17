@@ -1,6 +1,17 @@
 
 # Fishbot.app Wiki #
 
+Latest Game Update 
+
+# 3.1 Bugfixes and changes `2024-05-17`
+- Fishmarkets now will trickle in their stock, instead of receiving it all in one big wave
+- Fishmarkets now have a random chance each day to get random new stock in
+- Fishmarkets (now that they trickle stock in) will receive 1 in every 4 fish now (previously was 1 in 5.5)
+- Bugs fixed with Shark fishing and compensation given
+- Few new thieve alias added. Example: `!thieve c` and `!thieve ub`
+
+-------------------------------
+
 Built by the community, for the community!
 
 - [Item Database](./ItemDatabase/README.md)
