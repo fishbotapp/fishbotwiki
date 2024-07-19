@@ -3,12 +3,16 @@
 
 Latest Game Update 
 
-# 3.1 Bugfixes and changes `2024-05-17`
-- Fishmarkets now will trickle in their stock, instead of receiving it all in one big wave
-- Fishmarkets now have a random chance each day to get random new stock in
-- Fishmarkets (now that they trickle stock in) will receive 1 in every 4 fish now (previously was 1 in 5.5)
-- Bugs fixed with Shark fishing and compensation given
-- Few new thieve alias added. Example: `!thieve c` and `!thieve ub`
+# 3.2 Fun update - 2024-07-15
+Keepin the game fresh while we waiting for boss battles!
+
+- 12 new rare and fun items findable in purple/pirate/mysteryprizes
+- +10% purple chest spawn chance
+- +8% pirate chest spawn chance
+- +5% goblin spawn chance
+- +5% bova spawn chance
+- +2% salesman spawn chance
+Various weaker items taken off the purple/pirate/mysteryprize droptable
 
 -------------------------------
 
