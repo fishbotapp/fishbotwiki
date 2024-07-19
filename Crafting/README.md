@@ -20,10 +20,9 @@ Most (but not all) crafting is done via the [!make command](./Make.md)
 ![image](https://fishbot.app/items/chisel.png) Level 29: `!use uncutlapis` to chisel an `uncutlapis` into a `lapis`\
 ![image](https://fishbot.app/items/chisel.png) Level 31: `!use uncutemerald` to chisel an `uncutemarald` into an `emerald`\
 ![image](https://fishbot.app/items/chisel.png) Level 33: `!use uncutamethyst` to chisel an `uncutamethyst` into an `amethyst`\
-![image](https://fishbot.app/items/chisel.png) Level 35: `!use uncutonyx` to chisel an `uncutonyx` into an `onyx`
-
-![image](https://fishbot.app/items/orbcore.png) Level 48: To combine 3x `___orb` and 1x `orbcore` to make 1x `___relic`
-![image](https://fishbot.app/items/orbcore.png) Level 60: To combine 3x `___relic` and 2x `orbcore` to make 1x `___requiem`
+![image](https://fishbot.app/items/chisel.png) Level 35: `!use uncutonyx` to chisel an `uncutonyx` into an `onyx`\
+![image](https://fishbot.app/items/orbcore.png) Level 48: To combine 3x `___orb` and 1x `orbcore` to make 1x `___relic`\
+![image](https://fishbot.app/items/orbcore.png) Level 60: To combine 3x `___relic` and 2x `orbcore` to make 1x `___requiem`\
 
 
 
