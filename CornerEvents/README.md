@@ -53,5 +53,16 @@ Known holiday events:
 
 -----------------------------
 
+
+#Boosting Corner Events
+
+Various items can change/boost/trigger off of corner events.
+
+| Icon | Name | Store Price | Obtained | Effect |
+| ------ | ------ | ----- | ------- | ---- |
+| ![image](https://fishbot.app/items/spycoat.png) | Spycoat | 550k | Pirates/Purples |  If worn, the next time you turncoat an enemy item chest, you will get 10x rewards |
+| ![image](https://fishbot.app/items/ghostspeakamulet.png) | Ghostspeakamulet | 50m | Salesman (75-150m) |  EQUIPTABLE: on the `neck` slot! DESCRIPTION: If this is in your inv, grants +50% exp from ghostly chests. If !used, 75% chance a ghostly chest will appear next payday. If worn, grants an extra +20% exp from ghostly chests. |
+
+
 [Home](https://fishbotapp.github.io/fishbotwiki/)
 
