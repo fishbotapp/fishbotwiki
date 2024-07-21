@@ -54,7 +54,7 @@ Known holiday events:
 -----------------------------
 
 
-#Boosting Corner Events
+# Boosting Corner Events
 
 Various items can change/boost/trigger off of corner events.
 
@@ -62,6 +62,9 @@ Various items can change/boost/trigger off of corner events.
 | ------ | ------ | ----- | ------- | ---- |
 | ![image](https://fishbot.app/items/spycoat.png) | Spycoat | 550k | Pirates/Purples |  If worn, the next time you turncoat an enemy item chest, you will get 10x rewards |
 | ![image](https://fishbot.app/items/ghostspeakamulet.png) | Ghostspeakamulet | 50m | Salesman (75-150m) |  EQUIPTABLE: on the `neck` slot! DESCRIPTION: If this is in your inv, grants +50% exp from ghostly chests. If !used, 75% chance a ghostly chest will appear next payday. If worn, grants an extra +20% exp from ghostly chests. |
+| ![image](https://fishbot.app/items/spiritstaff.png) | Spiritstaff | 1.5m | Pirate Chests |  If a ghostly chest is up and you !use spiritstaff, you will have a 1 in 5 chance of a free xpbag. 1 in 60 chance to break per use |
+| ![image](https://fishbot.app/items/fencer.png) | Fencer | 1.6m | Pirate Chests |   If a pirate chest is up and you !use fencer, you will threaten the pirates for a 1 in 12 chance of free pirate loot. 1 in 40 chance to break per use. |
+| ![image](https://fishbot.app/items/rapier.png) | Rapier | 1.2m | Pirate Chests |  If a pirate chest is up and you !use rapier, you will threaten the pirates for a 1 in 4 chance of a free dubloon. 1 in 40 chance to break per use. |
 
 
 [Home](https://fishbotapp.github.io/fishbotwiki/)
