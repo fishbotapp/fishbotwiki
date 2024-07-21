@@ -163,6 +163,18 @@ Note: `thievexpammy` and `thievetimeammy` will cancel eachother out if you have 
 
 
 
+# Rares
+
+You can find these in pirates/purples and they will help you with thieving in various ways
+
+| Icon | Name | Store Price | Obtained | Effect |
+| ------ | ------ | ----- | ------- | ---- |
+| ![image](https://fishbot.app/items/sinnerschance.png) | Sinnerschance | 190k | Pirates/Purples | When !used, will reset your thieving cooldown. 1 in 18 chance to break per use |
+| ![image](https://fishbot.app/items/spycoat.png) | Spycoat | 550k | Pirates/Purples |  If worn, the next time you turncoat an enemy item chest, you will get 10x rewards |
+
+
+
+
 -----------------------------
 
 [Home](https://fishbotapp.github.io/fishbotwiki/)
