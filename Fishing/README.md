@@ -89,7 +89,8 @@ Note: `craftxpanklet` and `craftsupplyanklet` will cancel eachother out if you h
 | ![image](https://fishbot.app/items/fishxpring.png) | Fishxpring | 2m | Shop | +10% fishing xp. Can be imbued 15 times with 1x `sapphire`, each imbue gives +1% fishing xp gained |
 | ![image](https://fishbot.app/items/fishfortunering.png) | Fishfortunering | 2m | Shop | +10% all fish gained. Can be imbued 15 times with 1x `emerald`, each imbue gives +1% all fish gained.  |
 | ![image](https://fishbot.app/items/thievexpammy.png) | Thievexpammy | 1.6m | Shop | gives 14% extra exp for every thieve you do. Can be imbued 15 times with 1x `ruby`, each imbue gives +1% thieving xp gained |
-| ![image](https://fishbot.app/items/thievetimeammy.png) | Thievetimeammy | 1.6m | Shop | reduces the wait time between thieves by 10%. Can be imbued 15 times with 1x `amethyst`, each imbue gives +1% thieving wait time gained |
+| ![image](https://fishbot.app/items/thievetimeammy.png) | Thievetimeammy | 1.6m | Shop | reduces the wait time between thieves by 10%. Can be imbued 15 times with 1x `amethyst`, each imbue reduces thieving wait time by 1% |
+
 Note: When a piece of jewellery is 100% imbued, grants various "superpowers" when using a blingbox.
 
 
