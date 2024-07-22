@@ -108,6 +108,25 @@ Items are in order of collection log
 | ![image](https://fishbot.app/items/glowingsickle.png) | Glowingsickle |  |  | ** | |  | |
 
 
+| ![image](https://fishbot.app/items/mealer.png) | Mealer |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/mealexpansionpack.png) | Mealexpansionpack |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/fishmeal.png) | Fishmeal |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/mealshield.png) | Mealshield |  |  | ** | |  | |
+
+| ![image](https://fishbot.app/items/lobsterlure.png) | Lobsterlure |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/anchovyanchor.png) | Anchovyanchor |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/trouttrappa.png) | Trouttrappa |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/pikepicker.png) | Pikepicker |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/pikepecker.png) | Pikepecker |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/swordsnatcher.png) | Swordsnatcher |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/catnip.png) | Catnip |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/eelbait.png) | Eelbait |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/primeeelbait.png) | Primeeelbait |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/angludo.png) | Angludo |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/rainbowtrout.png) | Rainbowtrout |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/albinolobster.png) | Albinolobster |  |  | ** | |  | |
+
+
 
 
 
