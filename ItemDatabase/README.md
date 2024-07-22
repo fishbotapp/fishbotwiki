@@ -59,7 +59,6 @@ Items are in order of collection log
 | ![image](https://fishbot.app/items/mulch.png) | Mulch |  | by !makemulch (requires 25x `anchovy` and 15 fishing) | ** | |  | |
 | ![image](https://fishbot.app/items/megamulch.png) | Megamulch |  | by !use mulch (requires 200x `shrimp` and 40x `mulch` and 25 fishing) | ** | |  | |
 | ![image](https://fishbot.app/items/bova.png) | Bova |  | found via harvesting a bova bush | ** | |  | |
-| ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ? | |  |  | |  | |
 | ![image](https://fishbot.app/items/fisheye.png) | Fisheye |  | by using an `eyehook` on `pike`, thieving, corner chests | ** | |  | |
 | ![image](https://fishbot.app/items/rustycoin.png) | Rustycoin |  | thieving and corner chests | ** | |  | |
 | ![image](https://fishbot.app/items/lobsterclaw.png) | Lobsterclaw |  | by using a `lobster` | ** | |  | |
@@ -70,7 +69,6 @@ Items are in order of collection log
 | ![image](https://fishbot.app/items/craftingpotion.png) | Craftingpotion |  | !make (7 crafting) | ** | |  | |
 | ![image](https://fishbot.app/items/thievingpotion.png) | Thievingpotion |  | !make (19 crafting) | ** | |  | |
 | ![image](https://fishbot.app/items/fishingpotion.png) | Fishingpotion |  | !make (32 crafting) | ** | |  | |
-| ![image](https://fishbot.app/items/superfishingpotion.png) | Superfishingpotion | | !make ( crafting) | *Boosts fishing level by 9* | |  | |
 | ![image](https://fishbot.app/items/mulchbomb.png) | Mulchbomb |  | !make (34 crafting) | ** | |  | |
 | ![image](https://fishbot.app/items/sortingpotion.png) | Sortingpotion |  | !make (37 crafting) | ** | |  | |
 | ![image](https://fishbot.app/items/gamblerspotion.png) | Gamblerspotion |  | !make (42 crafting) | ** | |  | |
@@ -78,9 +76,9 @@ Items are in order of collection log
 | ![image](https://fishbot.app/items/extendedcraftingpotion.png) | Extendedcraftingpotion |  | !make (37 crafting) | ** | |  | |
 | ![image](https://fishbot.app/items/extendedthievingpotion.png) | Extendedthievingpotion |  | !make (41 crafting) | ** | |  | |
 | ![image](https://fishbot.app/items/extendedfishingpotion.png) | Extendedfishingpotion |  | !make (46 crafting) | ** | |  | |
-| ![image](https://fishbot.app/items/supercraftingpotion.png) | Supercraftingpotion |  | !make (39 crafting) | ** | |  | |
-| ![image](https://fishbot.app/items/superthievingpotion.png) | Superthievingpotion |  | !make (48 crafting) | ** | |  | |
-| ![image](https://fishbot.app/items/superfishingpotion.png) | Superfishingpotion |  | !make (52 crafting) | ** | |  | |
+| ![image](https://fishbot.app/items/supercraftingpotion.png) | Supercraftingpotion |  | !make (39 crafting) | *Boosts crafting level by 9* | |  | |
+| ![image](https://fishbot.app/items/superthievingpotion.png) | Superthievingpotion |  | !make (48 crafting) | *Boosts thieving level by 9* | |  | |
+| ![image](https://fishbot.app/items/superfishingpotion.png) | Superfishingpotion |  | !make (52 crafting) | *Boosts fishing level by 9* | |  | |
 | ![image](https://fishbot.app/items/bovaberrypotion.png) | Bovaberrypotion |  | !make (53 crafting) | ** | |  | |
 | ![image](https://fishbot.app/items/extendedgamblerspotion.png) | Extendedgamblerspotion |  | !make (54 crafting) | ** | |  | |
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738)  | ??? |  |  | ** | |  | |
