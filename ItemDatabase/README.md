@@ -90,8 +90,22 @@ Items are in order of collection log
 |  ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
 |  ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
 |  ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
-
-
+| ![image](https://fishbot.app/items/straw.png) | Straw |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/eyehook.png) | Eyehook |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/hammer.png) | Hammer |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/mulchmallet.png) | Mulchmallet |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/chisel.png) | Chisel |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/craftingknife.png) | Craftingknife |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/gutter.png) | Gutter |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/sickle.png) | Sickle |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/glowingstraw.png) | Glowingstraw |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/glowingeyehook.png) | Glowingeyehook |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/glowinghammer.png) | Glowinghammer |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/glowingmulchmallet.png) | Glowingmulchmallet |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/glowingchisel.png) | Glowingchisel |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/glowingcraftingknife.png) | Glowingcraftingknife |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/glowinggutter.png) | Glowinghutter |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/glowingsickle.png) | Glowingsickle |  |  | ** | |  | |
 
 
 
