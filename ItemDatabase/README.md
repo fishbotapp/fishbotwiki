@@ -120,6 +120,27 @@ Items are in order of collection log
 | ![image](https://fishbot.app/items/angludo.png) | Angludo |  |  | *+15% angler caught. Also, (if lvl 50 or higher fishing) grants 1 in 700 chance PER minute spent on the lake to get a free angler* | |  | |
 | ![image](https://fishbot.app/items/rainbowtrout.png) | Rainbowtrout |  |  | *grants +2% exp for fishing trout and +1% trout caught. Counts for all fishing trips and you can stack as many as you like! (up to a max of 50x rainbowtrout)* | |  | |
 | ![image](https://fishbot.app/items/albinolobster.png) | Albinolobster |  |  | *grants +1% lobster gained on fishing trips and you can stack as many of them as you like! (up to a max of 100x)* | |  | |
+| ![image](https://fishbot.app/items/lobsterbarrel.png) | lobsterbarrel |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/lobsterstatue.png) | lobsterstatue |  |  | ** | |  | |
+| ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/minilockpick.png) | minilockpick |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/lockpick.png) | lockpick |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/bronzelockpick.png) | bronzelockpick |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/silverlockpick.png) | silverlockpick |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/goldlockpick.png) | goldlockpick |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/platinumlockpick.png) | platinumlockpick |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/enchantedlockpick.png) | enchantedlockpick |  |  | ** | |  | |
+| ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ???? |  |  | ** | |  | |
+| ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ???? |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/barrelnote.png) | barrelnote |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/otherbarrelnote.png) | otherbarrelnote |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/shorenote.png) | shorenote |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/shopnote.png) | shopnote |  |  | ** | |  | |
+| ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ???? |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/coinbattery.png) | coinbattery |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/shrimpbattery.png) | shrimpbattery |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/lobsterbattery.png) | lobsterbattery |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/vippass.png) | vippass |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/weatherorb.png) | Weatherorb |  |  | *Found in purple/pirate chests. Can be !use weatherorb once per reset to change the weather conditions* | |  | |
 | ![image](https://fishbot.app/items/spiritstaff.png) | Spiritstaff |  |  | *Found in purple/pirate chests. Can be !use spiritstaff when a ghostlychest is present for a chance of an expbag* | |  | |
 
