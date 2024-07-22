@@ -58,6 +58,7 @@ Items are in order of collection log
 | ![image](https://fishbot.app/items/crushedvial.png) | Crushedvial |  | Crushing `vial` with `hammer` | ** | |  | |
 | ![image](https://fishbot.app/items/mulch.png) | Mulch |  | by !makemulch (requires 25x `anchovy` and 15 fishing) | ** | |  | |
 | ![image](https://fishbot.app/items/megamulch.png) | Megamulch |  | by !use mulch (requires 200x `shrimp` and 40x `mulch` and 25 fishing) | ** | |  | |
+| ![image](https://fishbot.app/items/bova.png) | Bova |  | found via harvesting a bova bush | ** | |  | |
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ? | |  |  | |  | |
 | ![image](https://fishbot.app/items/fisheye.png) | Fisheye |  | by using an `eyehook` on `pike`, thieving, corner chests | ** | |  | |
 | ![image](https://fishbot.app/items/rustycoin.png) | Rustycoin |  | thieving and corner chests | ** | |  | |
@@ -71,7 +72,7 @@ Items are in order of collection log
 | ![image](https://fishbot.app/items/fishingpotion.png) | Fishingpotion |  | !make (32 crafting) | ** | |  | |
 | ![image](https://fishbot.app/items/mulchbomb.png) | Mulchbomb |  | !make (34 crafting) | ** | |  | |
 | ![image](https://fishbot.app/items/sortingpotion.png) | Sortingpotion |  | !make (37 crafting) | ** | |  | |
-| ![image](https://fishbot.app/items/bova.png) | Bova |  | found via harvesting a bova bush | ** | |  | |
+
 
 
 
