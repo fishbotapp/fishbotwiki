@@ -195,6 +195,46 @@ Items are in order of collection log
 | ![image](https://fishbot.app/items/saltdispencer.png) | saltdispencer |  |  | ** | |  
 | ![image](https://fishbot.app/items/greensaltdispencer.png) | greensaltdispencer |  |  | ** | |  
 | ![image](https://fishbot.app/items/redsaltdispencer.png) | redsaltdispencer |  |  | ** | |  
+| ![image](https://fishbot.app/items/saltypants.png) | saltypants |  |  | ** | |  
+| ![image](https://fishbot.app/items/vialpack.png) | vialpack |  |  | ** | |  
+| ![image](https://fishbot.app/items/mulchpack.png) | mulchpack |  |  | ** | |  
+| ![image](https://fishbot.app/items/fisheyepack.png) | fisheyepack |  |  | ** | |  
+| ![image](https://fishbot.app/items/rustycoinpack.png) | rustycoinpack |  |  | ** | |  
+| ![image](https://fishbot.app/items/lobsterclawpack.png) | lobsterclawpack |  |  | ** | |  
+| ![image](https://fishbot.app/items/leatherpack.png) | leatherpack |  |  | ** | |  
+| ![image](https://fishbot.app/items/guildpack.png) | guildpack |  |  | ** | |  
+| ![image](https://fishbot.app/items/automulcher.png) | automulcher |  |  | ** | |  
+| ![image](https://fishbot.app/items/shrimperslamp.png) | shrimperslamp |  |  | ** | |  
+| ![image](https://fishbot.app/items/chovylamp.png) | chovylamp |  |  | ** | |  
+| ![image](https://fishbot.app/items/sleeperslamp.png) | sleeperslamp |  |  | ** | |  
+| ![image](https://fishbot.app/items/troutylamp.png) | troutylamp |  |  | ** | |  
+| ![image](https://fishbot.app/items/mulcherslamp.png) | mulcherslamp |  |  | ** | |  
+| ![image](https://fishbot.app/items/profishinglamp.png) | profishinglamp |  |  | ** | |  
+|  ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ???? |  |  | ** | | 
+| ![image](https://fishbot.app/items/bluefishbowl.png) | bluefishbowl |  |  | ** | |  
+| ![image](https://fishbot.app/items/greenfishbowl.png) | greenfishbowl |  |  | ** | |  
+| ![image](https://fishbot.app/items/powershards.png) | powershards |  |  | ** | |  
+| ![image](https://fishbot.app/items/speedshards.png) | speedshards |  |  | ** | |  
+| ![image](https://fishbot.app/items/sapphiresinker.png) | sapphiresinker |  |  | ** | |  
+| ![image](https://fishbot.app/items/rubysinker.png) | rubysinker |  |  | ** | |  
+| ![image](https://fishbot.app/items/onyxsinker.png) | onyxsinker |  |  | ** | |  
+| ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ???? |  |  | ** | |  
+| ![image](https://fishbot.app/items/chiselheatstone.png) | chiselheatstone |  |  | ** | |  
+| ![image](https://fishbot.app/items/rubylocket.png) | rubylocket |  |  | ** | |  
+| ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ???? |  |  | ** | |  
+| ![image](https://fishbot.app/items/maniceggeye.png) | maniceggeye |  |  | ** | |  
+| ![image](https://fishbot.app/items/gamblersglasses.png) | gamblersglasses |  |  | ** | |  
+|  ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ????? |  |  | ** | |  
+| ![image](https://fishbot.app/items/orbcore.png) | orbcore |  |  | ** | |  
+| ![image](https://fishbot.app/items/smallxpbag.png) | smallxpbag |  |  | ** | |  
+| ![image](https://fishbot.app/items/medxpbag.png) | medxpbag |  |  | ** | |  
+| ![image](https://fishbot.app/items/bigxpbag.png) | bigxpbag |  |  | ** | |  
+| ![image](https://fishbot.app/items/hugexpbag.png) | hugexpbag |  |  | ** | |  
+| ![image](https://fishbot.app/items/massivexpbag.png) | massivexpbag |  |  | ** | |  
+| ![image](https://fishbot.app/items/bova.png) | bova |  |  | ** | |  
+| ![image](https://fishbot.app/items/fishberry.png) | fishberry |  |  | ** | |  
+| ![image](https://fishbot.app/items/thieveberry.png) | thieveberry |  |  | ** | |  
+| ![image](https://fishbot.app/items/craftberry.png) | craftberry |  |  | ** | |  
 | ![image](https://fishbot.app/items/weatherorb.png) | Weatherorb |  |  | *Found in purple/pirate chests. Can be !use weatherorb once per reset to change the weather conditions* | |  | |
 | ![image](https://fishbot.app/items/spiritstaff.png) | Spiritstaff |  |  | *Found in purple/pirate chests. Can be !use spiritstaff when a ghostlychest is present for a chance of an expbag* | |  | |
 
