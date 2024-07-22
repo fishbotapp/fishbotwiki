@@ -41,7 +41,7 @@ Goblins will either give you trout or a mystery-sack of goblin goods.\
 
 ## Travelling Salesman
 
-The travelling salesman sells the rarest artifacts known throughout the lake! (Two items for sale per spawn).\
+The travelling salesman sells the rarest artifacts known throughout the lake! (Two items for sale per spawn).
 
 
 ## Holiday
