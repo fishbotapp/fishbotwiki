@@ -140,7 +140,61 @@ Items are in order of collection log
 | ![image](https://fishbot.app/items/coinbattery.png) | coinbattery |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/shrimpbattery.png) | shrimpbattery |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/lobsterbattery.png) | lobsterbattery |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/vippass.png) | vippass |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/shrimppassport.png) | shrimppassport |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/anchovypassport.png) | anchovypassport |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/troutpassport.png) | troutpassport |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/pikepassport.png) | pikepassport |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/shrimpmarket.png) | shrimpmarket |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/anchovymarket.png) | anchovymarket |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/troutmarket.png) | troutmarket |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/pikemarket.png) | pikemarket |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/swordfishmarket.png) | swordfishmarket |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/lobstermarket.png) | lobstermarket |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/goodreel.png) | goodreel |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/greatreel.png) | greatreel |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/supremereel.png) | supremereel |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/goodgrip.png) | goodgrip |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/greatgrip.png) | greatgrip |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/supremegrip.png) | supremegrip |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/slots2.png) | slots2 |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/gamblebanner.png) | gamblebanner |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/eelskin.png) | eelskin |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/eelhide.png) | eelhide |  |  | ** | |  
+| ![image](https://fishbot.app/items/sharkeye.png) | sharkeye |  |  | ** | |  
+| ![image](https://fishbot.app/items/sharkskin.png) | sharkskin |  |  | ** | |  
+| ![image](https://fishbot.app/items/sharkhide.png) | sharkhide |  |  | ** | |  
+| ![image](https://fishbot.app/items/sharkfin.png) | sharkfin |  |  | ** | |  
+| ![image](https://fishbot.app/items/fishinglamp.png) | fishinglamp |  |  | ** | |  
+| ![image](https://fishbot.app/items/visiontotem.png) | visiontotem |  |  | ** | |  
+| ![image](https://fishbot.app/items/glasstotem.png) | glasstotem |  |  | ** | |  
+| ![image](https://fishbot.app/items/fishxpring.png) | fishxpring |  |  | ** | |  
+| ![image](https://fishbot.app/items/fishfortunering.png) | fishfortunering |  |  | ** | |  
+| ![image](https://fishbot.app/items/thievexpammy.png) | thievexpammy |  |  | ** | |  
+| ![image](https://fishbot.app/items/thievetimeammy.png) | thievetimeammy |  |  | ** | |  
+| ![image](https://fishbot.app/items/craftxpanklet.png) | craftxpanklet |  |  | ** | |  
+| ![image](https://fishbot.app/items/craftsupplyanklet.png) | craftsupplyanklet |  |  | ** | |  
+| ![image](https://fishbot.app/items/blingbox.png) | blingbox |  |  | ** | |  
+| ![image](https://fishbot.app/items/blingbuffer.png) | blingbuffer |  |  | ** | |  
+| ![image](https://fishbot.app/items/blingtrinket.png) | blingtrinket |  |  | ** | |  
+| ![image](https://fishbot.app/items/uncutsapphire.png) | uncutsapphire |  |  | ** | |  
+| ![image](https://fishbot.app/items/uncutemerald.png) | uncutemerald |  |  | ** | |  
+| ![image](https://fishbot.app/items/uncutruby.png) | uncutruby |  |  | ** | |  
+| ![image](https://fishbot.app/items/uncutamethyst.png) | uncutamethyst |  |  | ** | |  
+| ![image](https://fishbot.app/items/uncutlapis.png) | uncutlapis |  |  | ** | |  
+| ![image](https://fishbot.app/items/uncutonyx.png) | uncutonyx |  |  | ** | |  
+| ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ???? |  |  | ** | |  
+| ![image](https://fishbot.app/items/sapphire.png) | sapphire |  |  | ** | |  
+| ![image](https://fishbot.app/items/emerald.png) | emerald |  |  | ** | |  
+| ![image](https://fishbot.app/items/ruby.png) | ruby |  |  | ** | |  
+| ![image](https://fishbot.app/items/amethyst.png) | amethyst |  |  | ** | |  
+| ![image](https://fishbot.app/items/lapis.png) | lapis |  |  | ** | |  
+| ![image](https://fishbot.app/items/onyx.png) | onyx |  |  | ** | |  
+| ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ????? |  |  | ** | |  
+| ![image](https://fishbot.app/items/saltrock.png) | saltrock |  |  | ** | |  
+| ![image](https://fishbot.app/items/glasstrinket.png) | glasstrinket |  |  | ** | |  
+| ![image](https://fishbot.app/items/saltdispencer.png) | saltdispencer |  |  | ** | |  
+| ![image](https://fishbot.app/items/greensaltdispencer.png) | greensaltdispencer |  |  | ** | |  
+| ![image](https://fishbot.app/items/redsaltdispencer.png) | redsaltdispencer |  |  | ** | |  
 | ![image](https://fishbot.app/items/weatherorb.png) | Weatherorb |  |  | *Found in purple/pirate chests. Can be !use weatherorb once per reset to change the weather conditions* | |  | |
 | ![image](https://fishbot.app/items/spiritstaff.png) | Spiritstaff |  |  | *Found in purple/pirate chests. Can be !use spiritstaff when a ghostlychest is present for a chance of an expbag* | |  | |
 
