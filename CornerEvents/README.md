@@ -45,7 +45,7 @@ The travelling salesman sells the rarest artifacts known throughout the lake! (T
 
 ## Weatherorb
 
-Can only be claimed once per person per spawn. Once claimed will change the weather on the lake! Weather conditions vary eg. "Thunder" 20% lobster caught.
+Can only be claimed once per person per spawn. Once claimed will change the weather on the lake! Weather conditions vary eg. "Thunder" 20% lobster caught. Each weather condition lasts 150 paydays
 
 
 ## Holiday
