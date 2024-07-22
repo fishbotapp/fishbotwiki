@@ -49,6 +49,7 @@ A new player can:
 | ![image](https://fishbot.app/items/catfish.png) | Catfish | 40 | |
 | ![image](https://fishbot.app/items/angler.png) | Angler | 50 | |
 | ![image](https://fishbot.app/items/eel.png) | Eel | 58 | An eel rod |
+| ![image](https://fishbot.app/items/shark.png) | Shark | 30 | A Harpoon |
 
 
 # Rods 
