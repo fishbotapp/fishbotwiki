@@ -119,7 +119,7 @@ Items are in order of collection log
 | ![image](https://fishbot.app/items/primeeelbait.png) | Primeeelbait |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/angludo.png) | Angludo |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/rainbowtrout.png) | Rainbowtrout |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/albinolobster.png) | Albinolobster |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/albinolobster.png) | Albinolobster |  |  | *grants +1% lobster gained on fishing trips and you can stack as many of them as you like! (up to a max of 100x)* | |  | |
 
 
 
