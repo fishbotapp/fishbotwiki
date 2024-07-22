@@ -121,7 +121,7 @@ Items are in order of collection log
 | ![image](https://fishbot.app/items/rainbowtrout.png) | Rainbowtrout |  |  | *grants +2% exp for fishing trout and +1% trout caught. Counts for all fishing trips and you can stack as many as you like! (up to a max of 50x rainbowtrout)* | |  | |
 | ![image](https://fishbot.app/items/albinolobster.png) | Albinolobster |  |  | *grants +1% lobster gained on fishing trips and you can stack as many of them as you like! (up to a max of 100x)* | |  | |
 | ![image](https://fishbot.app/items/weatherorb.png) | Weatherorb |  |  | *Found in purple/pirate chests. Can be !use weatherorb once per reset to change the weather conditions* | |  | |
-| ![image](https://fishbot.app/items/spiritstaff.png) | Spiritstaff |  |  | *Found in purple/pirate chests. Can be !use spiritstaff when a ghostlychest is preset for a chance for an expbag* | |  | |
+| ![image](https://fishbot.app/items/spiritstaff.png) | Spiritstaff |  |  | *Found in purple/pirate chests. Can be !use spiritstaff when a ghostlychest is present for a chance for an expbag* | |  | |
 
 
 
