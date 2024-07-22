@@ -111,14 +111,14 @@ Items are in order of collection log
 | ![image](https://fishbot.app/items/lobsterlure.png) | Lobsterlure |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/anchovyanchor.png) | Anchovyanchor |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/trouttrappa.png) | Trouttrappa |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/pikepicker.png) | Pikepicker |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/pikepecker.png) | Pikepecker |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/swordsnatcher.png) | Swordsnatcher |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/catnip.png) | Catnip |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/eelbait.png) | Eelbait |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/primeeelbait.png) | Primeeelbait |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/angludo.png) | Angludo |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/rainbowtrout.png) | Rainbowtrout |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/pikepicker.png) | Pikepicker |  |  | *+10% pike caught* | |  | |
+| ![image](https://fishbot.app/items/pikepecker.png) | Pikepecker |  |  | *pikes give 10% more exp when fished* | |  | |
+| ![image](https://fishbot.app/items/swordsnatcher.png) | Swordsnatcher |  |  | *+5% swordfish caught. Also, if you catch 3 or more swordfish in a single fishing trip, it will add 3 more* | |  | |
+| ![image](https://fishbot.app/items/catnip.png) | Catnip |  |  | *+10% catfish caught. Also, each pike you catch will give a 1 in 60 chance to upgrade to a catfish* | |  | |
+| ![image](https://fishbot.app/items/eelbait.png) | Eelbait |  |  | *+12% eels/babyeels caught and 2% chance to double all eels/babyeels caught* | |  | |
+| ![image](https://fishbot.app/items/primeeelbait.png) | Primeeelbait |  |  | *eels/babyeels caught each trip will boost randomly between +10% and +100%* | |  | |
+| ![image](https://fishbot.app/items/angludo.png) | Angludo |  |  | *+15% angler caught. Also, (if lvl 50 or higher fishing) grants 1 in 700 chance PER minute spent on the lake to get a free angler* | |  | |
+| ![image](https://fishbot.app/items/rainbowtrout.png) | Rainbowtrout |  |  | *grants +2% exp for fishing trout and +1% trout caught. Counts for all fishing trips and you can stack as many as you like! (up to a max of 50x rainbowtrout)* | |  | |
 | ![image](https://fishbot.app/items/albinolobster.png) | Albinolobster |  |  | *grants +1% lobster gained on fishing trips and you can stack as many of them as you like! (up to a max of 100x)* | |  | |
 
 
