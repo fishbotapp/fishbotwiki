@@ -106,13 +106,10 @@ Items are in order of collection log
 | ![image](https://fishbot.app/items/glowingcraftingknife.png) | Glowingcraftingknife |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/glowinggutter.png) | Glowinghutter |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/glowingsickle.png) | Glowingsickle |  |  | ** | |  | |
-
-
 | ![image](https://fishbot.app/items/mealer.png) | Mealer |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/mealexpansionpack.png) | Mealexpansionpack |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/fishmeal.png) | Fishmeal |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/mealshield.png) | Mealshield |  |  | ** | |  | |
-
 | ![image](https://fishbot.app/items/lobsterlure.png) | Lobsterlure |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/anchovyanchor.png) | Anchovyanchor |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/trouttrappa.png) | Trouttrappa |  |  | ** | |  | |
