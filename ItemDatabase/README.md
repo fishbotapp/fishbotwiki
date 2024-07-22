@@ -108,9 +108,9 @@ Items are in order of collection log
 | ![image](https://fishbot.app/items/mealexpansionpack.png) | Mealexpansionpack |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/fishmeal.png) | Fishmeal |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/mealshield.png) | Mealshield |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/lobsterlure.png) | Lobsterlure |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/anchovyanchor.png) | Anchovyanchor |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/trouttrappa.png) | Trouttrappa |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/lobsterlure.png) | Lobsterlure |  |  | *when you fish for lobsters you will get 10% more* | |  | |
+| ![image](https://fishbot.app/items/anchovyanchor.png) | Anchovyanchor |  |  | *theres a 10% chance to double your anchovies caught* | |  | |
+| ![image](https://fishbot.app/items/trouttrappa.png) | Trouttrappa |  |  | *you will get 7% more trout and trout caught give 7% more exp* | |  | |
 | ![image](https://fishbot.app/items/pikepicker.png) | Pikepicker |  |  | *+10% pike caught* | |  | |
 | ![image](https://fishbot.app/items/pikepecker.png) | Pikepecker |  |  | *pikes give 10% more exp when fished* | |  | |
 | ![image](https://fishbot.app/items/swordsnatcher.png) | Swordsnatcher |  |  | *+5% swordfish caught. Also, if you catch 3 or more swordfish in a single fishing trip, it will add 3 more* | |  | |
@@ -120,7 +120,8 @@ Items are in order of collection log
 | ![image](https://fishbot.app/items/angludo.png) | Angludo |  |  | *+15% angler caught. Also, (if lvl 50 or higher fishing) grants 1 in 700 chance PER minute spent on the lake to get a free angler* | |  | |
 | ![image](https://fishbot.app/items/rainbowtrout.png) | Rainbowtrout |  |  | *grants +2% exp for fishing trout and +1% trout caught. Counts for all fishing trips and you can stack as many as you like! (up to a max of 50x rainbowtrout)* | |  | |
 | ![image](https://fishbot.app/items/albinolobster.png) | Albinolobster |  |  | *grants +1% lobster gained on fishing trips and you can stack as many of them as you like! (up to a max of 100x)* | |  | |
-
+| ![image](https://fishbot.app/items/weatherorb.png) | Weatherorb |  |  | *Found in purple/pirate chests. Can be !use weatherorb once per reset to change the weather conditions* | |  | |
+| ![image](https://fishbot.app/items/spiritstaff.png) | Spiritstaff |  |  | *Found in purple/pirate chests. Can be !use spiritstaff when a ghostlychest is preset for a chance for an expbag* | |  | |
 
 
 
