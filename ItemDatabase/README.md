@@ -71,6 +71,7 @@ Items are in order of collection log
 | ![image](https://fishbot.app/items/fishingpotion.png) | Fishingpotion |  | !make (32 crafting) | ** | |  | |
 | ![image](https://fishbot.app/items/mulchbomb.png) | Mulchbomb |  | !make (34 crafting) | ** | |  | |
 | ![image](https://fishbot.app/items/sortingpotion.png) | Sortingpotion |  | !make (37 crafting) | ** | |  | |
+| ![image](https://fishbot.app/items/bova.png) | Bova |  | found via harvesting a bova bush | ** | |  | |
 
 
 
