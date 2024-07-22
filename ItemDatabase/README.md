@@ -82,6 +82,15 @@ Items are in order of collection log
 | ![image](https://fishbot.app/items/superthievingpotion.png) | Superthievingpotion |  | !make (48 crafting) | ** | |  | |
 | ![image](https://fishbot.app/items/superfishingpotion.png) | Superfishingpotion |  | !make (52 crafting) | ** | |  | |
 | ![image](https://fishbot.app/items/bovaberrypotion.png) | Bovaberrypotion |  | !make (53 crafting) | ** | |  | |
+| ![image](https://fishbot.app/items/extendedgamblerspotion.png) | Extendedgamblerspotion |  | !make (54 crafting) | ** | |  | |
+| ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738)  | ??? |  |  | ** | |  | |
+|  ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738)  | ??? |  | | ** | |  | |
+|  ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738)  | ??? |  | | ** | |  | |
+| ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
+|  ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
+|  ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
+|  ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
+
 
 
 
