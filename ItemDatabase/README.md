@@ -73,6 +73,16 @@ Items are in order of collection log
 | ![image](https://fishbot.app/items/superfishingpotion.png) | Superfishingpotion | | !make ( crafting) | *Boosts fishing level by 9* | |  | |
 | ![image](https://fishbot.app/items/mulchbomb.png) | Mulchbomb |  | !make (34 crafting) | ** | |  | |
 | ![image](https://fishbot.app/items/sortingpotion.png) | Sortingpotion |  | !make (37 crafting) | ** | |  | |
+| ![image](https://fishbot.app/items/gamblerspotion.png) | Gamblerspotion |  | !make (42 crafting) | ** | |  | |
+| ![image](https://fishbot.app/items/alchemypotion.png) | Alchemypotion |  | !make (44 crafting) | ** | |  | |
+| ![image](https://fishbot.app/items/extendedcraftingpotion.png) | Extendedcraftingpotion |  | !make (37 crafting) | ** | |  | |
+| ![image](https://fishbot.app/items/extendedthievingpotion.png) | Extendedthievingpotion |  | !make (41 crafting) | ** | |  | |
+| ![image](https://fishbot.app/items/extendedfishingpotion.png) | Extendedfishingpotion |  | !make (46 crafting) | ** | |  | |
+| ![image](https://fishbot.app/items/supercraftingpotion.png) | Supercraftingpotion |  | !make (39 crafting) | ** | |  | |
+| ![image](https://fishbot.app/items/superthievingpotion.png) | Superthievingpotion |  | !make (48 crafting) | ** | |  | |
+| ![image](https://fishbot.app/items/superfishingpotion.png) | Superfishingpotion |  | !make (52 crafting) | ** | |  | |
+| ![image](https://fishbot.app/items/bovaberrypotion.png) | Bovaberrypotion |  | !make (53 crafting) | ** | |  | |
+
 
 
 
