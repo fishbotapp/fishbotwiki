@@ -260,7 +260,7 @@ Items are in order of collection log
 | ![image](https://fishbot.app/items/thievebovanecklace.png) | thievebovanecklace | | can !make at level 47 crafting |  | ** | |  
 | ![image](https://fishbot.app/items/craftbovanecklace.png) | craftbovanecklace |  | can !make at level 47 crafting | ** | |  
 | ![image](https://fishbot.app/items/fishbovagown.png) | fishbovagown |  |  can !make at level 51 crafting| ** | |  
-| ![image](https://fishbot.app/items/thievebovagown.png) | thievebovagown | can !make at level 51 crafting |  | ** | |  
+| ![image](https://fishbot.app/items/thievebovagown.png) | thievebovagown |  | can !make at level 51 crafting |  | ** | |  
 | ![image](https://fishbot.app/items/craftbovagown.png) | craftbovagown |  | can !make at level 51 crafting | ** | |  
 | ![image](https://fishbot.app/items/fishbovaring.png) | fishbovaring |  | can !make at level 53 crafting | ** | |  
 | ![image](https://fishbot.app/items/thievebovaring.png) | thievebovaring |  | can !make at level 53 crafting  | ** | |  
