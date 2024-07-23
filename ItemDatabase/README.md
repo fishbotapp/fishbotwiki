@@ -231,10 +231,45 @@ Items are in order of collection log
 | ![image](https://fishbot.app/items/bigxpbag.png) | bigxpbag |  |  | ** | |  
 | ![image](https://fishbot.app/items/hugexpbag.png) | hugexpbag |  |  | ** | |  
 | ![image](https://fishbot.app/items/massivexpbag.png) | massivexpbag |  |  | ** | |  
-| ![image](https://fishbot.app/items/bova.png) | bova |  |  | ** | |  
-| ![image](https://fishbot.app/items/fishberry.png) | fishberry |  |  | ** | |  
-| ![image](https://fishbot.app/items/thieveberry.png) | thieveberry |  |  | ** | |  
-| ![image](https://fishbot.app/items/craftberry.png) | craftberry |  |  | ** | |  
+| ![image](https://fishbot.app/items/bova.png) | bova |  |  By harvesting bova corner events | ** | |  
+| ![image](https://fishbot.app/items/fishberry.png) | fishberry |  | Rare find when harvesting bova corner events  | ** | |  
+| ![image](https://fishbot.app/items/thieveberry.png) | thieveberry |  | Rare find when harvesting bova corner events  | ** | |  
+| ![image](https://fishbot.app/items/craftberry.png) | craftberry |  | Rare find when harvesting bova corner events  | ** | |  
+| ![image](https://fishbot.app/items/fishbovaboots.png) | fishbovaboots |  | can !make at level 21 crafting | ** | |  
+| ![image](https://fishbot.app/items/thievebovaboots.png) | thievebovaboots |  | can !make at level 21 crafting | ** | |  
+| ![image](https://fishbot.app/items/craftbovaboots.png) | craftbovaboots |  | can !make at level 21 crafting | ** | |  
+| ![image](https://fishbot.app/items/fishbovagloves.png) | fishbovagloves |  | can !make at level 27 crafting | ** | |  
+| ![image](https://fishbot.app/items/thievebovagloves.png) | thievebovagloves |  | can !make at level 27 crafting | ** | |  
+| ![image](https://fishbot.app/items/craftbovagloves.png) | craftbovagloves |  | can !make at level 27 crafting | ** | |  
+| ![image](https://fishbot.app/items/bovaberly.png) | bovaberly |  | can !make at level 30 crafting | ** | |  
+| ![image](https://fishbot.app/items/bovalockpurse.png) | bovalockpurse |  | can !make at level 30 crafting | ** | |  
+| ![image](https://fishbot.app/items/bovasaltbox.png) | bovasaltbox |  | can !make at level 30 crafting | ** | |  
+| ![image](https://fishbot.app/items/fishbovahat.png) | fishbovahat |  | can !make at level 35 crafting | ** | |  
+| ![image](https://fishbot.app/items/thievebovahat.png) | thievebovahat |  | can !make at level 35 crafting | ** | |  
+| ![image](https://fishbot.app/items/craftbovahat.png) | craftbovahat |  | can !make at level 35 crafting | ** | |  
+| ![image](https://fishbot.app/items/fishbovashorts.png) | fishbovashorts |  |  can !make at level 38 crafting| ** | |  
+| ![image](https://fishbot.app/items/thievebovashorts.png) | thievebovashorts |  | can !make at level 38 crafting | ** | |  
+| ![image](https://fishbot.app/items/craftbovashorts.png) | craftbovashorts |  | can !make at level 38 crafting | ** | |  
+| ![image](https://fishbot.app/items/fishbovamask.png) | fishbovamask |  | can !make at level 41 crafting | ** | |  
+| ![image](https://fishbot.app/items/thievebovamask.png) | thievebovamask |  | can !make at level 41 crafting | ** | |  
+| ![image](https://fishbot.app/items/craftbovamask.png) | craftbovamask |  | can !make at level 41 crafting | ** | |  
+| ![image](https://fishbot.app/items/fishbovaeski.png) | fishbovaeski |  | can !make at level 42 crafting | ** | |  
+| ![image](https://fishbot.app/items/thievebovaeski.png) | thievebovaeski |  | can !make at level 42 crafting | ** | |  
+| ![image](https://fishbot.app/items/craftbovaeski.png) | craftbovaeski |  |can !make at level 42 crafting  | ** | |  
+| ![image](https://fishbot.app/items/fishbovanecklace.png) | fishbovanecklace |  | can !make at level 47 crafting | ** | |  
+| ![image](https://fishbot.app/items/thievebovanecklace.png) | thievebovanecklace | can !make at level 47 crafting |  | ** | |  
+| ![image](https://fishbot.app/items/craftbovanecklace.png) | craftbovanecklace |  | can !make at level 47 crafting | ** | |  
+| ![image](https://fishbot.app/items/fishbovagown.png) | fishbovagown |  |  can !make at level 51 crafting| ** | |  
+| ![image](https://fishbot.app/items/thievebovagown.png) | thievebovagown | can !make at level 51 crafting |  | ** | |  
+| ![image](https://fishbot.app/items/craftbovagown.png) | craftbovagown |  | can !make at level 51 crafting | ** | |  
+| ![image](https://fishbot.app/items/fishbovaring.png) | fishbovaring |  | can !make at level 53 crafting | ** | |  
+| ![image](https://fishbot.app/items/thievebovaring.png) | thievebovaring |  |can !make at level 53 crafting  | ** | |  
+| ![image](https://fishbot.app/items/craftbovaring.png) | craftbovaring |  | can !make at level 53 crafting | ** | |  
+| ![image](https://fishbot.app/items/redcoat.png) | redcoat |  |  | ** | |  
+| ![image](https://fishbot.app/items/greencoat.png) | greencoat |  |  | ** | |  
+| ![image](https://fishbot.app/items/turncoat.png) | turncoat |  |  | ** | |  
+| ![image](https://fishbot.app/items/ghostcoat.png) | ghostcoat |  |  | ** | |  
+| ![image](https://fishbot.app/items/spycoat.png) | spycoat |  |  | ** | |  
 | ![image](https://fishbot.app/items/weatherorb.png) | Weatherorb |  |  | *Found in purple/pirate chests. Can be !use weatherorb once per reset to change the weather conditions* | |  | |
 | ![image](https://fishbot.app/items/spiritstaff.png) | Spiritstaff |  |  | *Found in purple/pirate chests. Can be !use spiritstaff when a ghostlychest is present for a chance of an expbag* | |  | |
 
