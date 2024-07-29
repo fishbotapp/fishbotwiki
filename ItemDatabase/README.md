@@ -54,33 +54,33 @@ Items are in order of collection log
 | ![image](https://fishbot.app/items/slappersorb.png) | Slappersorb | 450k | Shop, thieving and corner chests | *Increases !slot limit to 2000* | |  | |
 | ![image](https://fishbot.app/items/incomeorb.png) | Incomeorb | 450k | Shop, thieving and corner chests | *You will get $IRM 20 more every payday!  It stacks with other income items. * | |  | |
 | ![image](https://fishbot.app/items/interestorb.png) | Interestorb | 15m | Shop | *Your coins gain 0.002% interest every payday (every 15 mins). It stacks with other interest items. Caps out at 15k per payday* | |  | |
-| ![image](https://fishbot.app/items/sippersorb.png) | Sippersorb | 300k | Thieving and purple/pirate chests | ** | |  | |
-| ![image](https://fishbot.app/items/crushedvial.png) | Crushedvial |  | Crushing `vial` with `hammer` | ** | |  | |
-| ![image](https://fishbot.app/items/mulch.png) | Mulch |  | by !makemulch (requires 25x `anchovy` and 15 fishing) | ** | |  | |
-| ![image](https://fishbot.app/items/megamulch.png) | Megamulch |  | by !use mulch (requires 200x `shrimp` and 40x `mulch` and 25 fishing) | ** | |  | |
-| ![image](https://fishbot.app/items/bova.png) | Bova |  | found via harvesting a bova bush | ** | |  | |
-| ![image](https://fishbot.app/items/fisheye.png) | Fisheye |  | by using an `eyehook` on `pike`, thieving, corner chests | ** | |  | |
-| ![image](https://fishbot.app/items/rustycoin.png) | Rustycoin |  | thieving and corner chests | ** | |  | |
-| ![image](https://fishbot.app/items/lobsterclaw.png) | Lobsterclaw |  | by using a `lobster` | ** | |  | |
-| ![image](https://fishbot.app/items/fisheggs.png) | Fisheggs |  | by using a `gutter` on most fish | ** | |  | |
-| ![image](https://fishbot.app/items/pileofsand.png) | Pileofsand |  | found via mulching, fishing or corner chests | ** | |  | |
-| ![image](https://fishbot.app/items/vial.png) | Vial |  | via fishing, thieving and corner chests | ** | |  | |
-| ![image](https://fishbot.app/items/vialofsalt.png) | Vialofsalt |  | by using a `chisel` on `saltrock` or by fishing with a `saltcatcherrod` | ** | |  | |
-| ![image](https://fishbot.app/items/craftingpotion.png) | Craftingpotion |  | !make (7 crafting) | ** | |  | |
-| ![image](https://fishbot.app/items/thievingpotion.png) | Thievingpotion |  | !make (19 crafting) | ** | |  | |
-| ![image](https://fishbot.app/items/fishingpotion.png) | Fishingpotion |  | !make (32 crafting) | ** | |  | |
-| ![image](https://fishbot.app/items/mulchbomb.png) | Mulchbomb |  | !make (34 crafting) | ** | |  | |
-| ![image](https://fishbot.app/items/sortingpotion.png) | Sortingpotion |  | !make (37 crafting) | ** | |  | |
-| ![image](https://fishbot.app/items/gamblerspotion.png) | Gamblerspotion |  | !make (42 crafting) | ** | |  | |
-| ![image](https://fishbot.app/items/alchemypotion.png) | Alchemypotion |  | !make (44 crafting) | ** | |  | |
-| ![image](https://fishbot.app/items/extendedcraftingpotion.png) | Extendedcraftingpotion |  | !make (37 crafting) | ** | |  | |
-| ![image](https://fishbot.app/items/extendedthievingpotion.png) | Extendedthievingpotion |  | !make (41 crafting) | ** | |  | |
-| ![image](https://fishbot.app/items/extendedfishingpotion.png) | Extendedfishingpotion |  | !make (46 crafting) | ** | |  | |
-| ![image](https://fishbot.app/items/supercraftingpotion.png) | Supercraftingpotion |  | !make (39 crafting) | *Boosts crafting level by 9* | |  | |
-| ![image](https://fishbot.app/items/superthievingpotion.png) | Superthievingpotion |  | !make (48 crafting) | *Boosts thieving level by 9* | |  | |
-| ![image](https://fishbot.app/items/superfishingpotion.png) | Superfishingpotion |  | !make (52 crafting) | *Boosts fishing level by 9* | |  | |
-| ![image](https://fishbot.app/items/bovaberrypotion.png) | Bovaberrypotion |  | !make (53 crafting) | ** | |  | |
-| ![image](https://fishbot.app/items/extendedgamblerspotion.png) | Extendedgamblerspotion |  | !make (54 crafting) | ** | |  | |
+| ![image](https://fishbot.app/items/sippersorb.png) | Sippersorb | 300k | Thieving and purple/pirate chests | *All potions last an extra 60 mins when drank (does not stack with other sippers items)* | |  | |
+| ![image](https://fishbot.app/items/crushedvial.png) | Crushedvial |  | Crushing `vial` with `hammer` | *The remains from a crushed up vial, used in many crafting !make recipes. * | |  | |
+| ![image](https://fishbot.app/items/mulch.png) | Mulch |  | by !makemulch (requires 25x `anchovy` and 15 fishing) | *Made from mushing together anchovies, used to attract bigger fish (lobster)* | |  | |
+| ![image](https://fishbot.app/items/megamulch.png) | Megamulch |  | by !use mulch (requires 200x `shrimp` and 40x `mulch` and 25 fishing) | *Used to attract bigger fish, but with only 2% chance to lose it per trip. Also adds an extra 4% fish caught via mulched fishing.* | |  | |
+| ![image](https://fishbot.app/items/bova.png) | Bova |  | found via harvesting a bova bush | *A cluster of bova leaves which can be woven to make all kinds of bova equiptment!* | |  | |
+| ![image](https://fishbot.app/items/fisheye.png) | Fisheye |  | by using an `eyehook` on `pike`, thieving, corner chests | *A leftover fisheye! lol. Used in many crafting !make recipes* | |  | |
+| ![image](https://fishbot.app/items/rustycoin.png) | Rustycoin |  | thieving and corner chests | *A rusty coin... Used in many crafting !make creipes* | |  | |
+| ![image](https://fishbot.app/items/lobsterclaw.png) | Lobsterclaw |  | by using a `lobster` | *A lobster claw! would go well in a potion.  Used in many crafting !make recipes* | |  | |
+| ![image](https://fishbot.app/items/fisheggs.png) | Fisheggs |  | by using a `gutter` on most fish | *Fish eggs (fresh and juicy), extracted from a fish! Used in many crafting !make recipes* | |  | |
+| ![image](https://fishbot.app/items/pileofsand.png) | Pileofsand |  | found via mulching, fishing or corner chests | *Casual pile of sand* | |  | |
+| ![image](https://fishbot.app/items/vial.png) | Vial |  | via fishing, thieving and corner chests | *Can be used to make potions* | |  | |
+| ![image](https://fishbot.app/items/vialofsalt.png) | Vialofsalt |  | by using a `chisel` on `saltrock` or by fishing with a `saltcatcherrod` | *Great for drying things out! Can convert eelskin to eelhide* | |  | |
+| ![image](https://fishbot.app/items/craftingpotion.png) | Craftingpotion |  | !make (7 crafting) | *Boosts crafting level by 5 for 2 hours* | |  | |
+| ![image](https://fishbot.app/items/thievingpotion.png) | Thievingpotion |  | !make (19 crafting) | *Boosts thieving level by 5 for 2 hours* | |  | |
+| ![image](https://fishbot.app/items/fishingpotion.png) | Fishingpotion |  | !make (32 crafting) | *Boosts fishing level by 5 for 2 hours* | |  | |
+| ![image](https://fishbot.app/items/mulchbomb.png) | Mulchbomb |  | !make (34 crafting) | *Explodes and instantly turns ALL of your fish (of all type) to mulch at various rates. You will not get any craft xp for this.* | |  | |
+| ![image](https://fishbot.app/items/sortingpotion.png) | Sortingpotion |  | !make (37 crafting) | *Sorts the order of your inventory to match that of the collection log* | |  | |
+| ![image](https://fishbot.app/items/gamblerspotion.png) | Gamblerspotion |  | !make (42 crafting) | *Makes your gamble and slot limit 2x, gamble win 52 and over (instead of 53) and mysteryprize and feech 1% easier to get in slots.. for 2 hours* | |  | |
+| ![image](https://fishbot.app/items/alchemypotion.png) | Alchemypotion |  | !make (44 crafting) | *Can use on an item to sell that item for 42% of its value (compared to 35% you would get from !sell)* | |  | |
+| ![image](https://fishbot.app/items/extendedcraftingpotion.png) | Extendedcraftingpotion |  | !make (37 crafting) | *Boosts crafting lvl by 5... until next reset!* | |  | |
+| ![image](https://fishbot.app/items/extendedthievingpotion.png) | Extendedthievingpotion |  | !make (41 crafting) | *Boosts thieving lvl by 5... until next reset!* | |  | |
+| ![image](https://fishbot.app/items/extendedfishingpotion.png) | Extendedfishingpotion |  | !make (46 crafting) | *Boosts fishing lvl by 5... until next reset!* | |  | |
+| ![image](https://fishbot.app/items/supercraftingpotion.png) | Supercraftingpotion |  | !make (39 crafting) | *Boosts crafting level by 9 for 2 hours* | |  | |
+| ![image](https://fishbot.app/items/superthievingpotion.png) | Superthievingpotion |  | !make (48 crafting) | *Boosts thieving level by 9 for 2 hours* | |  | |
+| ![image](https://fishbot.app/items/superfishingpotion.png) | Superfishingpotion |  | !make (52 crafting) | *Boosts fishing level by 9 for 2 hours* | |  | |
+| ![image](https://fishbot.app/items/bovaberrypotion.png) | Bovaberrypotion |  | !make (53 crafting) | When drank, is consumed and gives +225 fishing, thieving and crafting xp. It also grants 10% chance of an extra bova when harvesting a bova bush until next reset! ** | |  | |
+| ![image](https://fishbot.app/items/extendedgamblerspotion.png) | Extendedgamblerspotion |  | !make (54 crafting) | *Just like a regular gamblerspotion..  but will last until next reset!* | |  | |
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738)  | ??? |  |  | ** | |  | |
 |  ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738)  | ??? |  | | ** | |  | |
 |  ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738)  | ??? |  | | ** | |  | |
