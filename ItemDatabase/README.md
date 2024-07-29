@@ -491,43 +491,43 @@ Items are in order of collection log
 | ![image](https://fishbot.app/items/rapier.png) | Rapier |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/fencer.png) | Fencer |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/spiritstaff.png) | Spiritstaff |  |  | *Found in purple/pirate chests. Can be !use spiritstaff when a ghostlychest is present for a chance of an expbag* | |  | |
-| ![image](https://fishbot.app/items/ghostlyhood.png) | Ghostlyhood |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/ghostlygloves.png) | Ghostlygloves |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/ghostlyhood.png) | Ghostlyhood |  |  | *If worn, grants 5% chance to claim 2x exp from a ghostly chest* | |  | |
+| ![image](https://fishbot.app/items/ghostlygloves.png) | Ghostlygloves |  |  | *If worn, grants 10% better odds at an item from ghostly chests* | |  | |
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/duncehat.png) | Duncehat |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/winterscarf.png) | Winterscarf |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/slimejacket.png) | Slimejacket |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/breedersnecklace.png) | Breedersnecklace |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/hopelessnecklace.png) | Hopelessnecklace |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/fishfabricpants.png) | Fishfabricpants |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/thievefabricpants.png) | Thievefabricpants |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/craftfabricpants.png) | Craftfabricpants |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/guttersfabricpants.png) | Guttersfabricpants |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/bluewizardhat.png) | Bluewizardhat |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/purplewizardhat.png) | Purplewizardhat |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/orangewizardhat.png) | Orangewizardhat |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/duncehat.png) | Duncehat |  |  | *If worn, gives 3x chance to get an item (aka NOT FISH) from a purple chest, with the downside of all fishing trips having a 5% chance to come home emptyhanded* | |  | |
+| ![image](https://fishbot.app/items/winterscarf.png) | Winterscarf |  |  | *If worn, and the weather is cold in any way, +2 rod power* | |  | |
+| ![image](https://fishbot.app/items/slimejacket.png) | Slimejacket |  |  | *If worn, and when getting over 40 babyeel in a fishing trip, will activate and grant 40x babyeel and 5x eel. 1 in 10 chance to break per activation* | |  | |
+| ![image](https://fishbot.app/items/breedersnecklace.png) | Breedersnecklace |  |  | *If worn, 20% of all lobster caught will be converted to babyeel at a 2.5 to 1 ratio.* | |  | |
+| ![image](https://fishbot.app/items/hopelessnecklace.png) | Hopelessnecklace |  |  | *If worn, you will get 2x xp from fishing trips but every fish you catch will be converted to a shrimp. * | |  | |
+| ![image](https://fishbot.app/items/fishfabricpants.png) | Fishfabricpants |  |  | *If worn, grants +2% all fish gained* | |  | |
+| ![image](https://fishbot.app/items/thievefabricpants.png) | Thievefabricpants |  |  | *If worn, grants +10% to all thieve xp gained* | |  | |
+| ![image](https://fishbot.app/items/craftfabricpants.png) | Craftfabricpants |  |  | *If worn, grants +5% to all craft xp gained* | |  | |
+| ![image](https://fishbot.app/items/guttersfabricpants.png) | Guttersfabricpants |  |  | *If worn, and when failing to gut a fish, grants an extra 15% chance redemption to gut the fish* | |  | |
+| ![image](https://fishbot.app/items/bluewizardhat.png) | Bluewizardhat |  |  | *If worn, gives a small chance of finding a crushedgem, crushedvial or glowblip from fishing* | |  | |
+| ![image](https://fishbot.app/items/purplewizardhat.png) | Purplewizardhat |  |  | *If worn, gives a small chance of finding a crushedgem, crushedvial or glowblip from thieving* | |  | |
+| ![image](https://fishbot.app/items/orangewizardhat.png) | Orangewizardhat |  |  | *If worn, gives a small chance of finding a crushedgem, crushedvial or glowblip from doing !make commands* | |  | |
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/wizardeski.png) | Wizardeski |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/sinnerspact.png) | Sinnerspact |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/sinnerschance.png) | Sinnerschance |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/mulchesta.png) | Mulchesta |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/goblinmysterysack.png) | Goblinmysterysack |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/goblinsoup.png) | Goblinsoup |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/goblinstew.png) | Goblinstew |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/goblinbroth.png) | Goblinbroth |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/goblincurry.png) | Goblincurry |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/goblinhat.png) | Goblinhat |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/goblinmail.png) | Goblinmail |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/goblinlegs.png) | Goblinlegs |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/goblineski.png) | Goblineski |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/goblinsack.png) | Goblinsack |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/slimytreat.png) | Slimytreat |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/slimyeski.png) | Slimyeski |  |  | ** | |  | |
-| ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
-| ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/wizardeski.png) | Wizardeski |  |  | *If worn, grants +30 craft xp and 1x shale if you ever get an item from a wizards hat proc, also gives +10% chance to wizard hat procs* | |  | |
+| ![image](https://fishbot.app/items/sinnerspact.png) | Sinnerspact |  |  | *When !used, will exchange 4000 fishing and 4000 crafting xp for 9000 thieving xp. 1 in 3 chance to break per use* | |  | |
+| ![image](https://fishbot.app/items/sinnerschance.png) | Sinnerschance |  |  | *When !used, will reset your thieving cooldown. 1 in 18 chance to break per use. * | |  | |
+| ![image](https://fishbot.app/items/mulchesta.png) | Mulchesta |  |  | *If this is in your inv, making mulch will give +12 xp and making megamulch will give +60xp. You can also !use this to SACRAFICE it for 100x mulch.  * | |  | |
+| ![image](https://fishbot.app/items/goblinmysterysack.png) | Goblinmysterysack |  |  | *A bag of goodies from the goblin kingdom... i wonder if theres any rare valuables in there?* | |  | |
+| ![image](https://fishbot.app/items/goblinsoup.png) | Goblinsoup |  |  | *Smells... fungy. When drank, all xxl fishing trips will give a 1 in 3 chance for a free gem and 1 in 12 chance at a free goblinmysterysack. Lasts until next reset. Also, it will make goblins 12x likely to spawn on payday 20.* | |  | |
+| ![image](https://fishbot.app/items/goblinstew.png) | Goblinstew |  |  | *Smells... pungent. When drank, all thieves will give a 1 in 12 chance for a free gem and 1 in 50 chance at a free goblinmysterysack. Lasts until next reset.  Also, it will make goblins 12x likely to spawn on payday 90.* | |  | |
+| ![image](https://fishbot.app/items/goblinbroth.png) | Goblinbroth |  |  | *Smells... defiant. When drank, all !make commands will give a 1 in 40 chance for a free gem and 1 in 160 chance at a free goblinmysterysack. Lasts until next reset. Also, it will make goblins 12x more likely to spawn on payday 40. * | |  | |
+| ![image](https://fishbot.app/items/goblincurry.png) | Goblincurry |  |  | *Smells... illegal. When drank, any goblin events claimed will give 50% chance at a free extra goblinmysterysack. Lasts until next reset. Also, it will make goblins 12x more likely to spawn on payday 70.* | |  | |
+| ![image](https://fishbot.app/items/goblinhat.png) | Goblinhat |  |  | *When worn, gives +30% coins from thieving, +7% trout gained from fishing and 3% chance to get a free goblinmysterysack when claiming goblin events. * | |  | |
+| ![image](https://fishbot.app/items/goblinmail.png) | Goblinmail |  |  | *When worn, gives +40% coins from coin supply chests, +17% trout gained from fishing and 8% chance to get a free goblinmysterysack when claiming goblin events.* | |  | |
+| ![image](https://fishbot.app/items/goblinlegs.png) | Goblinlegs |  |  | *When worn, gives 25k coins for any goblin event claimed, +9% trout gained from fishing and 4% chance to get a free goblinmysterysack when claiming goblin events.* | |  | |
+| ![image](https://fishbot.app/items/goblineski.png) | Goblineski |  |  | *When worn, +200 coins each payday, +11% trout gained from fishing and 5% chance to get a free goblinmysterysack when claiming goblin events. * | |  | |
+| ![image](https://fishbot.app/items/goblinsack.png) | Goblinsack |  |  | *When this is in your inv, all items and fish will sell for 2% more, and all trout will sell for 4% more.* | |  | |
+| ![image](https://fishbot.app/items/slimytreat.png) | Slimytreat |  |  | *When consumed, gives +10 rod power and +10 rod speed if you are using eelrod or premiumeelrod. Lasts until next reset. * | |  | |
+| ![image](https://fishbot.app/items/slimyeski.png) | Slimyeski |  |  | *When worn, allows ANY rod to be used for eel fishing.. but has a 1 in 8000 chance per babyeel/eel caught to break YOUR ROD or the slimyeski.* | |  | |
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/goblinegg.png) | Goblinegg |  |  | ** | |  | |
+| ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
+| ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/goblinegg.png) | Goblinegg |  |  | *Can be !used to consume and crack open... with hopes that something would be inside... at a 1 in 64 chance. * | |  | |
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
