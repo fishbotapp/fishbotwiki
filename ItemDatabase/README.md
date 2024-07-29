@@ -40,20 +40,20 @@ Items are in order of collection log
 | ![image](https://fishbot.app/items/macrokit.png) | Macrokit | 160k | From shop, thieving or corner chests | *Allows you to take Xtra Xtra Long (XXL) fishing trips* | |  | |
 | ![image](https://fishbot.app/items/wildkit.png) | Wildkit | 450k | Purple chests or !make (49 crafting) | *Allows you to take Wildcard fishing trips. This will randomly select the trip length for you.. but grants you +1 fishing level and +1 to your rods power and speed for the trip. Use by doing !fish w* | |  | |
 | ![image](https://fishbot.app/items/safekit.png) | Wildkit | 900k | Pirate chests | *Allows you to take Safe XXL fishing trips. This will be an xxl trip, but can never be longer than a fishbot reset. Use by doing !fish sxxl* | |  | |
-| ![image](https://fishbot.app/items/gamblersmarble.png) | Gamblersmarble | 70k | Shop, thieving and corner chests | ** | |  | |
-| ![image](https://fishbot.app/items/slappersmarble.png) | Slappersmarble | 70k | Shop, thieving and corner chests | ** | |  | |
-| ![image](https://fishbot.app/items/incomemarble.png) | Incomemarble | 70k | Shop, thieving and corner chests | ** | |  | |
-| ![image](https://fishbot.app/items/interestmarble.png) | Interestmarble | 1.5m | Shop, thieving and purple/pirate chests | ** | |  | |
-| ![image](https://fishbot.app/items/sippersmarble.png) | Sippersmarble | 80k | Thieving and corner chests | ** | |  | |
-| ![image](https://fishbot.app/items/gamblerscharm.png) | Gamblerscharm | 200k | Shop, thieving and corner chests | ** | |  | |
-| ![image](https://fishbot.app/items/slapperscharm.png) | Slapperscharm | 200k | Shop, thieving and corner chests | ** | |  | |
-| ![image](https://fishbot.app/items/incomecharm.png) | Incomecharm | 200k | Shop, thieving and corner chests | ** | |  | |
-| ![image](https://fishbot.app/items/interestcharm.png) | Interestcharm | 5m | Shop, pirate chests | ** | |  | |
-| ![image](https://fishbot.app/items/sipperscharm.png) | Sipperscharm | 140k | Thieving and corner/purple chests | ** | |  | |
-| ![image](https://fishbot.app/items/gamblersorb.png) | Gamblersorb | 450k | Shop, thieving and corner chests | ** | |  | |
-| ![image](https://fishbot.app/items/slappersorb.png) | Slappersorb | 450k | Shop, thieving and corner chests | ** | |  | |
-| ![image](https://fishbot.app/items/incomeorb.png) | Incomeorb | 450k | Shop, thieving and corner chests | ** | |  | |
-| ![image](https://fishbot.app/items/interestorb.png) | Interestorb | 15m | Shop | ** | |  | |
+| ![image](https://fishbot.app/items/gamblersmarble.png) | Gamblersmarble | 70k | Shop, thieving and corner chests | *Increases !gamble limit to 25k* | |  | |
+| ![image](https://fishbot.app/items/slappersmarble.png) | Slappersmarble | 70k | Shop, thieving and corner chests | *Increases !slot limit to 500* | |  | |
+| ![image](https://fishbot.app/items/incomemarble.png) | Incomemarble | 70k | Shop, thieving and corner chests | *You will get $IRM 5 more every payday!  It stacks with other income items* | |  | |
+| ![image](https://fishbot.app/items/interestmarble.png) | Interestmarble | 1.5m | Shop, thieving and purple/pirate chests | *Your coins gain 0.0002% interest every payday (every 15 mins). It stacks with other interest items. Caps out at 15k per payday* | |  | |
+| ![image](https://fishbot.app/items/sippersmarble.png) | Sippersmarble | 80k | Thieving and corner chests | *All potions last an extra 20 mins when drank (does not stack with other sippers items)* | |  | |
+| ![image](https://fishbot.app/items/gamblerscharm.png) | Gamblerscharm | 200k | Shop, thieving and corner chests | *Increases !gamble limit to 50k* | |  | |
+| ![image](https://fishbot.app/items/slapperscharm.png) | Slapperscharm | 200k | Shop, thieving and corner chests | *Increases !slot limit to 1000* | |  | |
+| ![image](https://fishbot.app/items/incomecharm.png) | Incomecharm | 200k | Shop, thieving and corner chests | *You will get $IRM 10 more every payday! It stacks with other income items. * | |  | |
+| ![image](https://fishbot.app/items/interestcharm.png) | Interestcharm | 5m | Shop, pirate chests | *Your coins gain 0.001% interest every payday (every 15 mins). It stacks with other interest items. Caps out at 15k per payday* | |  | |
+| ![image](https://fishbot.app/items/sipperscharm.png) | Sipperscharm | 140k | Thieving and corner/purple chests | *All potions last an extra 40 mins when drank (does not stack with other sippers items)* | |  | |
+| ![image](https://fishbot.app/items/gamblersorb.png) | Gamblersorb | 450k | Shop, thieving and corner chests | *Increases !gamble limit to 100k* | |  | |
+| ![image](https://fishbot.app/items/slappersorb.png) | Slappersorb | 450k | Shop, thieving and corner chests | *Increases !slot limit to 2000* | |  | |
+| ![image](https://fishbot.app/items/incomeorb.png) | Incomeorb | 450k | Shop, thieving and corner chests | *You will get $IRM 20 more every payday!  It stacks with other income items. * | |  | |
+| ![image](https://fishbot.app/items/interestorb.png) | Interestorb | 15m | Shop | *Your coins gain 0.002% interest every payday (every 15 mins). It stacks with other interest items. Caps out at 15k per payday* | |  | |
 | ![image](https://fishbot.app/items/sippersorb.png) | Sippersorb | 300k | Thieving and purple/pirate chests | ** | |  | |
 | ![image](https://fishbot.app/items/crushedvial.png) | Crushedvial |  | Crushing `vial` with `hammer` | ** | |  | |
 | ![image](https://fishbot.app/items/mulch.png) | Mulch |  | by !makemulch (requires 25x `anchovy` and 15 fishing) | ** | |  | |
