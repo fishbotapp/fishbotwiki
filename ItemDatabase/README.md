@@ -452,30 +452,30 @@ Items are in order of collection log
 | ![image](https://fishbot.app/items/harvester.png) | Harvester |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/harvesthat.png) | Harvesthat |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/luckyspotmonocle.png) | Luckyspotmonocle |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/rougesblessing.png) | Rougesblessing |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/goldwrench.png) | Goldwrench |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/goldspindle.png) | Goldspindle |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/mightychalice.png) | Mightychalice |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/goldencork.png) | Goldencork |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/bagtalismen.png) | Bagtalismen |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/luckylilly.png) | Luckylilly |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/luckyrose.png) | Luckyrose |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/luckysage.png) | Luckysage |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/luckypeony.png) | Luckypeony |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/crownofthorns.png) | Crownofthorns |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/tinderbox.png) | Tinderbox |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/mulchbrew.png) | Mulchbrew |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/lockjaw.png) | Lockjaw |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/banditsgem.png) | Banditsgem |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/slimeball.png) | Slimeball |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/forbiddenlamp.png) | Forbiddenlamp |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/eternalskeletonkey.png) | Eternalskeletonkey |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/ghostspeakamulet.png) | Ghostspeakamulet |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/justiceplatelegs.png) | Justiceplatelegs |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/rougesblessing.png) | Rougesblessing |  |  | *Every time you claim any supply chest, you will receive 30 thieving xp.  You can only find this item while holding a certain lucky item.* | |  | |
+| ![image](https://fishbot.app/items/goldwrench.png) | Goldwrench |  |  | *Gives +4 power to any rod you are using. DOES stack with grip items. You can only find this item while holding a certain lucky item.* | |  | |
+| ![image](https://fishbot.app/items/goldspindle.png) | Goldspindle |  |  | *Gives +4 speed to any rod you are using. DOES stack with reel items. You can only find this item while holding a certain lucky item.* | |  | |
+| ![image](https://fishbot.app/items/mightychalice.png) | Mightychalice |  |  | *All boost potions give +1 extra level of boost and all potion making is 10% faster. You can only find this item while holding a certain lucky item.* | |  | |
+| ![image](https://fishbot.app/items/goldencork.png) | Goldencork |  |  | *Gives 20% chance for a potion to last +1 hour when sipped, 10% chance to make 2x potions when brewing a potion and +10% chance to get vial back when using a vialofsalt* | |  | |
+| ![image](https://fishbot.app/items/bagtalismen.png) | Bagtalismen |  |  | *Gives a chance to double xp from an xpbag when used. chances: 20% for thieve, 45% for craft and 80% for fishing. Also gives 10% more chance to get xp bags from ghostly chests.* | |  | |
+| ![image](https://fishbot.app/items/luckylilly.png) | Luckylilly |  |  | *With this in your inv, you unlock the ability to find 3 unique, rare and powerful items found in supply chests. * | |  | |
+| ![image](https://fishbot.app/items/luckyrose.png) | Luckyrose |  |  | *With this in your inv, you unlock the ability to find 3 unique, rare and powerful items found at thieving locations.* | |  | |
+| ![image](https://fishbot.app/items/luckysage.png) | Luckysage |  |  | *With this in your inv, you unlock the ability to find 3 unique, rare and powerful items found when fishing.* | |  | |
+| ![image](https://fishbot.app/items/luckypeony.png) | Luckypeony |  |  | *With this in your inv, you unlock the ability to buy 4 unique, rare and powerful items from the shop. The items are untradeable.* | |  | |
+| ![image](https://fishbot.app/items/crownofthorns.png) | Crownofthorns |  |  | *If worn, grants -1 fishing level, -1 thieve level and -1 craft level, but also puts a very rare and powerful item into the luckyrose thieving droptable. Also, if worn, this counts as a luckyrose. * | |  | |
+| ![image](https://fishbot.app/items/tinderbox.png) | Tinderbox |  |  | *With this, (and a crafting level of 40+) you can now !make and deploy campfires. * | |  | |
+| ![image](https://fishbot.app/items/mulchbrew.png) | Mulchbrew |  |  | *With this in your inv, mulch (sorry, not megamulch) is NOT needed when crafting potions. 1 in 30000 chance to break per mulch saved. * | |  | |
+| ![image](https://fishbot.app/items/lockjaw.png) | Lockjaw |  |  | *If this is in your inventory, you get +10% chance of vial back and +10% chance to keep the whole potion after drinking. Also, +10% chance to double brew a potion. * | |  | |
+| ![image](https://fishbot.app/items/banditsgem.png) | Banditsgem |  |  | *Can be used on either a goldlockpick or a platinumlockpick to create a special unique lockpick! * | |  | |
+| ![image](https://fishbot.app/items/slimeball.png) | Slimeball |  |  | *Is used in level 50 !make recipes to make a couple eel rod variants. * | |  | |
+| ![image](https://fishbot.app/items/forbiddenlamp.png) | Forbiddenlamp |  |  | *When !used, will give 100 thieve xp and reveal to you a thieving location where you will get +10% chance of hitting the unique drop table for the rest of the day. Can be used once a day. * | |  | |
+| ![image](https://fishbot.app/items/eternalskeletonkey.png) | Eternalskeletonkey |  |  | *Can be !used once a day to thieve every location you have a note for, all at once! * | |  | |
+| ![image](https://fishbot.app/items/ghostspeakamulet.png) | Ghostspeakamulet |  |  | *If this is in your inv, grants +50% exp from ghostly chests. If !used, 75% chance a ghostly chest will appear next payday. If worn, grants an extra +20% exp from ghostly chests. * | |  | |
+| ![image](https://fishbot.app/items/justiceplatelegs.png) | Justiceplatelegs |  |  | *When worn,  grants +7 PWR to any boss battle. * | |  | |
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/fishinganchor.png) | Fishinganchor |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/piratebandanna.png) | Piratebandanna |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/piratehat.png) | Piratehat |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/fishinganchor.png) | Fishinganchor |  |  | *You can use this once a day if its before payday 25. Will drop a fishing anchor in the lake which can be pulled up later on for a massive fishing haul. * | |  | |
+| ![image](https://fishbot.app/items/piratebandanna.png) | Piratebandanna |  |  | *If worn, grants 15% chance to not consume a dubloon when claiming a pirate chest* | |  | |
+| ![image](https://fishbot.app/items/piratehat.png) | Piratehat |  |  | *If worn, grants 2% chance to claim two rewards from a pirate chest* | |  | |
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
