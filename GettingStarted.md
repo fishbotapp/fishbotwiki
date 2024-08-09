@@ -14,7 +14,7 @@ First:
 - `!setteam tbow` or `!setteam scythe`. This will allow you to claim reward chests which spawn in the corner of the lake
 - `!fish s` to send your first fish. The 's' indicates a short fish
 
-Early goals:
+# Early goals:
 
 You can make money by selling the fish gained from fishing trips. Early on, you will need to upgrade your rod ASAP. So a `!sellallfish` after every fishing trip and `!coins` to see where you are at.
 
@@ -37,6 +37,47 @@ Always check `!make?` to see if you have any new crafting recipes unlocked. It s
 Its always good to check `!make?` after using a craftingpotion or supercraftingpotion. This will show you the highest items you cna craft.
 
 Keep an eye out for `bova` corner event.. this will give you bova and berries which lead to early level craftable gear that you can wear. Its good to be familiar with all corner events found [here.](https://fishbotapp.github.io/fishbotwiki/CornerEvents/)
+
+# Mid level goals:
+
+As you ease out of being a beginner you will want to make sure you have an item in ever slot of your !gear. Thats head, chest, neck, legs, boots, eski, gloves and rod. Need to find something to occupy a slot? Check the [Item Database](https://fishbotapp.github.io/fishbotwiki/ItemDatabase/)
+
+Also, ensure you have one piece of jewlery in your inv. An ammy, ring and anklet. These can be bought from the shop for 1.6-2m 
+
+Once you have jewlery, make sure you !use cut gems to enchant them. Each piece of jewlery can be buffed by up to +15% by adding 15 gems to it.
+
+This is a good time to start checking !stats and obtaining items to buff rod speed, rod power and exp/fish gained. The in game shop offers a lot between items and rods for increasing your fish yields 
+
+Its good to be aware of the three guilds (fishingguild, craftingguild and thievingguild). Entry to these guilds come at a big price bug grant *massive* buffs in their respective skill. Be aware of what the requirements to join are, and start to accumulate them.
+
+# End game goals:
+
+You should have joined all guilds and be accumulating guild currencies to buy the very powerful guild items.
+
+You should be trying to accumulate all of the fish baits (mostly accumulated by gutting) to absolutely max your fishing buffs.
+
+Your gear in each slot should be the best it can be, with what you have, for the activity you are doing. 
+
+Start to stack items and tasks for when you get the right boosts, buffs and weather to truly capatalise.
+
+Grind grind grind exp for higher level unlocks. Thieving levels unlock access to higher loot droptables while thieving, and increase chance for hitting the UDT.
+
+The high level rods take a *lot* of money to purchase.. stack buffs and find your own meta for stacking up the coin! Whether that is lobbies, eels, crafting,  merching the market, gambling... whatever!
+
+# The fishbot master:
+
+Fill out every collection log you can
+
+Aquire all salesman items
+
+Try and get every pet....?
+
+Stack fish and treat them like stocks for big market moves
+
+Have you maxed your orbs? Thats a lot of orbcores...
+
+Have you got the hearth yet? I hear thats 500m from the shop....
+
 
 -----------------------------
 
