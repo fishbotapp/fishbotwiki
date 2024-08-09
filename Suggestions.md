@@ -27,11 +27,11 @@ Master crates are made via !make
 
 | Icon | Name | Slot | Obtained | Details |
 | ------ | ------ | ------- | ---- | ---- |
-| ![saltmasterscrown (1)](https://github.com/user-attachments/assets/ebebd9ab-c044-4238-b017-fb4c87dfdc71) | Saltkingscrate | 50 | 125x `saltrock` | 20,000 |
-| ![saltmastersplate](https://github.com/user-attachments/assets/fded50ae-8743-4242-8c02-f86708dd6514) | Mulchmasterscrate | 50 | 200x `megamulch` | 20,000 |
-| ![saltmastersleggings](https://github.com/user-attachments/assets/56997838-a6a0-4e45-b95b-2a9971dcb850) | ???????? | 50 | 400x `bova` | 20,000 |
-| ![New Projectsaltmastersgauntlets](https://github.com/user-attachments/assets/56e9370e-b9a0-4f13-b812-5801f599994b) | ???????? | 50 | 450x `rustycoin`| 20,000 |
-| ![saltmasterssandals](https://github.com/user-attachments/assets/cb133f75-2c85-4825-9d2e-21d21611fbec) | ???????? | 50 | 600x `crushedgem` | 20,000|
+| ![saltmasterscrown (1)](https://github.com/user-attachments/assets/ebebd9ab-c044-4238-b017-fb4c87dfdc71) | Saltkingscrown | Head | 1 in 5 chance from `saltkingscrate` | 20,000 |
+| ![saltmastersplate](https://github.com/user-attachments/assets/fded50ae-8743-4242-8c02-f86708dd6514) | Saltkingsplate | Chest | 1 in 5 chance from `saltkingscrate` | 20,000 |
+| ![saltmastersleggings](https://github.com/user-attachments/assets/56997838-a6a0-4e45-b95b-2a9971dcb850) | Saltkingsleggings | Legs | 1 in 5 chance from `saltkingscrate` | 20,000 |
+| ![New Projectsaltmastersgauntlets](https://github.com/user-attachments/assets/56e9370e-b9a0-4f13-b812-5801f599994b) | Saltkingsgauntlets | Hands | 1 in 5 chance from `saltkingscrate`| 20,000 |
+| ![saltmasterssandals](https://github.com/user-attachments/assets/cb133f75-2c85-4825-9d2e-21d21611fbec) | Saltkingssandals | Feet | 1 in 5 chance from `saltkingscrate` | 20,000|
 
 ## Master Set: Mulchmasters
 
