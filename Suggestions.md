@@ -9,7 +9,7 @@ They are a guarenteed drop from a Master crate. The piece you receive will be ra
 
 These items are top tier, endgame bangers with great stats and effects... thus the high requirements to get them.
 
-Master crates are made via !make
+Master crates are made via !make OR found in various places as a very very rare drop
 
 | Icon | Name | !make level | !make recipe | !make xp gained |
 | ------ | ------ | ------- | ---- | ---- |
