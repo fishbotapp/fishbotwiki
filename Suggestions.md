@@ -11,7 +11,7 @@ These items are top tier, endgame bangers with great stats and effects... thus t
 
 Master crates are made via !make OR found in various places as a very very rare drop
 
-*If opening a crate and you are due to receive an item that you already have, there is a 33% chance it is re-rolled*
+*If opening a crate and you are due to receive a duplicate item, there is a 33% chance it is re-rolled*
 
 | Icon | Name | !make level | !make recipe | !make xp gained |
 | ------ | ------ | ------- | ---- | ---- |
