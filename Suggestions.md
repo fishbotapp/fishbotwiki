@@ -1,5 +1,35 @@
 # Suggestions
 
+# Master Sets
+
+### Mechanics
+
+Master sets come in master crates.
+
+Master crate prices as follows:
+
+== Item Sources ==
+{{Item Drops
+| Item Drops = {{Item Drop
+| Image = Mine_Farganite_Ore.png
+| Name = Mine Farganite Ore
+| Skill = Mining
+| Level = 50
+| Quantity = 1
+| Chance = 100%
+}}  {{Item Drop
+| Image = Spelunking.png
+| Name = Spelunking
+| Skill = Mining, Agility
+| Level = 50, 50
+| Quantity = 2-5
+| Chance = 14.937%
+}}  
+}} 
+
+
+
+
 ## BUGS
 - !fish doesnt work unless u have !setfishdefault first
 
