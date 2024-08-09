@@ -4,7 +4,7 @@
 
 ### Obtaining 
 
-Master sets contain 5 items: Head, Chest, Legs, Gloves and Boots.
+Master sets contain 5 items: head, chest, legs, gloves and boots.
 They are a guarenteed drop from a Master crate. The piece you receive will be random.
 
 These items are top tier, endgame bangers with great stats and effects... thus the high requirements to get them.
