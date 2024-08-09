@@ -15,8 +15,8 @@ Master crate prices as follows:
 | ![bovacreate](https://github.com/user-attachments/assets/ff8537c8-954f-4440-bdb8-d58cd8af20e3) | ???????? | 50 | 400x `bova` | 20,000 |
 | ![coincrate](https://github.com/user-attachments/assets/87060fdd-045e-428b-8211-131fd285ffd6) | ???????? | 50 | 450x `rustycoin`| 20,000 |
 | ![gemcrate](https://github.com/user-attachments/assets/ed8fc257-3782-4eaa-9de4-a5a891244cb0) | ???????? | 50 | 600x `crushedgem` | 20,000|
-| ![image](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ???????? | 50 | 700x `lobsterclaw` | 20,000 |
-| ![image](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ???????? | 50 | 1000x `eelhide` | 20,000 |
+|![lobcrate](https://github.com/user-attachments/assets/56c376aa-0ca3-46f5-b962-b965cdc7d0de) | ???????? | 50 | 700x `lobsterclaw` | 20,000 |
+| ![slimecrate](https://github.com/user-attachments/assets/115f134c-04e9-4e25-a521-fbe4ced78e1d) | ???????? | 50 | 1000x `eelhide` | 20,000 |
 
 
 
