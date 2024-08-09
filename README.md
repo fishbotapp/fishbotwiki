@@ -16,6 +16,8 @@ Various weaker items taken off the purple/pirate/mysteryprize droptable
 
 -------------------------------
 
+New player? Great starter tips to progress fast at the [New Player Guide](./GettingStarted.md)
+
 Built by the community, for the community!
 
 - [Item Database](./ItemDatabase/README.md)
