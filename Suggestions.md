@@ -2,30 +2,21 @@
 
 # Master Sets
 
-### Mechanics
+### Obtaining 
 
 Master sets come in master crates.
 
 Master crate prices as follows:
 
-== Item Sources ==
-{{Item Drops
-| Item Drops = {{Item Drop
-| Image = Mine_Farganite_Ore.png
-| Name = Mine Farganite Ore
-| Skill = Mining
-| Level = 50
-| Quantity = 1
-| Chance = 100%
-}}  {{Item Drop
-| Image = Spelunking.png
-| Name = Spelunking
-| Skill = Mining, Agility
-| Level = 50, 50
-| Quantity = 2-5
-| Chance = 14.937%
-}}  
-}} 
+| Icon | Name | !make level | !make recipe | !make xp gained |
+| ------ | ------ | ------- | ---- | ---- |
+| ![image](https://fishbot.app/items/minilockpick.png) | Minilockpick | 16k | Shop | 1 in 10 chance to break |
+| ![image](https://fishbot.app/items/lockpick.png) | Lockpick | 160k | Shop | |
+| ![image](https://fishbot.app/items/bronzelockpick.png) | Bronzelockpick | 950k | Shop | +8% chance of double thieve |
+| ![image](https://fishbot.app/items/silverlockpick.png) | Silverlockpick |  | Purples / Pirates | +18% chance of double thieve |
+| ![image](https://fishbot.app/items/goldlockpick.png) | Goldlockpick |  | Purples / Pirates | +28% chance of double thieve |
+| ![image](https://fishbot.app/items/platinumlockpick.png) | Platinumlockpick |  | Thieving with a `luckyrose` in your inventory | +40% chance of double thieve |
+| ![image](https://fishbot.app/items/enchantedlockpick.png) | Enchantedlockpick |  | Goldlockpick + Orbcore | +150% thieve xp but cannot gain items |
 
 
 
