@@ -4,9 +4,12 @@
 
 ### Obtaining 
 
-Master sets come in master crates.
+Master sets contain 5 items: Head, Chest, Legs, Gloves and Boots.
+They are a guarenteed drop from a Master crate. The piece you receive will be random.
 
-Master crate prices as follows:
+These items are top tier, endgame bangers with great stats and effects... thus the high requirements to get them.
+
+Master crates are made via !make
 
 | Icon | Name | !make level | !make recipe | !make xp gained |
 | ------ | ------ | ------- | ---- | ---- |
@@ -19,6 +22,11 @@ Master crate prices as follows:
 | ![slimecrate](https://github.com/user-attachments/assets/115f134c-04e9-4e25-a521-fbe4ced78e1d) | ???????? | 50 | 1000x `eelhide` | 20,000 |
 
 
+
+## Master Set: Saltkings
+
+
+## Master Set: Mulchmasters
 
 
 ## BUGS
