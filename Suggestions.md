@@ -1,4 +1,4 @@
-# Suggestions
+![image](https://github.com/user-attachments/assets/3fc164f7-8c85-407e-8462-73090a244a14)# Suggestions
 
 # Master Sets
 
@@ -49,6 +49,19 @@ Comes from: ![mulchmasterscrate](https://github.com/user-attachments/assets/fa58
 | ![mulchmasterslegs](https://github.com/user-attachments/assets/731ca6a5-6092-4c2b-a71f-c21e168939dd)| Mulchmasterslegs | Legs | 1 in 5 chance from `mulchmasterscrate` | *When worn: Any mulching related activity gives 30% more xp* |*-2 mulch required to make megamulch*|
 |  ![mulchmastersmits](https://github.com/user-attachments/assets/263e7902-9cde-444e-9e3f-8ef24dc87c27)| Mulchmastersmits | Hands | 1 in 5 chance from `mulchmasterscrate`| *When worn: Any time you receive mulch or megamulch theres a 1 in 60 chance to receive a mulchpack too* |*-2 mulch required to make megamulch*|
 | ![mulchmastersboots](https://github.com/user-attachments/assets/e9ee8916-a19f-4abb-9d31-359bac4ed08a)| Mulchmastersboots | Feet | 1 in 5 chance from `mulchmasterscrate` | *When worn: Any time you thieve with over 15 anchovy in your inv, you will kick off a !makemulch too* | *-2 mulch required to make megamulch* |
+
+
+## Master Set: ??????
+
+Comes from: ![bovacreate](https://github.com/user-attachments/assets/ff8537c8-954f-4440-bdb8-d58cd8af20e3)  `???????`
+
+| Icon | Name | Slot | Obtained | Details | Bonus Per Piece |
+| ------ | ------ | ------- | ---- | ---- | ---- |
+| ![image](https://github.com/user-attachments/assets/59307d61-9079-4dc9-8631-8a7a44f46b8a)| ???????? | Head | 1 in 5 chance from `????????` |  *When worn: Any exp gained while mulching will roll for shilling and shell too*  | ???????? |
+| ![image](https://github.com/user-attachments/assets/c7ac59f9-e93a-47af-9f2c-770a8dc744e5) | ???????? | Chest | 1 in 5 chance from `????????` | ???????? |
+| ![image](https://github.com/user-attachments/assets/87a267fa-c4be-4396-8f65-8d60dd03eb1a) | ???????? | Legs | 1 in 5 chance from `????????` | *When worn: Any mulching related activity gives 30% more xp* | ???????? |
+| ![image](https://github.com/user-attachments/assets/b69cdda1-b992-46e3-892b-39a560e492b5) | ???????? | Hands | 1 in 5 chance from `????????`| *When worn: Any time you receive mulch or megamulch theres a 1 in 60 chance to receive a mulchpack too* | ???????? |
+| ![image](https://github.com/user-attachments/assets/d77b8dfb-3be9-494c-950e-b47d54255c92)| ???????? | Feet | 1 in 5 chance from `????????` | *When worn: Any time you thieve with over 15 anchovy in your inv, you will kick off a !makemulch too* | ???????? |
 
 
 ## BUGS
