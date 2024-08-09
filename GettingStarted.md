@@ -44,6 +44,8 @@ As you ease out of being a beginner you will want to make sure you have an item 
 
 Also, ensure you have one piece of jewlery in your inv. An ammy, ring and anklet. These can be bought from the shop for 1.6-2m 
 
+Gems Gems Gems.... very valuable to use.. sell.. and grant GREAT crafting exp.
+
 Once you have jewlery, make sure you !use cut gems to enchant them. Each piece of jewlery can be buffed by up to +15% by adding 15 gems to it.
 
 This is a good time to start checking !stats and obtaining items to buff rod speed, rod power and exp/fish gained. The in game shop offers a lot between items and rods for increasing your fish yields 
