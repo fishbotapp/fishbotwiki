@@ -10,13 +10,13 @@ Master crate prices as follows:
 
 | Icon | Name | !make level | !make recipe | !make xp gained |
 | ------ | ------ | ------- | ---- | ---- |
-| ![image](https://fishbot.app/items/minilockpick.png) | Saltkingscrate | 50 | 125x `saltrock` | 1 in 10 chance to break |
-| ![image](https://fishbot.app/items/lockpick.png) | Mulchmasterscrate | 50 | 200x `megamulch` | |
-| ![image](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ???????? | 50 | 400x `bova` | +40% chance of double thieve |
-| ![image](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ???????? | 50 | 450x `rustycoin`| +18% chance of double thieve |
-| ![image](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ???????? | 50 | 600x `crushedgem` | +40% chance of double thieve |
-| ![image](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ???????? | 50 | 700x `lobsterclaw` | +28% chance of double thieve |
-| ![image](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ???????? | 50 | 1000x `eelhide` | +8% chance of double thieve |
+| ![image](https://fishbot.app/items/minilockpick.png) | Saltkingscrate | 50 | 125x `saltrock` | 20,000 |
+| ![image](https://fishbot.app/items/lockpick.png) | Mulchmasterscrate | 50 | 200x `megamulch` | 20,000 |
+| ![image](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ???????? | 50 | 400x `bova` | 20,000 |
+| ![image](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ???????? | 50 | 450x `rustycoin`| 20,000 |
+| ![image](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ???????? | 50 | 600x `crushedgem` | 20,000|
+| ![image](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ???????? | 50 | 700x `lobsterclaw` | 20,000 |
+| ![image](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ???????? | 50 | 1000x `eelhide` | 20,000 |
 
 
 
