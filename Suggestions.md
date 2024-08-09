@@ -11,6 +11,8 @@ These items are top tier, endgame bangers with great stats and effects... thus t
 
 Master crates are made via !make OR found in various places as a very very rare drop
 
+*If opening a crate and you are due to receive an item that you already have, there is a 33% chance it is re-rolled*
+
 | Icon | Name | !make level | !make recipe | !make xp gained |
 | ------ | ------ | ------- | ---- | ---- |
 | ![saltkingscrate](https://github.com/user-attachments/assets/fc0e72ef-4acc-4d4f-8ed4-43dc28df6222) | Saltkingscrate | 50 | 125x `saltrock` | 20,000 craft xp |
