@@ -27,14 +27,11 @@ Master crates are made via !make
 
 | Icon | Name | Slot | Obtained | Details |
 | ------ | ------ | ------- | ---- | ---- |
-| ![saltkingscrate](https://github.com/user-attachments/assets/fc0e72ef-4acc-4d4f-8ed4-43dc28df6222) | Saltkingscrate | 50 | 125x `saltrock` | 20,000 |
-|  ![mulchmasterscrate](https://github.com/user-attachments/assets/fa58c90e-3c38-44e9-8599-df1ffaf75345) | Mulchmasterscrate | 50 | 200x `megamulch` | 20,000 |
-| ![bovacreate](https://github.com/user-attachments/assets/ff8537c8-954f-4440-bdb8-d58cd8af20e3) | ???????? | 50 | 400x `bova` | 20,000 |
-| ![coincrate](https://github.com/user-attachments/assets/87060fdd-045e-428b-8211-131fd285ffd6) | ???????? | 50 | 450x `rustycoin`| 20,000 |
-| ![gemcrate](https://github.com/user-attachments/assets/ed8fc257-3782-4eaa-9de4-a5a891244cb0) | ???????? | 50 | 600x `crushedgem` | 20,000|
-|![lobcrate](https://github.com/user-attachments/assets/56c376aa-0ca3-46f5-b962-b965cdc7d0de) | ???????? | 50 | 700x `lobsterclaw` | 20,000 |
-| ![slimecrate](https://github.com/user-attachments/assets/115f134c-04e9-4e25-a521-fbe4ced78e1d) | ???????? | 50 | 1000x `eelhide` | 20,000 |
-
+| ![saltmasterscrown (1)](https://github.com/user-attachments/assets/ebebd9ab-c044-4238-b017-fb4c87dfdc71) | Saltkingscrate | 50 | 125x `saltrock` | 20,000 |
+| ![saltmastersplate](https://github.com/user-attachments/assets/fded50ae-8743-4242-8c02-f86708dd6514) | Mulchmasterscrate | 50 | 200x `megamulch` | 20,000 |
+| ![saltmastersleggings](https://github.com/user-attachments/assets/56997838-a6a0-4e45-b95b-2a9971dcb850) | ???????? | 50 | 400x `bova` | 20,000 |
+| ![New Projectsaltmastersgauntlets](https://github.com/user-attachments/assets/56e9370e-b9a0-4f13-b812-5801f599994b) | ???????? | 50 | 450x `rustycoin`| 20,000 |
+| ![saltmasterssandals](https://github.com/user-attachments/assets/cb133f75-2c85-4825-9d2e-21d21611fbec) | ???????? | 50 | 600x `crushedgem` | 20,000|
 
 ## Master Set: Mulchmasters
 
