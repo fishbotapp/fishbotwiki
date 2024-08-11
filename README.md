@@ -3,16 +3,13 @@
 
 Latest Game Update 
 
-# 3.2 Fun update - 2024-07-15
-Keepin the game fresh while we waiting for boss battles!
-
-- 12 new rare and fun items findable in purple/pirate/mysteryprizes
-- +10% purple chest spawn chance
-- +8% pirate chest spawn chance
-- +5% goblin spawn chance
-- +5% bova spawn chance
-- +2% salesman spawn chance
-Various weaker items taken off the purple/pirate/mysteryprize droptable
+# 3.32 Fixes and buffs 
+`2024-08-10`
+- Fixed a bug where an item would give no xp and break your stats
+- Much higher chance to get item instead of fish from purps
+- Fish quantities upped slightly with purps and based on fish level
+- Taken a few bad purp items out of purp droptable
+- Increased chance of new items to appear in purp and pirate droptable
 
 -------------------------------
 
