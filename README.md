@@ -1,9 +1,8 @@
 
 # Fishbot.app Wiki #
 
-Latest Game Update 
 
-# 3.32 Fixes and buffs 
+### Latest Update: 3.32 Fixes and buffs 
 `2024-08-10`
 - Fixed a bug where an item would give no xp and break your stats
 - Much higher chance to get item instead of fish from purps
