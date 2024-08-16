@@ -18,11 +18,11 @@ First:
 
 You can make money by selling the fish gained from fishing trips. Early on, you will need to upgrade your rod ASAP. So a `!sellallfish` after every fishing trip and `!coins` to see where you are at.
 
-5000 gold: `oakrod`\
-15000 gold: `willowrod`\
-50000 gold: `maplerod`\
-200000 gold: `yewrod`\
-800000 gold: `magicrod`
+5000 gold: ![image](https://fishbot.app/items/oakrod.png) `oakrod`\
+15000 gold: ![image](https://fishbot.app/items/willowrod.png) `willowrod`\
+50000 gold: ![image](https://fishbot.app/items/maplerod.png) `maplerod`\
+200000 gold: ![image](https://fishbot.app/items/yewrod.png) `yewrod`\
+800000 gold: ![image](https://fishbot.app/items/magicrod.png) `magicrod`
 
 A big essential is a `lockpick` (160000 gold) or a `minilockpick` (16000 gold, but can break). This will allow you to `!thieve barrel` which will start leveling your thieving and get you free fish/gold/items.
 
