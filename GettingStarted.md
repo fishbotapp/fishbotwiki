@@ -18,6 +18,8 @@ First:
 
 You can make money by selling the fish gained from fishing trips. Early on, you will need to upgrade your rod ASAP. So a `!sellallfish` after every fishing trip and `!coins` to see where you are at.
 
+Here are some low level rods:
+
 5000 gold: ![image](https://fishbot.app/items/oakrod.png) `oakrod`\
 15000 gold: ![image](https://fishbot.app/items/willowrod.png) `willowrod`\
 50000 gold: ![image](https://fishbot.app/items/maplerod.png) `maplerod`\
