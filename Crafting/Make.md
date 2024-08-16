@@ -7,21 +7,21 @@
   # Make Recipes #
 
   
-| Icon | Name | Level Required | Recipe | Makes multiple |
-| ------ | ------ | ----- | ------- | ---- |
-| ![image](https://fishbot.app/items/craftingpotion.png) | Craftingpotion | 7 | `1x fisheye` + `1x mulch` + `1x vial` | |
-| ![image](https://fishbot.app/items/eelrod.png) | Eelrod | 12 | `1x yewrod` + `1x lockpick` | |
-| ![image](https://fishbot.app/items/thievingpotion.png) | Thievingpotion | 19 | `1x rustycoin` + `1x mulch` + `1x vial`  | |
-| ![image](https://fishbot.app/items/fishbovaboots.png) | Fishbovaboots | 21 |  `1x fishberry` + `5x bova` | |
-| ![image](https://fishbot.app/items/thievebovaboots.png) | Thievebovaboots | 21 | `1x thieveberry` + `5x bova`| |
-| ![image](https://fishbot.app/items/craftbovaboots.png) | Craftbovaboots | 21 | `1x craftberry` + `5x bova` | |
-| ![image](https://fishbot.app/items/fishbovagloves.png) | Fishbovagloves | 27 | `1x fishberry` + `7x bova`  | |
-| ![image](https://fishbot.app/items/thievebovagloves.png) | Thievebovagloves | 27 |`1x thieveberry` + `7x bova`  | |
-| ![image](https://fishbot.app/items/craftbovagloves.png) | Craftbovagloves | 27 |  `1x craftberry` + `7x bova`  | |
-| ![image](https://fishbot.app/items/saltcatcherrod.png) | Saltcatcherrod | 30 | `1x maplerod` + `1x glasstrinket` | |
-| ![image](https://fishbot.app/items/fishingpotion.png) | Fishingpotion | 32 | `1x lobsterclaw` + `1x mulch` + `1x vial`  | |
-| ![image](https://fishbot.app/items/mulchbomb.png) | Mulchbomb | 34 |  `3x lobsterclaw` + `3x fisheye` + `3x fisheggs` + `3x mulch` + `1x vial` | |
-| ![image](https://fishbot.app/items/gamblerspotion.png) | Gamblerspotion | 42 |  `4x rustycoin` + `2x crushedvial` + `6000x coins` + `6x fisheggs` + `1x vial` | |
+| Icon | Name | Level Required | Recipe | Makes multiple | Craft Xp | Craft time |
+| ------ | ------ | ----- | ------- | ---- | ---- | ---- |
+| ![image](https://fishbot.app/items/craftingpotion.png) | Craftingpotion | 7 | `1x fisheye` + `1x mulch` + `1x vial` | | | |
+| ![image](https://fishbot.app/items/eelrod.png) | Eelrod | 12 | `1x yewrod` + `1x lockpick` | | | |
+| ![image](https://fishbot.app/items/thievingpotion.png) | Thievingpotion | 19 | `1x rustycoin` + `1x mulch` + `1x vial`  | | | |
+| ![image](https://fishbot.app/items/fishbovaboots.png) | Fishbovaboots | 21 |  `1x fishberry` + `5x bova` | | | |
+| ![image](https://fishbot.app/items/thievebovaboots.png) | Thievebovaboots | 21 | `1x thieveberry` + `5x bova`| | | |
+| ![image](https://fishbot.app/items/craftbovaboots.png) | Craftbovaboots | 21 | `1x craftberry` + `5x bova` | | | |
+| ![image](https://fishbot.app/items/fishbovagloves.png) | Fishbovagloves | 27 | `1x fishberry` + `7x bova`  | | | |
+| ![image](https://fishbot.app/items/thievebovagloves.png) | Thievebovagloves | 27 |`1x thieveberry` + `7x bova`  | | | |
+| ![image](https://fishbot.app/items/craftbovagloves.png) | Craftbovagloves | 27 |  `1x craftberry` + `7x bova`  | | | |
+| ![image](https://fishbot.app/items/saltcatcherrod.png) | Saltcatcherrod | 30 | `1x maplerod` + `1x glasstrinket` | | | |
+| ![image](https://fishbot.app/items/fishingpotion.png) | Fishingpotion | 32 | `1x lobsterclaw` + `1x mulch` + `1x vial`  | | | |
+| ![image](https://fishbot.app/items/mulchbomb.png) | Mulchbomb | 34 |  `3x lobsterclaw` + `3x fisheye` + `3x fisheggs` + `3x mulch` + `1x vial` | | | |
+| ![image](https://fishbot.app/items/gamblerspotion.png) | Gamblerspotion | 42 |  `4x rustycoin` + `2x crushedvial` + `6000x coins` + `6x fisheggs` + `1x vial` | | | |
 
 
 *SOMEONE PLEASE FILL SOME MORE IN COME ONNNN*
