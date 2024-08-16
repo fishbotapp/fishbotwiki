@@ -32,13 +32,13 @@ You want to look out for `barrelnote` and `otherbarrelnote` when thieving the ba
 
 Once you start to catch and find anchovy, you can start training crafting by `!makemulch`. This uses up 25x anchovy but will get you 1x mulch in return. If you have found vials, level 7 crafting allows you to `!make craftingpotion`. If you find an eyehook, you can `!use pike` as another low level crafting training method.
 
-Long term goals should always be to fish hard, upgrade your rod, lockpick and eventually wearable gear. 
+Low level crafting actions [can be found on the Crafting page](https://fishbotapp.github.io/fishbotwiki/Crafting/)
 
 Always check `!make?` to see if you have any new crafting recipes unlocked. It shows what you can craft with current craft level + inventory.
 
 Its always good to check `!make?` after using a craftingpotion or supercraftingpotion. This will show you the highest items you cna craft.
 
-Keep an eye out for `bova` corner event.. this will give you bova and berries which lead to early level craftable gear that you can wear. Its good to be familiar with all corner events found [here.](https://fishbotapp.github.io/fishbotwiki/CornerEvents/)
+Keep an eye out for `bova` corner event.. this will give you bova and berries which lead to early level craftable gear that you can wear. Its good to be familiar with all corner events found [on the Corner Events page.](https://fishbotapp.github.io/fishbotwiki/CornerEvents/)
 
 # Mid level goals:
 
