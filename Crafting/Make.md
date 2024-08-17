@@ -20,7 +20,10 @@
 | ![image](https://fishbot.app/items/craftbovagloves.png) | Craftbovagloves | 27 |  `1x craftberry` + `7x bova`  | | | |
 | ![image](https://fishbot.app/items/saltcatcherrod.png) | Saltcatcherrod | 30 | `1x maplerod` + `1x glasstrinket` | | 100 | |
 | ![image](https://fishbot.app/items/fishingpotion.png) | Fishingpotion | 32 | `1x lobsterclaw` + `1x mulch` + `1x vial`  | | 81 | |
+| ![image](https://fishbot.app/items/fishingbag.png) | Fishingbag | 32 | `6x eelhide` | | 150 | |
 | ![image](https://fishbot.app/items/mulchbomb.png) | Mulchbomb | 34 |  `3x lobsterclaw` + `3x fisheye` + `3x fisheggs` + `3x mulch` + `1x vial` | | 110 | |
+| ![image](https://fishbot.app/items/redcoat.png) | Redcoat | 36 |  `8x eelhide` + `5x fisheggs` | | 160 | |
+| ![image](https://fishbot.app/items/greencoat.png) | Greencoat | 36 |  `8x eelhide` + `2x eelskin` | | 160 | |
 | ![image](https://fishbot.app/items/gamblerspotion.png) | Gamblerspotion | 42 |  `4x rustycoin` + `2x crushedvial` + `6000x coins` + `6x fisheggs` + `1x vial` | | 190 | |
 
 
