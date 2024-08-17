@@ -340,7 +340,7 @@ Items are in order of collection log
 | ![image](https://fishbot.app/items/sneakerscap.png) | Sneakerscap |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/tickerscap.png) | Tickerscap |  |  | ** | |  | |
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/tickerscap.png) | Gwillet |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/gwillet.png) | Gwillet |  |  | *A lightly glowing monkrobe top. When worn, a player cannot: thieve, catch anchovy (the holy fish) or make mulch. However, they will receive +3% all fish caught, +45% angler caught and +20% exp from anglers. Has a 1 in 5000 chance to break per angler caught* | |  | |
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/scrollofmulchmania.png) | Scrollofmulchmania |  |  | ** | |  | |
