@@ -24,7 +24,10 @@
 | ![image](https://fishbot.app/items/mulchbomb.png) | Mulchbomb | 34 |  `3x lobsterclaw` + `3x fisheye` + `3x fisheggs` + `3x mulch` + `1x vial` | | 110 | |
 | ![image](https://fishbot.app/items/redcoat.png) | Redcoat | 36 |  `8x eelhide` + `5x fisheggs` | | 160 | |
 | ![image](https://fishbot.app/items/greencoat.png) | Greencoat | 36 |  `8x eelhide` + `2x eelskin` | | 160 | |
+| ![image](https://fishbot.app/items/sortingpotion.png) | Sortingpotion | 37 |  `1x rustycoin` + `2x crushedvial` + `4x fisheye` + `4x fisheggs` + `1x vial` | | 170 | |
+| ![image](https://fishbot.app/items/saltdispencer.png) | Saltdispencer | 38 |  `1x saltrock` + `1x glasstrinket` | | 140 | |
 | ![image](https://fishbot.app/items/gamblerspotion.png) | Gamblerspotion | 42 |  `4x rustycoin` + `2x crushedvial` + `6000x coins` + `6x fisheggs` + `1x vial` | | 190 | |
+
 
 
 *SOMEONE PLEASE FILL SOME MORE IN COME ONNNN*
