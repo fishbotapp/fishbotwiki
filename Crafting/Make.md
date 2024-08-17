@@ -22,8 +22,8 @@
 | ![image](https://fishbot.app/items/fishingpotion.png) | Fishingpotion | 32 | `1x lobsterclaw` + `1x mulch` + `1x vial`  | | 81 | |
 | ![image](https://fishbot.app/items/fishingbag.png) | Fishingbag | 32 | `6x eelhide` | | 150 | |
 | ![image](https://fishbot.app/items/mulchbomb.png) | Mulchbomb | 34 |  `3x lobsterclaw` + `3x fisheye` + `3x fisheggs` + `3x mulch` + `1x vial` | | 110 | |
-| ![image](https://fishbot.app/items/redcoat.png) | Redcoat | 36 |  `8x eelhide` + `5x fisheggs` | | 160 | |
-| ![image](https://fishbot.app/items/greencoat.png) | Greencoat | 36 |  `8x eelhide` + `2x eelskin` | | 160 | |
+| ![image](https://fishbot.app/items/redcoat.png) | Redcoat | 36 | TEAM SCYTHE + `8x eelhide` + `5x fisheggs` | | 160 | |
+| ![image](https://fishbot.app/items/greencoat.png) | Greencoat | 36 | TEAM TBOW + `8x eelhide` + `2x eelskin` | | 160 | |
 | ![image](https://fishbot.app/items/sortingpotion.png) | Sortingpotion | 37 |  `1x rustycoin` + `2x crushedvial` + `4x fisheye` + `4x fisheggs` + `1x vial` | | 170 | |
 | ![image](https://fishbot.app/items/saltdispencer.png) | Saltdispencer | 38 |  `1x saltrock` + `1x glasstrinket` | | 140 | |
 | ![image](https://fishbot.app/items/mulchpocket.png) | Mulchpocket | 38 |  `14x eelhide` + `6x mulch` | | 220 | |
