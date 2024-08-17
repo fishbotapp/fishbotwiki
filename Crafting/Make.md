@@ -26,8 +26,11 @@
 | ![image](https://fishbot.app/items/greencoat.png) | Greencoat | 36 |  `8x eelhide` + `2x eelskin` | | 160 | |
 | ![image](https://fishbot.app/items/sortingpotion.png) | Sortingpotion | 37 |  `1x rustycoin` + `2x crushedvial` + `4x fisheye` + `4x fisheggs` + `1x vial` | | 170 | |
 | ![image](https://fishbot.app/items/saltdispencer.png) | Saltdispencer | 38 |  `1x saltrock` + `1x glasstrinket` | | 140 | |
+| ![image](https://fishbot.app/items/mulchpocket.png) | Mulchpocket | 38 |  `14x eelhide` + `6x mulch` | | 220 | |
+| ![image](https://fishbot.app/items/supercraftingpotion.png) | Supercraftingpotion | 39 |  `10x fisheye` + `2x lobsterclaw` + `3x mulch` + `3x crushedvial` + `5x fisheggs` + `1x vial` | | 170 | |
 | ![image](https://fishbot.app/items/gamblerspotion.png) | Gamblerspotion | 42 |  `4x rustycoin` + `2x crushedvial` + `6000x coins` + `6x fisheggs` + `1x vial` | | 190 | |
-
+| ![image](https://fishbot.app/items/superthievingpotion.png) | Superthievingpotion | 47 |  `6x rustycoin` + `1x crusheddubloon` + `2x lobsterclaw` + `3x mulch` + `3x crushedvial` + `8x fisheggs` + `1x vial` | | 240 | |
+| ![image](https://fishbot.app/items/superfishingpotion.png) | Superfishingpotion | 52 | `1x megamulch` + `8x lobsterclaw` + `12x fisheggs` + `3x crushedvial` + `1x vial` | | 280 | |
 
 
 *SOMEONE PLEASE FILL SOME MORE IN COME ONNNN*
