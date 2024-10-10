@@ -1,6 +1,29 @@
 
 # Fishbot.app Wiki #
 
+New player? Great starter tips to progress fast at the [New Player Guide](./GettingStarted.md)
+
+Built by the community, for the community!
+
+- [Item Database](./ItemDatabase/README.md)
+- [Fishing](./Fishing/README.md)
+  - [Fishmarkets](./Fishing/Fishmarkets/Fishmarkets.md)
+- [Thieving](./Thieving/README.md)
+  - [Thieve UDT](./Thieving/UDT.md)
+- [Crafting](./Crafting/README.md)
+  - [Make Recipes](./Crafting/Make.md)
+- [Corner Events](./CornerEvents/README.md)
+- [Player Shops](./PlayerShops/README.md)
+- [Gambling](./Gambling/README.md)
+
+[Wiki Editing Guide](/WikiGuide/README.md)
+
+For game suggestions:
+- [Suggestions](./Suggestions.md)
+
+--------------------
+
+# Latest Game Update
 
 ### 3.38 Balance and Fixes `2024-10-10`
 - powerpotion fixed, was previously not working
@@ -26,25 +49,5 @@
 - thieving now also checks playershops and fishbank to see if you have a note when calculating if it could drop one
 
 -------------------------------
-
-New player? Great starter tips to progress fast at the [New Player Guide](./GettingStarted.md)
-
-Built by the community, for the community!
-
-- [Item Database](./ItemDatabase/README.md)
-- [Fishing](./Fishing/README.md)
-  - [Fishmarkets](./Fishing/Fishmarkets/Fishmarkets.md)
-- [Thieving](./Thieving/README.md)
-  - [Thieve UDT](./Thieving/UDT.md)
-- [Crafting](./Crafting/README.md)
-  - [Make Recipes](./Crafting/Make.md)
-- [Corner Events](./CornerEvents/README.md)
-- [Player Shops](./PlayerShops/README.md)
-- [Gambling](./Gambling/README.md)
-
-[Wiki Editing Guide](/WikiGuide/README.md)
-
-For game suggestions:
-- [Suggestions](./Suggestions.md)
 
 Enjoy
