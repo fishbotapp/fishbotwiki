@@ -25,28 +25,18 @@ For game suggestions:
 
 # Latest Game Update
 
-### 3.38 Balance and Fixes `2024-10-10`
-- powerpotion fixed, was previously not working
-- speedpotion fixed, was previously not working
-- hopelessnecklace fixed, was previously not working and caused your shrimp to go to 0
-- `!inv legs` should now work properly
-- small buff to the rate of shark related items gained from processing shark
-- progalacticrod upped from +25% fishing xp to +80% fishing xp
-- slightly buffed sharks found with harpoon
-- slightly lowered general exp gained with harpoon
-- greatly buffed exp gained with harpoon per shark caught
-- transmogstaff can now be used on rods (thats almost every item it can be used on!)
-- transmogstaff description updated to be made more clear
-- corner event logic fixed, so that they will never spawn over eachother from procs.... unless theres no other choice
-- lordsblessing description changed to be made more clear
-- ghostlyrobe buffed slightly
-- eternalskeletonkey buffed slightly, so that it has a 1 in 5 chance to reset and be used again
-- enternalskeletonkey fixed, it will now include the mystic well, if you have the note
-- fixed the missing +1 stat boost upon consuming any type of berry
-- small nerf to mystic well thieve xp reward
-- fixed a bug where a requiem item would require two orbcores to craft, but you would only pay one. You now pay 2
-- orbcore drop rates lowered across the board
-- thieving now also checks playershops and fishbank to see if you have a note when calculating if it could drop one
+# 4.0 Halloween, Boss Battles and more
+
+- Halloween 2024 event, be on the lookout for some spooky situations!
+- Bossbattles are now finally active
+- Mastersets added
+- Wiki pet added
+- Purple weathers added
+- Skillcapes added
+- Some things now included in !make that weren't before
+- All up 34 new items were added to the game, but bossbattles unlocks another 30 items also
+- More items coming soon related to the new content
+- 667 items all up in the collection log now.. wow!
 
 -------------------------------
 
