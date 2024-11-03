@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/3fc164f7-8c85-407e-8462-73090a244a14)# Suggestions
+
+# Suggestions
 
 ## BUGS
 
