@@ -25,18 +25,15 @@ For game suggestions:
 
 # Latest Game Update
 
-# 4.0 Halloween, Boss Battles and more
+# 4.01 Boss battles updates `2024-11-12`
 
-- Halloween 2024 event, be on the lookout for some spooky situations!
-- Bossbattles are now finally active
-- Mastersets added
-- Wiki pet added
-- Purple weathers added
-- Skillcapes added
-- Some things now included in !make that weren't before
-- All up 34 new items were added to the game, but bossbattles unlocks another 30 items also
-- More items coming soon related to the new content
-- 667 items all up in the collection log now.. wow!
+- You will now find boss shards, `nepulite` and `posuluite`, from fighting neptune and posidon
+- New gearslot: `weapon`
+- Some previously existing items can now be worn as weapons, try `!inv weapon` to see if you have any!
+- 14 new items added to the game since 4.0
+- Top damage contributer each round will now automatically receive 1x boss shard and 1x bone
+- Contributing to boss fights each round is now tallied and counts for extra unique drop chance and boss shards received on final boss kill
+- Various fixes and tweaks
 
 -------------------------------
 
