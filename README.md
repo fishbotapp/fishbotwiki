@@ -25,7 +25,7 @@ For game suggestions:
 
 # Latest Game Update
 
-# 4.02 Boss battles updates `2024-11-22`
+# 4.02 End of Hween `2024-11-22`
 
 - Halloween 2024 is over
 - Exp tracking v1 being tested now
