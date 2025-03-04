@@ -23,7 +23,6 @@ Each location holds a pool of items avaliable to receive from hitting their UDT.
 | ![image](https://fishbot.app/items/scrollofmanipulation.png) | Scrollofmanipulation | **Mystic** |  |
 | ![image](https://fishbot.app/items/scrollofthenight.png) | Scrollofthenight | **Mystic** |  |
 | ![image](https://fishbot.app/items/scrollofgemmagic.png) | Scrollofgemmagic | **Mystic** |  |
-
 | ![image](https://fishbot.app/items/leatherpack.png) | Leatherpack | Underbarrell |  |
 | ![image](https://fishbot.app/items/swordfishmarket.png) | Swordfishmarket | Shop, Shore? |  |
 | ![image](https://fishbot.app/items/pikepassport.png) | Pikepassport | Shore |  |
