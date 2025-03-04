@@ -10,7 +10,7 @@ Each location holds a pool of items avaliable to receive from hitting their UDT.
 
 | Icon | Name | Thieve Locations | Effect |
 | ------ | ------ | ------- | ---- |
-| ![haty](https://github.com/fishbotapp/fishbotwiki/assets/163616414/51ac7b86-3f54-4bd3-a7ed-e258d526da13) | ????? | Barrel | |
+| ![image](https://fishbot.app/items/mongerscap.png) | Mongerscap | Barrel | |
 | ![image](https://fishbot.app/items/rustycap.png) | Rustycap | Underbarrel | |
 | ![image](https://fishbot.app/items/southshorecap.png) | Southshorecap |Shore |   |
 | ![image](https://fishbot.app/items/northshorecap.png) | Northshorecap |Shore |  |
