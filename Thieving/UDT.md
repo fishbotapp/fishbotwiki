@@ -6,6 +6,26 @@ The odds of this occuring are quite rare, but go up the higher your thieve level
 
 Each location holds a pool of items avaliable to receive from hitting their UDT.
 
+## UDT Items by Location ##
+
+### Barrel
+
+![image](https://fishbot.app/items/mongerscap.png) ![image](https://fishbot.app/items/blingtrinket.png) ![image](https://fishbot.app/items/scrollofmulchmania.png) ![image](https://fishbot.app/items/scrollofbonanza.png)  ![image](https://fishbot.app/items/scrolloflockpickalchemy.png)
+
+### Underbarrel
+
+### Shore
+
+### Shop
+
+### Craftbox
+
+### Mystic
+
+
+
+
+
 ## UDT Items ##
 
 | Icon | Name | Thieve Locations | Effect |
@@ -33,5 +53,6 @@ Each location holds a pool of items avaliable to receive from hitting their UDT.
 | ![image](https://fishbot.app/items/glowpeach.png) | Glowpeach | Craftbox |  |
 | ![image](https://fishbot.app/items/mysticgown.png) | Mysticgown | Mystic |  |
 | ![image](https://fishbot.app/items/mysticbook.png) | Mysticbook | Mystic |  |
+| ![image](https://fishbot.app/items/wizardbeard.png) | Wizardbeard | Mystic |  |
 
 
