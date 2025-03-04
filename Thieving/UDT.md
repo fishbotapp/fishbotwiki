@@ -16,9 +16,14 @@ Each location holds a pool of items avaliable to receive from hitting their UDT.
 | ![image](https://fishbot.app/items/northshorecap.png) | Northshorecap |Shore |  |
 | ![image](https://fishbot.app/items/sneakerscap.png) | Sneakerscap |Shop | |
 | ![image](https://fishbot.app/items/tickerscap.png) | Tickerscap | Craftbox |  |
+| ![image](https://fishbot.app/items/mysticcap.png) | Mysticcap | Mystic |  |
 | ![image](https://fishbot.app/items/scrollofmulchmania.png) | Scrollofmulchmania | **All** |  |
-| ![image](https://fishbot.app/items/scrollofmulchmania.png) | Scrolloflockpickalchemy | **All** |  |
-| ![image](https://fishbot.app/items/scrollofmulchmania.png) | Scrollofbonanza | **All** |  |
+| ![image](https://fishbot.app/items/scrolloflockpickalchemy.png) | Scrolloflockpickalchemy | **All** |  |
+| ![image](https://fishbot.app/items/scrollofbonanza.png) | Scrollofbonanza | **All** |  |
+| ![image](https://fishbot.app/items/scrollofmanipulation.png) | Scrollofmanipulation | **Mystic** |  |
+| ![image](https://fishbot.app/items/scrollofthenight.png) | Scrollofthenight | **Mystic** |  |
+| ![image](https://fishbot.app/items/scrollofgemmagic.png) | Scrollofgemmagic | **Mystic** |  |
+
 | ![image](https://fishbot.app/items/leatherpack.png) | Leatherpack | Underbarrell |  |
 | ![image](https://fishbot.app/items/swordfishmarket.png) | Swordfishmarket | Shop, Shore? |  |
 | ![image](https://fishbot.app/items/pikepassport.png) | Pikepassport | Shore |  |
