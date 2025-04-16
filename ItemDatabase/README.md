@@ -96,18 +96,18 @@ Items are in order of collection log
 | ![image](https://fishbot.app/items/craftingknife.png) | Craftingknife |  |  | *used for various crafting activities* | |  | |
 | ![image](https://fishbot.app/items/gutter.png) | Gutter |  |  | *used for gutting fish to extract whatever is inside* | |  | |
 | ![image](https://fishbot.app/items/sickle.png) | Sickle |  |  | *used for harvesting bova. If this is in your inventory, you will get +50% chance of 1 extra bova and 2% chance of 1 extra berry from bova trees* | |  | |
-| ![image](https://fishbot.app/items/glowingstraw.png) | Glowingstraw |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/glowingeyehook.png) | Glowingeyehook |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/glowinghammer.png) | Glowinghammer |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/glowingmulchmallet.png) | Glowingmulchmallet |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/glowingchisel.png) | Glowingchisel |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/glowingcraftingknife.png) | Glowingcraftingknife |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/glowinggutter.png) | Glowinghutter |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/glowingsickle.png) | Glowingsickle |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/mealer.png) | Mealer |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/mealexpansionpack.png) | Mealexpansionpack |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/fishmeal.png) | Fishmeal |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/mealshield.png) | Mealshield |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/glowingstraw.png) | Glowingstraw |  |  | *grants an extra 10% chance to get your vial back after drinking a potion, 8% chance to keep the potion entirely and 20% chance to get it back after using a vialofsalt. 1 in 230 chance to break per use* | |  | |
+| ![image](https://fishbot.app/items/glowingeyehook.png) | Glowingeyehook |  |  | *Grants 15% chance to process 3 pike at once. 1 in 300 chance to break per use* | |  | |
+| ![image](https://fishbot.app/items/glowinghammer.png) | Glowinghammer |  |  | *grants 25% faster use time and 15% chance to double any crushedvial or crusheddubloon gained. Also gives 15% better chance to suceed when crushing vials. 1 in 160 chance to break each use* | |  | |
+| ![image](https://fishbot.app/items/glowingmulchmallet.png) | Glowingmulchmallet |  |  | *Grants 25% faster mulching, 5% chance to get double mulch and 1% chance to get megamulch when mulching up. 1 in 280 chance to break per use* | |  | |
+| ![image](https://fishbot.app/items/glowingchisel.png) | Glowingchisel |  |  | *Grants 30% faster use time and 10% more xp when using a chisel. Also gives 1-2 crushedgem when using a chisel on uncut gems. 1 in 130 chance to break per use* | |  | |
+| ![image](https://fishbot.app/items/glowingcraftingknife.png) | Glowingcraftingknife |  |  | *Grants 15% chance to double any eelskin gained. Also, grants 5% more xp per use. 1 in 200 chance to break per use* | |  | |
+| ![image](https://fishbot.app/items/glowinggutter.png) | Glowinggutter |  |  | *Gives +8 craft level bonus when calculating the success rate of gutting fish. Also gives +10% exp when gutting fish. 1 in 280 chance to break per use.* | |  | |
+| ![image](https://fishbot.app/items/glowingsickle.png) | Glowingsickle |  |  | *When harvesting bova, gives two 50% chance rolls for an extra +1 bova, as well as three 2% chance rolls for an extra berry! 1 in 150 chance to break per use* | |  | |
+| ![image](https://fishbot.app/items/mealer.png) | Mealer |  |  | *With this, you can make fishmeal out of any fish. Do !meal <fishname>* | |  | |
+| ![image](https://fishbot.app/items/mealexpansionpack.png) | Mealexpansionpack |  |  | *With this in your inv, you will get +3 fishmeal every time you !meal. Also, gives a 15% chance to get 3x exp gained from mealing* | |  | |
+| ![image](https://fishbot.app/items/fishmeal.png) | Fishmeal |  |  | *Allows you to join boss battles. Eaten by fisherman in intense battles to keep themself alive and full of energy* | |  | |
+| ![image](https://fishbot.app/items/mealshield.png) | Mealshield |  |  | *If this is in your inv, you get +1 PWR in boss battles and use 15% less fishmeal. Also, gives a 3% chance to get +750 fish xp when making meal. If worn, 2 less fishmeal eaten in boss battles* | |  | |
 | ![image](https://fishbot.app/items/lobsterlure.png) | Lobsterlure |  |  | *when you fish for lobsters you will get 10% more* | |  | |
 | ![image](https://fishbot.app/items/anchovyanchor.png) | Anchovyanchor |  |  | *theres a 10% chance to double your anchovies caught* | |  | |
 | ![image](https://fishbot.app/items/trouttrappa.png) | Trouttrappa |  |  | *you will get 7% more trout and trout caught give 7% more exp* | |  | |
@@ -120,42 +120,42 @@ Items are in order of collection log
 | ![image](https://fishbot.app/items/angludo.png) | Angludo |  |  | *+15% angler caught. Also, (if lvl 50 or higher fishing) grants 1 in 700 chance PER minute spent on the lake to get a free angler* | |  | |
 | ![image](https://fishbot.app/items/rainbowtrout.png) | Rainbowtrout |  |  | *grants +2% exp for fishing trout and +1% trout caught. Counts for all fishing trips and you can stack as many as you like! (up to a max of 50x rainbowtrout)* | |  | |
 | ![image](https://fishbot.app/items/albinolobster.png) | Albinolobster |  |  | *grants +1% lobster gained on fishing trips and you can stack as many of them as you like! (up to a max of 100x)* | |  | |
-| ![image](https://fishbot.app/items/lobsterbarrel.png) | lobsterbarrel |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/lobsterstatue.png) | lobsterstatue |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/lobsterbarrel.png) | lobsterbarrel |  |  | *If you have over 1500 lobster in your inv, you gain get 12% more lobster when fishing for lobster! This item is only findable when holding a certain lucky item* | |  | |
+| ![image](https://fishbot.app/items/lobsterstatue.png) | lobsterstatue |  |  | *with this in your inv, when you fish for lobsters you will get 10% more. Also, gives +15% to success rate at ripping off lobster claws. DOES stack with lobsterlure* | |  | |
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/minilockpick.png) | minilockpick |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/lockpick.png) | lockpick |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/bronzelockpick.png) | bronzelockpick |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/silverlockpick.png) | silverlockpick |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/goldlockpick.png) | goldlockpick |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/platinumlockpick.png) | platinumlockpick |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/enchantedlockpick.png) | enchantedlockpick |  |  | ** | |  | |
-| ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ???? |  |  | ** | |  | |
-| ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ???? |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/barrelnote.png) | barrelnote |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/otherbarrelnote.png) | otherbarrelnote |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/shorenote.png) | shorenote |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/shopnote.png) | shopnote |  |  | ** | |  | |
-| ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ???? |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/coinbattery.png) | coinbattery |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/shrimpbattery.png) | shrimpbattery |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/lobsterbattery.png) | lobsterbattery |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/shrimppassport.png) | shrimppassport |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/anchovypassport.png) | anchovypassport |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/troutpassport.png) | troutpassport |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/pikepassport.png) | pikepassport |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/shrimpmarket.png) | shrimpmarket |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/anchovymarket.png) | anchovymarket |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/troutmarket.png) | troutmarket |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/pikemarket.png) | pikemarket |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/swordfishmarket.png) | swordfishmarket |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/lobstermarket.png) | lobstermarket |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/goodreel.png) | goodreel |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/greatreel.png) | greatreel |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/supremereel.png) | supremereel |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/goodgrip.png) | goodgrip |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/greatgrip.png) | greatgrip |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/supremegrip.png) | supremegrip |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/minilockpick.png) | minilockpick |  |  | *Allows you to thieve a location once an hour to see what you can steal.. but with 10% chance to break per use* | |  | |
+| ![image](https://fishbot.app/items/lockpick.png) | lockpick |  |  | *Allows you to thieve a location once an hour to see what you can steal!* | |  | |
+| ![image](https://fishbot.app/items/bronzelockpick.png) | bronzelockpick |  |  | *A lockpick but with 8% chance to do a double thieve* | |  | |
+| ![image](https://fishbot.app/items/silverlockpick.png) | silverlockpick |  |  | *A lockpick but with 18% chance to do a double thieve* | |  | |
+| ![image](https://fishbot.app/items/goldlockpick.png) | goldlockpick |  |  | * A lockpick but with 28% chance to do a double thieve* | |  | |
+| ![image](https://fishbot.app/items/platinumlockpick.png) | platinumlockpick |  |  | *A lockpick but with 40% chance to do a double thieve. This item can only be found when holding a certain lucky item* | |  | |
+| ![image](https://fishbot.app/items/enchantedlockpick.png) | enchantedlockpick |  |  | *Grants 2.5x thieving exp from all thieving locations.. however you will NOT receive any rewards. Has 28% chance at double thieve. Can be turned on/off by using !use enchantedlockpick* | |  | |
+| ![unknown](https://fishbot.app/items/premierlockpick.png) | premierlockpick |  |  | * A lockpick but with 36% chance of double thieve and +8% thieving xp on thieves and +10% chance to thieve an item. It will also give +1 thieving level if it is in your inv. Also, on thieve, 4% chance to get a +4% thieve xp bonus that lasts until reset (stacks with itself!)* | |  | |
+| ![unknown](https://fishbot.app/items/glimmeringlockpick.png) | glimmeringlockpick |  |  | *A lockpick but with 52% chance of double thieve, +5% chance of lockpick cooldown reset and +25% more fish from thieving rewards and +1% chance of hitting unique thieving droptable. Also, on thieve, 3% chance to get a +1 thieve lvl bonus that lasts until reset (stacks with itself!)* | |  | |
+| ![image](https://fishbot.app/items/barrelnote.png) | barrelnote |  |  | *Allows you to !thieve shore* | |  | |
+| ![image](https://fishbot.app/items/otherbarrelnote.png) | otherbarrelnote |  |  | *Allows you to !thieve underbarrel* | |  | |
+| ![image](https://fishbot.app/items/shorenote.png) | shorenote |  |  | *Allows you to !thieve shop* | |  | |
+| ![image](https://fishbot.app/items/shopnote.png) | shopnote |  |  | *Allows you to !thieve craftbox* | |  | |
+| ![unknown](https://fishbot.app/items/mysticnote.png) | mysticnote |  |  | *Allows you to !thieve mystic* | |  | |
+| ![image](https://fishbot.app/items/coinbattery.png) | coinbattery |  |  | *Every time someone in the chat wins a gamble, you get $2* | |  | |
+| ![image](https://fishbot.app/items/shrimpbattery.png) | shrimpbattery |  |  | *Every 25 shrimp that the server fishes, you get 1* | |  | |
+| ![image](https://fishbot.app/items/lobsterbattery.png) | lobsterbattery |  |  | *Every 25 lobster that the server fishes, you get 1* | |  | |
+| ![image](https://fishbot.app/items/shrimppassport.png) | shrimppassport |  |  | *Your shrimp will always sell at 10% over market price* | |  | |
+| ![image](https://fishbot.app/items/anchovypassport.png) | anchovypassport |  |  | *Your anchovy will always sell at 10% over market price* | |  | |
+| ![image](https://fishbot.app/items/troutpassport.png) | troutpassport |  |  | *Your trout will always sell at 10% over market price* | |  | |
+| ![image](https://fishbot.app/items/pikepassport.png) | pikepassport |  |  | *Your pike will always sell at 10% over market price* | |  | |
+| ![image](https://fishbot.app/items/shrimpmarket.png) | shrimpmarket |  |  | *When you sell shrimp, theres a 8% chance the batch will sell for 2x the market price!* | |  | |
+| ![image](https://fishbot.app/items/anchovymarket.png) | anchovymarket |  |  | *When you sell anchovy, theres a 8% chance the batch will sell for 2x the market price!* | |  | |
+| ![image](https://fishbot.app/items/troutmarket.png) | troutmarket |  |  | *When you sell trout, theres a 8% chance the batch will sell for 2x the market price!* | |  | |
+| ![image](https://fishbot.app/items/pikemarket.png) | pikemarket |  |  | *When you sell pike, theres a 8% chance the batch will sell for 2x the market price!* | |  | |
+| ![image](https://fishbot.app/items/swordfishmarket.png) | swordfishmarket |  |  | *When you sell swordfish, theres a 8% chance the batch will sell for 2x the market price!* | |  | |
+| ![image](https://fishbot.app/items/lobstermarket.png) | lobstermarket |  |  | *When you sell lobster, theres a 8% chance the batch will sell for 2x the market price!* | |  | |
+| ![image](https://fishbot.app/items/goodreel.png) | goodreel |  |  | *Gives +1 speed to any rod you are currently using. Does not stack with other reel items* | |  | |
+| ![image](https://fishbot.app/items/greatreel.png) | greatreel |  |  | *Gives +2 speed to any rod you are currently using. Does not stack with other reel items* | |  | |
+| ![image](https://fishbot.app/items/supremereel.png) | supremereel |  |  | *Gives +3 speed to any rod you are currently using. Does not stack with other reel items* | |  | |
+| ![image](https://fishbot.app/items/goodgrip.png) | goodgrip |  |  | *Gives +1 power to any rod you are currently using. Does not stack with other grip items* | |  | |
+| ![image](https://fishbot.app/items/greatgrip.png) | greatgrip |  |  | *Gives +2 power to any rod you are currently using. Does not stack with other grip items* | |  | |
+| ![image](https://fishbot.app/items/supremegrip.png) | supremegrip |  |  | *Gives +3 power to any rod you are currently using. Does not stack with other reel items* | |  | |
 | ![image](https://fishbot.app/items/slots2.png) | slots2 |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/gamblebanner.png) | gamblebanner |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/eelskin.png) | eelskin |  |  | ** | |  | |
