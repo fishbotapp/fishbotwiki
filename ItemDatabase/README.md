@@ -81,9 +81,9 @@ Items are in order of collection log
 | ![image](https://fishbot.app/items/superfishingpotion.png) | Superfishingpotion |  | !make (52 crafting) | *Boosts fishing level by 9 for 2 hours* | |  | |
 | ![image](https://fishbot.app/items/bovaberrypotion.png) | Bovaberrypotion |  | !make (53 crafting) | When drank, is consumed and gives +225 fishing, thieving and crafting xp. It also grants 10% chance of an extra bova when harvesting a bova bush until next reset! ** | |  | |
 | ![image](https://fishbot.app/items/extendedgamblerspotion.png) | Extendedgamblerspotion |  | !make (54 crafting) | *Just like a regular gamblerspotion..  but will last until next reset!* | |  | |
-| ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738)  | ??? |  |  | ** | |  | |
-|  ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738)  | ??? |  | | ** | |  | |
-|  ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738)  | ??? |  | | ** | |  | |
+| ![unknown](https://fishbot.app/items/powerpotion.png)  | powerpotion |  | !make (49 crafting) | *Boosts rod power by +3 for 2 hours* | |  | |
+|  ![unknown](https://fishbot.app/items/speedpotion.png)  | speedpotion |  | !make (52 crafting)| *Boosts rod speed by +3 for 2 hours* | |  | |
+|  ![unknown](https://fishbot.app/items/sleeppotion.png)  | sleeppotion |  | !make (54 crafting)| *If drank, your next xxl trip will be 90 minutes longer* | |  | |
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
 |  ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
 |  ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
