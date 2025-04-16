@@ -88,14 +88,14 @@ Items are in order of collection log
 |  ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
 |  ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
 |  ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/straw.png) | Straw |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/eyehook.png) | Eyehook |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/hammer.png) | Hammer |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/mulchmallet.png) | Mulchmallet |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/chisel.png) | Chisel |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/craftingknife.png) | Craftingknife |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/gutter.png) | Gutter |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/sickle.png) | Sickle |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/straw.png) | Straw |  |  | *grants 60% chance to get your vial back after drinking a potion* | |  | |
+| ![image](https://fishbot.app/items/eyehook.png) | Eyehook |  |  | *can be used to take eyeballs out of pike* | |  | |
+| ![image](https://fishbot.app/items/hammer.png) | Hammer |  |  | *used for crushing certain items* | |  | |
+| ![image](https://fishbot.app/items/mulchmallet.png) | Mulchmallet |  |  | *with this in your inv, it only takes 15 anchovy to make mulch* | |  | |
+| ![image](https://fishbot.app/items/chisel.png) | Chisel |  |  | *used for cutting gems* | |  | |
+| ![image](https://fishbot.app/items/craftingknife.png) | Craftingknife |  |  | *used for various crafting activities* | |  | |
+| ![image](https://fishbot.app/items/gutter.png) | Gutter |  |  | *used for gutting fish to extract whatever is inside* | |  | |
+| ![image](https://fishbot.app/items/sickle.png) | Sickle |  |  | *used for harvesting bova. If this is in your inventory, you will get +50% chance of 1 extra bova and 2% chance of 1 extra berry from bova trees* | |  | |
 | ![image](https://fishbot.app/items/glowingstraw.png) | Glowingstraw |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/glowingeyehook.png) | Glowingeyehook |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/glowinghammer.png) | Glowinghammer |  |  | ** | |  | |
