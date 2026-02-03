@@ -82,12 +82,13 @@ Items are in order of collection log
 | ![image](https://fishbot.app/items/bovaberrypotion.png) | Bovaberrypotion |  | !make (53 crafting) | When drank, is consumed and gives +225 fishing, thieving and crafting xp. It also grants 10% chance of an extra bova when harvesting a bova bush until next reset! ** | |  | |
 | ![image](https://fishbot.app/items/extendedgamblerspotion.png) | Extendedgamblerspotion |  | !make (54 crafting) | *Just like a regular gamblerspotion..  but will last until next reset!* | |  | |
 | ![unknown](https://fishbot.app/items/powerpotion.png)  | powerpotion |  | !make (49 crafting) | *Boosts rod power by +3 for 2 hours* | |  | |
-|  ![unknown](https://fishbot.app/items/speedpotion.png)  | speedpotion |  | !make (52 crafting)| *Boosts rod speed by +3 for 2 hours* | |  | |
-|  ![unknown](https://fishbot.app/items/sleeppotion.png)  | sleeppotion |  | !make (54 crafting)| *If drank, your next xxl trip will be 90 minutes longer* | |  | |
-| ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
-|  ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
-|  ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
-|  ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
+|  ![unknown](https://fishbot.app/items/speedpotion.png)  | speedpotion |  | !make (52 crafting) | *Boosts rod speed by +3 for 2 hours* | |  | |
+|  ![unknown](https://fishbot.app/items/sleeppotion.png)  | sleeppotion |  | !make (54 crafting) | *If drank, your next xxl trip will be 90 minutes longer* | |  | |
+| ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | shadowpotion |  | !make (58 crafting) | *When drank, until next reset you will get +15 % thieving speed, +5% quicker thieve cooldown and +5% chance for a double thieve. Also, any items you find thieving will grant an extra 40 thieve xp.* | |  | |
+|  ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | craftxppotion |  | !make (60 crafting) | *If drank, you will get +15% crafting xp until next reset.* | |  | |
+|  ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | thievexppotion |  | !make (61 crafting) | *If drank, you will get +25% thieving xp until next reset.* | |  | |
+|  ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | fishxppotion |  | !make (62 crafting) | *If drank, you will get +15% fishing xp until next reset.* | |  | |
+|  ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??????? |  |  |  | |  | |
 | ![image](https://fishbot.app/items/straw.png) | Straw |  |  | *grants 60% chance to get your vial back after drinking a potion* | |  | |
 | ![image](https://fishbot.app/items/eyehook.png) | Eyehook |  |  | *can be used to take eyeballs out of pike* | |  | |
 | ![image](https://fishbot.app/items/hammer.png) | Hammer |  |  | *used for crushing certain items* | |  | |
