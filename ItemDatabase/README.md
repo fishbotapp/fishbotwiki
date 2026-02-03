@@ -157,53 +157,53 @@ Items are in order of collection log
 | ![image](https://fishbot.app/items/goodgrip.png) | goodgrip |  |  | *Gives +1 power to any rod you are currently using. Does not stack with other grip items* | |  | |
 | ![image](https://fishbot.app/items/greatgrip.png) | greatgrip |  |  | *Gives +2 power to any rod you are currently using. Does not stack with other grip items* | |  | |
 | ![image](https://fishbot.app/items/supremegrip.png) | supremegrip |  |  | *Gives +3 power to any rod you are currently using. Does not stack with other reel items* | |  | |
-| ![image](https://fishbot.app/items/slots2.png) | slots2 |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/gamblebanner.png) | gamblebanner |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/eelskin.png) | eelskin |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/eelhide.png) | eelhide |  |  | ** | |  
-| ![image](https://fishbot.app/items/sharkeye.png) | sharkeye |  |  | ** | |  
-| ![image](https://fishbot.app/items/sharkskin.png) | sharkskin |  |  | ** | |  
-| ![image](https://fishbot.app/items/sharkhide.png) | sharkhide |  |  | ** | |  
-| ![image](https://fishbot.app/items/sharkfin.png) | sharkfin |  |  | ** | |  
-| ![image](https://fishbot.app/items/fishinglamp.png) | fishinglamp |  |  | ** | |  
-| ![image](https://fishbot.app/items/visiontotem.png) | visiontotem |  |  | ** | |  
-| ![image](https://fishbot.app/items/glasstotem.png) | glasstotem |  |  | ** | |  
-| ![image](https://fishbot.app/items/fishxpring.png) | fishxpring |  |  | ** | |  
-| ![image](https://fishbot.app/items/fishfortunering.png) | fishfortunering |  |  | ** | |  
-| ![image](https://fishbot.app/items/thievexpammy.png) | thievexpammy |  |  | ** | |  
-| ![image](https://fishbot.app/items/thievetimeammy.png) | thievetimeammy |  |  | ** | |  
-| ![image](https://fishbot.app/items/craftxpanklet.png) | craftxpanklet |  |  | ** | |  
-| ![image](https://fishbot.app/items/craftsupplyanklet.png) | craftsupplyanklet |  |  | ** | |  
-| ![image](https://fishbot.app/items/blingbox.png) | blingbox |  |  | ** | |  
-| ![image](https://fishbot.app/items/blingbuffer.png) | blingbuffer |  |  | ** | |  
-| ![image](https://fishbot.app/items/blingtrinket.png) | blingtrinket |  |  | ** | |  
-| ![image](https://fishbot.app/items/uncutsapphire.png) | uncutsapphire |  |  | ** | |  
-| ![image](https://fishbot.app/items/uncutemerald.png) | uncutemerald |  |  | ** | |  
-| ![image](https://fishbot.app/items/uncutruby.png) | uncutruby |  |  | ** | |  
-| ![image](https://fishbot.app/items/uncutamethyst.png) | uncutamethyst |  |  | ** | |  
-| ![image](https://fishbot.app/items/uncutlapis.png) | uncutlapis |  |  | ** | |  
-| ![image](https://fishbot.app/items/uncutonyx.png) | uncutonyx |  |  | ** | |  
-| ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ???? |  |  | ** | |  
-| ![image](https://fishbot.app/items/sapphire.png) | sapphire |  |  | ** | |  
-| ![image](https://fishbot.app/items/emerald.png) | emerald |  |  | ** | |  
-| ![image](https://fishbot.app/items/ruby.png) | ruby |  |  | ** | |  
-| ![image](https://fishbot.app/items/amethyst.png) | amethyst |  |  | ** | |  
-| ![image](https://fishbot.app/items/lapis.png) | lapis |  |  | ** | |  
-| ![image](https://fishbot.app/items/onyx.png) | onyx |  |  | ** | |  
-| ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ????? |  |  | ** | |  
-| ![image](https://fishbot.app/items/saltrock.png) | saltrock |  |  | ** | |  
-| ![image](https://fishbot.app/items/glasstrinket.png) | glasstrinket |  |  | ** | |  
-| ![image](https://fishbot.app/items/saltdispencer.png) | saltdispencer |  |  | ** | |  
-| ![image](https://fishbot.app/items/greensaltdispencer.png) | greensaltdispencer |  |  | ** | |  
-| ![image](https://fishbot.app/items/redsaltdispencer.png) | redsaltdispencer |  |  | ** | |  
-| ![image](https://fishbot.app/items/saltypants.png) | saltypants |  |  | ** | |  
-| ![image](https://fishbot.app/items/vialpack.png) | vialpack |  |  | ** | |  
-| ![image](https://fishbot.app/items/mulchpack.png) | mulchpack |  |  | ** | |  
-| ![image](https://fishbot.app/items/fisheyepack.png) | fisheyepack |  |  | ** | |  
-| ![image](https://fishbot.app/items/rustycoinpack.png) | rustycoinpack |  |  | ** | |  
-| ![image](https://fishbot.app/items/lobsterclawpack.png) | lobsterclawpack |  |  | ** | |  
-| ![image](https://fishbot.app/items/leatherpack.png) | leatherpack |  |  | ** | |  
-| ![image](https://fishbot.app/items/guildpack.png) | guildpack |  |  | ** | |  
+| ![image](https://fishbot.app/items/slots2.png) | slots2 |  | !buy slots2 | *Unlocks !slots2 .... a different slots game to !slots* | |  | |
+| ![image](https://fishbot.app/items/gamblebanner.png) | gamblebanner |  | !buy gamblebanner | *Press the button... and you will no longer be able to gamble or play slots until the next fishbot reset! Great for those with problematic and impulsive behaviour patterns.* | |  | |
+| ![image](https://fishbot.app/items/eelskin.png) | eelskin |  | !use babyeel or !use eel | *great for making things! however it needs to be dried out first... you can do this with a vial of salt, or by hand* | |  | |
+| ![image](https://fishbot.app/items/eelhide.png) | eelhide |  | drying out eelskin, !use eelskin or a tool like saltdispencer or bovasaltbox | *great for making things! nice and dry.. in the perfect form* | |  
+| ![image](https://fishbot.app/items/sharkeye.png) | sharkeye |  | !gut shark and !use shark and from thieving shore | *A big plump juicy sharkeye* | |  
+| ![image](https://fishbot.app/items/sharkskin.png) | sharkskin |  | !use shark or !thieve shore | *Skin extracted from a shark! needs to be dried out though... * | |  
+| ![image](https://fishbot.app/items/sharkhide.png) | sharkhide |  | drying out sharskin | *A dried, sturdy shark hide, ready to be crafted! * | |  
+| ![image](https://fishbot.app/items/sharkfin.png) | sharkfin |  | !use shark (and rare from !gut shark) and from thieving shore | *A detached shark fin! Used in crafting recipes. However, it can be !used to extract a small bundle of skin and hide from it. * | |  
+| ![image](https://fishbot.app/items/fishinglamp.png) | fishinglamp |  | !buy fishinglamp | *Gives +1% more fish and +1% more exp if its currently Payday #50 or higher* | |  
+| ![image](https://fishbot.app/items/visiontotem.png) | visiontotem |  | !buy visiontotem | *If in someones inv, +80% chance to claim ghostly corners, also gives 30% chance to publically announce random spawning supply chests in the chat, even when theres no stream!* | |  
+| ![image](https://fishbot.app/items/glasstotem.png) | glasstotem |  | !buy glasstotem (but must have luckypeony) | *Doubles chance to find vials via fishing, 50% chance to have crushedvial returned back after a !make command and can be !used once a day for 2 free vials* | |  
+| ![image](https://fishbot.app/items/fishxpring.png) | fishxpring |  | !buy fishxpring  | *gives 10% extra exp for every fish you catch if this is in your inv. Will do nothing if you also have a fishfortunering* | |  
+| ![image](https://fishbot.app/items/fishfortunering.png) | fishfortunering |  | !buy fishfortunering | *gives 10% more fish every time you fish. Will do nothing if you also have a fishxpring* | |  
+| ![image](https://fishbot.app/items/thievexpammy.png) | thievexpammy |  | !buy thievexpammy | *gives 14% extra exp for every thieve you do. Will do nothing if you also have a thievetimeammy. If worn, will give an extra +1%* | |  
+| ![image](https://fishbot.app/items/thievetimeammy.png) | thievetimeammy |  | !buy thievetimeammy | *reduces the wait time between thieves by 10%. Will do nothing if you also have a thievexpammy.  If worn, will give an extra +1% * | |  
+| ![image](https://fishbot.app/items/craftxpanklet.png) | craftxpanklet |  | !buy craftxpanklet | *gives 10% extra exp for every craft you do. Will do nothing if you also have a craftsupplyanklet* | |  
+| ![image](https://fishbot.app/items/craftsupplyanklet.png) | craftsupplyanklet |  | !buy craftsupplyanklet | *gives 8% chance per ingrediant to save your ingrediant when crafting... 50% of the time. Will do nothing if you also have a craftxpanklet* | |  
+| ![image](https://fishbot.app/items/blingbox.png) | blingbox |  | !buy blingbox | *gives all jewelery +1% imbue, also allows you to use all jewelery powers in one command with !use blingbox* | |  
+| ![image](https://fishbot.app/items/blingbuffer.png) | blingbuffer |  |  | *Makes your jewelry !use daily cooldown 10 hours instead of 24. Also gives all jewelery +1% imbue. You can only find this item while holding a certain lucky item.* | |  
+| ![image](https://fishbot.app/items/blingtrinket.png) | blingtrinket |  |  | *If this is in your inventory, your blingbox is upgraded to randomly give +1 to fish/thieve/craft when used. The boost only lasts until reset.* | |  
+| ![image](https://fishbot.app/items/uncutsapphire.png) | uncutsapphire |  | found while fishing, thieving and when processing fish, and from any situation which gives an item reward | *would be a lot more expensive and useful if it was cut..* | |  
+| ![image](https://fishbot.app/items/uncutemerald.png) | uncutemerald |  | found while fishing, thieving and when processing fish, and from any situation which gives an item reward | *would be a lot more expensive and useful if it was cut..* | |  
+| ![image](https://fishbot.app/items/uncutruby.png) | uncutruby |  | found while fishing, thieving and when processing fish, and from any situation which gives an item reward | *would be a lot more expensive and useful if it was cut..* | |  
+| ![image](https://fishbot.app/items/uncutamethyst.png) | uncutamethyst |  | found while fishing, thieving and when processing fish, and from any situation which gives an item reward | *would be a lot more expensive and useful if it was cut..* | |  
+| ![image](https://fishbot.app/items/uncutlapis.png) | uncutlapis |  | found while fishing, thieving and when processing fish, and from any situation which gives an item reward | *would be a lot more expensive and useful if it was cut..* | |  
+| ![image](https://fishbot.app/items/uncutonyx.png) | uncutonyx |  | found while fishing, thieving and when processing fish, and from any situation which gives an item reward | *would be a lot more expensive and useful if it was cut..* | |  
+| ![image](https://fishbot.app/items/uncuttopaz.png) | uncuttopaz |  | found from boss battles and very rarely from things which grant you a gem | *would be a lot more expensive and useful if it was cut..* | |  
+| ![image](https://fishbot.app/items/sapphire.png) | sapphire |  | by doing a !use on the uncut version | *can be used to imbue a fishxpring by +1%, also used in craft recipes* | |  
+| ![image](https://fishbot.app/items/emerald.png) | emerald |  | by doing a !use on the uncut version | *can be used to imbue a fishfortunering by +1%, also used in craft recipes* | |  
+| ![image](https://fishbot.app/items/ruby.png) | ruby |  | by doing a !use on the uncut version | *can be used to imbue a thievexpammy by +1%, also used in craft recipes* | |  
+| ![image](https://fishbot.app/items/amethyst.png) | amethyst |  | by doing a !use on the uncut version | *can be used to imbue a thievetimeammy by +1%, also used in craft recipes* | |  
+| ![image](https://fishbot.app/items/lapis.png) | lapis |  | by doing a !use on the uncut version | *can be used to imbue a craftxpanklet by +1%, also used in craft recipes* | |  
+| ![image](https://fishbot.app/items/onyx.png) | onyx |  | by doing a !use on the uncut version | *can be used to imbue a craftsupplyanklet by +1%, also used in craft recipes* | |  
+| ![image](https://fishbot.app/items/topaz.png) | topaz |  | by doing a !use on the uncut version | *can be used to imbue an oceanring by +1 PWR, also used in craft recipes* | |  
+| ![image](https://fishbot.app/items/saltrock.png) | saltrock |  | fishing, thieving, cornerevents | *A clump of salt found in the ocean, with a chisel you can !use saltrock to extract salt into vials, or !use saltrock discard to chuck the salt away, for 2 craft exp per salt.* | |  
+| ![image](https://fishbot.app/items/glasstrinket.png) | glasstrinket |  | thieving, cornerevents | *Could be useful to collect salt... but... how do i manage that?* | |  
+| ![image](https://fishbot.app/items/saltdispencer.png) | saltdispencer |  | !make saltdispencer | *Will be used instead of vialofsalt when drying eelskin, 1 in 8 chance to break per use* | |  
+| ![image](https://fishbot.app/items/greensaltdispencer.png) | greensaltdispencer |  | !make greensaltdispencer | *A saltdispencer that gives 5x exp for drying eelskin* | |  
+| ![image](https://fishbot.app/items/redsaltdispencer.png) | redsaltdispencer |  | !make redsaltdispencer | *A saltdispencer with 1 in 40 chance to break (instead of 1 in 8)* | |  
+| ![image](https://fishbot.app/items/saltypants.png) | saltypants |  | purple and pirate chests | *If worn, doubles all charges gained using the saltcatcherrod* | |  
+| ![image](https://fishbot.app/items/vialpack.png) | vialpack |  | !thieve craftbox | *open it to receive a bundle of vials!* | |  
+| ![image](https://fishbot.app/items/mulchpack.png) | mulchpack |  | !thieve craftbox | *open it to receive a bundle of mulch!* | |  
+| ![image](https://fishbot.app/items/fisheyepack.png) | fisheyepack |  | !thieve craftbox | *open it to receive a bundle of fisheye!* | |  
+| ![image](https://fishbot.app/items/rustycoinpack.png) | rustycoinpack |  | !thieve craftbox | *open it to receive a bundle of rustycoin!* | |  
+| ![image](https://fishbot.app/items/lobsterclawpack.png) | lobsterclawpack |  | !thieve craftbox | *open it to receive a bundle of lobsterclaw!* | |  
+| ![image](https://fishbot.app/items/leatherpack.png) | leatherpack |  | hitting the UDT at craftbox or underbarrel | *contains eelskin, eelhide and other crafty items if lucky* | |  
+| ![image](https://fishbot.app/items/guildpack.png) | guildpack |  | need guildvault, rare chance to receive when gaining guild currencies | *open it to receive a hearty collection of guild currencies!* | |  
 | ![image](https://fishbot.app/items/automulcher.png) | automulcher |  |  | ** | |  
 | ![image](https://fishbot.app/items/shrimperslamp.png) | shrimperslamp |  |  | ** | |  
 | ![image](https://fishbot.app/items/chovylamp.png) | chovylamp |  |  | ** | |  
