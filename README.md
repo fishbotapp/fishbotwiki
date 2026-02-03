@@ -25,15 +25,12 @@ For game suggestions:
 
 # Latest Game Update
 
-# 4.02 End of Hween `2024-11-22`
+# 4.32 Tiny updates 
+2026-01-22
+4 new items added, related to crafting
+2 extra proc effects added to unholysymbol
 
-- Halloween 2024 is over
-- Exp tracking v1 being tested now
-- Fixed `satchelofblood` which is now displaying +10% instead of +1% in stats
-- Fixed `scrollofgemmagic`, now includes lapises in its drops
-- `skelepinata` changed, if deployed by your own hands.. your cooldown will be much lower when hitting it
-- More `bone`s findable in various places of the game
-
+[Full update history](https://fishbot.app/#/updates)
 -------------------------------
 
 Enjoy
