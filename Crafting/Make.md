@@ -39,6 +39,7 @@
 | ![image](https://fishbot.app/items/bovaberrypotion.png) | Bovaberrypotion | 53 | `5x bova` + `1x fishberry` + `1x thieveberry` + `1x craftberry` + `5x fisheggs` + `5x fisheye` | | |  |
 | ![image](https://fishbot.app/items/shadowpotion.png) | Shadowpotion | 58 | `1x megamulch` + `5x crusheddubloon` + `10x rustycoin` + `1x marrow` + `1x lockpick` + `5x thievingpotion` + `1x vial` | |  |  |
 | ![image](https://fishbot.app/items/oysterpocket.png) | Oysterpocket | 58 | `30x eelhide` + `10x sharkhide` + `1x oyster` + `1x glowenergy` | |  | |
+| ![image](https://fishbot.app/items/spyhasteboots.png) | Spyhasteboots | 66 | `35x sharkhide` + `15x eelskin` + `1x ruby` + `1x amethyst` + `5x sharkeye` + `1x dubloon` + `1x glowenergy` + `1x superthievingpotion` + `1x thiefboots` | | - | |
 | ![image](https://fishbot.app/items/ferocioustunic.png) | Ferocioustunic | 67 | `60x sharkhide` + `20x eelskin` + `1x sapphire` + `1x emerald` + `1x sharkfin` + `1x macrokit` + `15x fishmeal` + `1x glowenergy` + `1x superfishingpotion` | | - | |
 
 
