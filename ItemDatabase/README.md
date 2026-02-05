@@ -6,17 +6,17 @@ Items are in order of collection log
 
 | Icon | Name | Price | Obtained | !Item Info |  Wearable | Untradeable | Discontinued |
 | -----| ---- | ----- | -------- | ------------| -------- | -------- | ------------ |
-| ![image](https://fishbot.app/items/shrimp.png) | Shrimp | 2 - 120 | Fishing (Level 1) | |  | | |
-| ![image](https://fishbot.app/items/anchovy.png) | Anchovy | 15 - 250 | Fishing (Level 6) | |  | | |
-| ![image](https://fishbot.app/items/trout.png) | Trout | 2 - 120 | Fishing (Level 1) | |  | | |
-| ![image](https://fishbot.app/items/pike.png) | Pike | 200 - 900 | Fishing (Level 6) | |  | | |
-| ![image](https://fishbot.app/items/lobster.png) | Lobster | 500 - 6000 | Fishing (Level 15) while mulched | |  | | |
-| ![image](https://fishbot.app/items/babyeel.png) | Babyeel | 500 - 9000 | Fishing (Level 1) with an eel rod | |  | | |
-| ![image](https://fishbot.app/items/swordfish.png) | Swordfish | 3000 - 9000 | Fishing (Level 30) | |  | | |
-| ![image](https://fishbot.app/items/catfish.png) | Catfish | 5000 - 14000 | Fishing (Level 40) | |  | | |
-| ![image](https://fishbot.app/items/angler.png) | Angler | 14000 - 28000 | Fishing (Level 50) | |  | | |
-| ![image](https://fishbot.app/items/eel.png) | Eel | 16000 - 38000 | Fishing (Level 58) with an eel rod| |  | | |
-| ![image](https://fishbot.app/items/shark.png) | Shark | 90000 - 130000 | Fishing (Level 30) with a Harpoon| |  | | |
+| ![image](https://fishbot.app/items/shrimp.png) | Shrimp | 2 - 120 | Fishing (Level 1) | *A small common shrimp* | | | |
+| ![image](https://fishbot.app/items/anchovy.png) | Anchovy | 15 - 250 | Fishing (Level 6) | *A small common anchovy* | | | |
+| ![image](https://fishbot.app/items/trout.png) | Trout | 2 - 120 | Fishing (Level 1) | *A common freshwater fish* | | | |
+| ![image](https://fishbot.app/items/pike.png) | Pike | 200 - 900 | Fishing (Level 6) | *A common freshwater fish* | | | |
+| ![image](https://fishbot.app/items/lobster.png) | Lobster | 500 - 6000 | Fishing (Level 15) while mulched | *A delicious crustacean* | | | |
+| ![image](https://fishbot.app/items/babyeel.png) | Babyeel | 500 - 9000 | Fishing (Level 1) with an eel rod | *A small baby eel* | | | |
+| ![image](https://fishbot.app/items/swordfish.png) | Swordfish | 3000 - 9000 | Fishing (Level 30) | *A large saltwater fish* | | | |
+| ![image](https://fishbot.app/items/catfish.png) | Catfish | 5000 - 14000 | Fishing (Level 40) | *A large freshwater fish* | | | |
+| ![image](https://fishbot.app/items/angler.png) | Angler | 14000 - 28000 | Fishing (Level 50) | *A rare deep sea fish* | | | |
+| ![image](https://fishbot.app/items/eel.png) | Eel | 16000 - 38000 | Fishing (Level 58) with an eel rod | *A slippery eel* | | | |
+| ![image](https://fishbot.app/items/shark.png) | Shark | 90000 - 130000 | Fishing (Level 30) with a Harpoon | *A large predatory fish* | | | |
 | ![image](https://fishbot.app/items/starterrod.png) | Starterrod | | Comes with a new account | *All noobs gotta start from somewhere!* | On the Rod slot | Untradeable | |
 | ![image](https://fishbot.app/items/oakrod.png) | Oakrod | 5000 | From shop, thieving and corner chests | *Fishes well! An upgraded rod, much better than the Starter Rod* | On the Rod slot |  | |
 | ![image](https://fishbot.app/items/willowrod.png) | Willowrod | 15000 | From shop, thieving and corner chests | *Fishes great! An upgraded rod, much better than the Oak Rod* | On the Rod slot |  | |
