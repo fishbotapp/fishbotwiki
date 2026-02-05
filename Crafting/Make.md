@@ -31,6 +31,8 @@
 | ![image](https://fishbot.app/items/gamblerspotion.png) | Gamblerspotion | 42 |  `4x rustycoin` + `2x crushedvial` + `6000x coins` + `6x fisheggs` + `1x vial` | | 190 | |
 | ![image](https://fishbot.app/items/superthievingpotion.png) | Superthievingpotion | 47 |  `6x rustycoin` + `1x crusheddubloon` + `2x lobsterclaw` + `3x mulch` + `3x crushedvial` + `8x fisheggs` + `1x vial` | | 240 | |
 | ![image](https://fishbot.app/items/superfishingpotion.png) | Superfishingpotion | 52 | `1x megamulch` + `8x lobsterclaw` + `12x fisheggs` + `3x crushedvial` + `1x vial` | | 280 | |
+| ![image](https://fishbot.app/items/bovaberrypotion.png) | Bovaberrypotion | 53 | `1x megamulch` + `2x lobsterclaw` + `8x fisheye` + `10x fishberry` + `3x crushedvial` + `1x vial` | | 320 | 10m |
+| ![image](https://fishbot.app/items/shadowpotion.png) | Shadowpotion | 58 | `1x megamulch` + `1x crusheddubloon` + `4x crushedvial` + `10x fisheye` + `25x fisheggs` + `1x vial` | | 400 | 15m |
 
 
 *SOMEONE PLEASE FILL SOME MORE IN COME ONNNN*
