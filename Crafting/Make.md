@@ -31,6 +31,7 @@
 | ![image](https://fishbot.app/items/supercraftingpotion.png) | Supercraftingpotion | 39 |  `10x fisheye` + `2x lobsterclaw` + `3x mulch` + `3x crushedvial` + `5x fisheggs` + `1x vial` | | 170 | |
 | ![image](https://fishbot.app/items/mulchupgloves.png) | Mulchupgloves | 41 | `17x eelhide` + `7x mulch` + `2x craftingpotion` | | | |
 | ![image](https://fishbot.app/items/gamblerspotion.png) | Gamblerspotion | 42 |  `4x rustycoin` + `2x crushedvial` + `6000x coins` + `6x fisheggs` + `1x vial` | | 190 | |
+| ![image](https://fishbot.app/items/redsaltdispencer.png) | Redsaltdispencer | 43 | `1x saltdispencer` + `2x ruby` + `2x saltrock` + `2x vial` + `6x crushedgem` + `30x fisheggs` | | | |
 | ![image](https://fishbot.app/items/superthievingpotion.png) | Superthievingpotion | 47 |  `6x rustycoin` + `1x crusheddubloon` + `2x lobsterclaw` + `3x mulch` + `3x crushedvial` + `8x fisheggs` + `1x vial` | | 240 | |
 | ![image](https://fishbot.app/items/superfishingpotion.png) | Superfishingpotion | 52 | `1x megamulch` + `8x lobsterclaw` + `12x fisheggs` + `3x crushedvial` + `1x vial` | | 280 | |
 | ![image](https://fishbot.app/items/bovaberrypotion.png) | Bovaberrypotion | 53 | `5x bova` + `1x fishberry` + `1x thieveberry` + `1x craftberry` + `5x fisheggs` + `5x fisheye` | | |  |
