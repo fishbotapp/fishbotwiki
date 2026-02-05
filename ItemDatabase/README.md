@@ -644,16 +644,3 @@ Items are in order of collection log
 | ![image](https://fishbot.app/items/holysymbol.png) | Holysymbol |  |  | ** | |  | |
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
-
-
-
-
-
-
-
-
-
-
-
-
-
