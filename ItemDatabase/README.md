@@ -95,7 +95,7 @@ Items are in order of collection log
 | ![image](https://fishbot.app/items/mulchmallet.png) | Mulchmallet |  |  | *with this in your inv, it only takes 15 anchovy to make mulch* | |  | |
 | ![image](https://fishbot.app/items/chisel.png) | Chisel |  |  | *used for cutting gems* | |  | |
 | ![image](https://fishbot.app/items/craftingknife.png) | Craftingknife |  |  | *used for various crafting activities* | |  | |
-| ![image](https://fishbot.app/items/gutter.png) | **Gutter** | Used for gutting fish to extract items from inside them (such as fisheyes and lobsterclaws). | - |
+| ![image](https://fishbot.app/items/gutter.png) | **Gutter** |  | Used for gutting fish to extract items from inside them (such as fisheyes and lobsterclaws). |
 | ![image](https://fishbot.app/items/sickle.png) | Sickle |  |  | *used for harvesting bova. If this is in your inventory, you will get +50% chance of 1 extra bova and 2% chance of 1 extra berry from bova trees* | |  | |
 | ![image](https://fishbot.app/items/glowingstraw.png) | Glowingstraw |  |  | *grants an extra 10% chance to get your vial back after drinking a potion, 8% chance to keep the potion entirely and 20% chance to get it back after using a vialofsalt. 1 in 230 chance to break per use* | |  | |
 | ![image](https://fishbot.app/items/glowingeyehook.png) | Glowingeyehook |  |  | *Grants 15% chance to process 3 pike at once. 1 in 300 chance to break per use* | |  | |
