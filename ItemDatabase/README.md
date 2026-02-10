@@ -95,7 +95,7 @@ Items are in order of collection log
 | ![image](https://fishbot.app/items/mulchmallet.png) | Mulchmallet |  |  | *with this in your inv, it only takes 15 anchovy to make mulch* | |  | |
 | ![image](https://fishbot.app/items/chisel.png) | Chisel |  |  | *used for cutting gems* | |  | |
 | ![image](https://fishbot.app/items/craftingknife.png) | Craftingknife |  |  | *used for various crafting activities* | |  | |
-| ![image](https://fishbot.app/items/gutter.png) | Gutter |  |  | *used for gutting fish to extract whatever is inside* | |  | |
+| ![image](https://fishbot.app/items/gutter.png) | **Gutter** | Used for gutting fish to extract items from inside them (such as fisheyes and lobsterclaws). | - |
 | ![image](https://fishbot.app/items/sickle.png) | Sickle |  |  | *used for harvesting bova. If this is in your inventory, you will get +50% chance of 1 extra bova and 2% chance of 1 extra berry from bova trees* | |  | |
 | ![image](https://fishbot.app/items/glowingstraw.png) | Glowingstraw |  |  | *grants an extra 10% chance to get your vial back after drinking a potion, 8% chance to keep the potion entirely and 20% chance to get it back after using a vialofsalt. 1 in 230 chance to break per use* | |  | |
 | ![image](https://fishbot.app/items/glowingeyehook.png) | Glowingeyehook |  |  | *Grants 15% chance to process 3 pike at once. 1 in 300 chance to break per use* | |  | |
@@ -212,7 +212,7 @@ Items are in order of collection log
 | ![image](https://fishbot.app/items/mulcherslamp.png) | mulcherslamp |  |  | ** | |  
 | ![image](https://fishbot.app/items/profishinglamp.png) | profishinglamp |  |  | ** | |  
 |  ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ???? |  |  | ** | | 
-| ![image](https://fishbot.app/items/bluefishbowl.png) | bluefishbowl |  |  | ** | |  
+| ![image](https://fishbot.app/items/bluefishbowl.png) | Bluefishbowl | Gives a 5% chance on any XXL fish to give 8x fishing exp. Consumed when activated. | - |
 | ![image](https://fishbot.app/items/greenfishbowl.png) | greenfishbowl |  |  | ** | |  
 | ![image](https://fishbot.app/items/powershards.png) | powershards |  |  | ** | |  
 | ![image](https://fishbot.app/items/speedshards.png) | speedshards |  |  | ** | |  
@@ -325,10 +325,10 @@ Items are in order of collection log
 | ![image](https://fishbot.app/items/dubloon.png) | Dubloon |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/crusheddubloon.png) | Crusheddubloon |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/crushedgem.png) | Crushedgem |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/glowblip.png) | Glowblip |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/glowblip.png) | Glowblip | The remains of a once glowing tool. Can be fed into a **Glowconverter** for a 1 in 9 chance for a new glowenergy, or combine 7 of them to get 1x glowenergy with `!use glowblip`. | - |
 | ![image](https://fishbot.app/items/glowenergy.png) | Glowenergy |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/glowconverter.png) | Glowconverter |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/glowpowerpack.png) | Glowpowerpack |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/glowpowerpack.png) | Glowpowerpack | Rate of success from sacrificing tools to the **Glowconverter** are increased by 30%. | - |
 | ![image](https://fishbot.app/items/glowexpansionpack.png) | Glowexpansionpack |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/weatherorb.png) | Weatherorb |  |  | *Found in purple/pirate chests. Can be !use weatherorb once per reset to change the weather conditions* | |  | |
 | ![image](https://fishbot.app/items/weathermanshat.png) | Weathermanshat |  |  | ** | |  | |
@@ -369,7 +369,7 @@ Items are in order of collection log
 | ![image](https://fishbot.app/items/craftingguildbadge.png) | Craftingguildbadge |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/shell.png) | Shell |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/shilling.png) | Shilling |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/shale.png) | Shale |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/shale.png) | Shale | The primary currency used within the Crafting Guild. | - |
 | ![image](https://fishbot.app/items/guildvault.png) | Guildvault |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/shellfinder.png) | Shellfinder |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/baitconverter.png) | Baitconverter |  |  | ** | |  | |
@@ -403,7 +403,7 @@ Items are in order of collection log
 | ![image](https://fishbot.app/items/canvas.png) | Canvas |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/mulchmakingeski.png) | Mulchmakingeski |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/potionkit.png) | Potionkit |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/craftguildmonocle.png) | Craftguildmonocle |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/craftguildmonocle.png) | Craftguildmonocle | (Eyes) When worn, gives +1 crafting level and +8% crafting xp. Can be `!used` to instantly sacrifice 10x mulch + 10x fisheggs + 10x fisheyes for 200-500 craft xp. | - |
 | ![image](https://fishbot.app/items/gamblersrelic.png) | Gamblersrelic |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/slappersrelic.png) | Slappersrelic |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/incomerelic.png) | Incomerelic |  |  | ** | |  | |
