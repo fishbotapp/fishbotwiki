@@ -139,7 +139,7 @@ Items are in order of collection log
 | ![image](https://fishbot.app/items/shopnote.png) | shopnote |  |  | *Allows you to !thieve craftbox* | |  | |
 | ![unknown](https://fishbot.app/items/mysticnote.png) | mysticnote |  |  | *Allows you to !thieve mystic* | |  | |
 | ![image](https://fishbot.app/items/coinbattery.png) | coinbattery |  |  | *Every time someone in the chat wins a gamble, you get $2* | |  | |
-| ![image](https://fishbot.app/items/shrimpbattery.png) | shrimpbattery |  |  | *Every 25 shrimp that the server fishes, you get 1* | |  | |
+| ![image](https://fishbot.app/items/shrimpbattery.png) | shrimpbattery |  |  | *Every 25 shrimp that the server fishes, you get 1. The amount received scales with the length of the trip.* | |  | |
 | ![image](https://fishbot.app/items/lobsterbattery.png) | lobsterbattery |  |  | *Every 25 lobster that the server fishes, you get 1* | |  | |
 | ![image](https://fishbot.app/items/shrimppassport.png) | shrimppassport |  |  | *Your shrimp will always sell at 10% over market price* | |  | |
 | ![image](https://fishbot.app/items/anchovypassport.png) | anchovypassport |  |  | *Your anchovy will always sell at 10% over market price* | |  | |
