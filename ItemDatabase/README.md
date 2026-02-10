@@ -325,10 +325,10 @@ Items are in order of collection log
 | ![image](https://fishbot.app/items/dubloon.png) | Dubloon |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/crusheddubloon.png) | Crusheddubloon |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/crushedgem.png) | Crushedgem |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/glowblip.png) | Glowblip | The remains of a once glowing tool. Can be fed into a **Glowconverter** for a 1 in 9 chance for a new glowenergy, or combine 7 of them to get 1x glowenergy with `!use glowblip`. | - |
+| ![image](https://fishbot.app/items/glowblip.png) | Glowblip |  | The remains of a once glowing tool. Can be fed into a **Glowconverter** for a 1 in 9 chance for a new glowenergy, or combine 7 of them to get 1x glowenergy with `!use glowblip`. |
 | ![image](https://fishbot.app/items/glowenergy.png) | Glowenergy |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/glowconverter.png) | Glowconverter |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/glowpowerpack.png) | Glowpowerpack | Rate of success from sacrificing tools to the **Glowconverter** are increased by 30%. | - |
+| ![image](https://fishbot.app/items/glowpowerpack.png) | Glowpowerpack |  | Rate of success from sacrificing tools to the **Glowconverter** are increased by 30%. |
 | ![image](https://fishbot.app/items/glowexpansionpack.png) | Glowexpansionpack |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/weatherorb.png) | Weatherorb |  |  | *Found in purple/pirate chests. Can be !use weatherorb once per reset to change the weather conditions* | |  | |
 | ![image](https://fishbot.app/items/weathermanshat.png) | Weathermanshat |  |  | ** | |  | |
@@ -369,7 +369,7 @@ Items are in order of collection log
 | ![image](https://fishbot.app/items/craftingguildbadge.png) | Craftingguildbadge |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/shell.png) | Shell |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/shilling.png) | Shilling |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/shale.png) | Shale | The primary currency used within the Crafting Guild. | - |
+| ![image](https://fishbot.app/items/shale.png) | Shale |  | The primary currency used within the Crafting Guild. |
 | ![image](https://fishbot.app/items/guildvault.png) | Guildvault |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/shellfinder.png) | Shellfinder |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/baitconverter.png) | Baitconverter |  |  | ** | |  | |
