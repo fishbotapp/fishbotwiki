@@ -32,6 +32,8 @@
 | ![image](https://fishbot.app/items/mulchupgloves.png) | Mulchupgloves | 41 | `17x eelhide` + `7x mulch` + `2x craftingpotion` | | | |
 | ![image](https://fishbot.app/items/gamblerspotion.png) | Gamblerspotion | 42 |  `4x rustycoin` + `2x crushedvial` + `6000x coins` + `6x fisheggs` + `1x vial` | | 190 | |
 | ![image](https://fishbot.app/items/redsaltdispencer.png) | Redsaltdispencer | 43 | `1x saltdispencer` + `2x ruby` + `2x saltrock` + `2x vial` + `6x crushedgem` + `30x fisheggs` | | | |
+| ![image](https://fishbot.app/items/bluefishbowl.png) | Bluefishbowl | 45 | `2x sapphire` + `16x fisheye` + `8x vial` + `10x crushedgem` | |  | |
+| ![image](https://fishbot.app/items/thiefboots.png) | Thiefboots | 46 | `20x eelhide` + `6x rustycoin` + `1x crusheddubloon` + `3x thievingpotion` | |  | |
 | ![image](https://fishbot.app/items/superthievingpotion.png) | Superthievingpotion | 47 |  `6x rustycoin` + `1x crusheddubloon` + `2x lobsterclaw` + `3x mulch` + `3x crushedvial` + `8x fisheggs` + `1x vial` | | 240 | |
 | ![image](https://fishbot.app/items/fishworkgloves.png) | Fishworkgloves | 47 | `21x eelhide` + `8x fisheye` + `6x lobsterclaw` + `6x fisheggs` + `4x craftingpotion` | | | |
 | ![image](https://fishbot.app/items/eelworkgloves.png) | Eelworkgloves | 48 | `22x eelhide` + `8x eelskin` + `1x craftingpotion` | | | |
