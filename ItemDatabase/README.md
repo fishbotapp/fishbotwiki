@@ -212,7 +212,7 @@ Items are in order of collection log
 | ![image](https://fishbot.app/items/mulcherslamp.png) | mulcherslamp |  |  | ** | |  
 | ![image](https://fishbot.app/items/profishinglamp.png) | profishinglamp |  |  | ** | |  
 |  ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ???? |  |  | ** | | 
-| ![image](https://fishbot.app/items/bluefishbowl.png) | Bluefishbowl | Gives a 5% chance on any XXL fish to give 8x fishing exp. Consumed when activated. | - |
+| ![image](https://fishbot.app/items/bluefishbowl.png) | Bluefishbowl |  | Gives a 5% chance on any XXL fish to give 8x fishing exp. Consumed when activated. |
 | ![image](https://fishbot.app/items/greenfishbowl.png) | greenfishbowl |  |  | ** | |  
 | ![image](https://fishbot.app/items/powershards.png) | powershards |  |  | ** | |  
 | ![image](https://fishbot.app/items/speedshards.png) | speedshards |  |  | ** | |  
@@ -403,7 +403,7 @@ Items are in order of collection log
 | ![image](https://fishbot.app/items/canvas.png) | Canvas |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/mulchmakingeski.png) | Mulchmakingeski |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/potionkit.png) | Potionkit |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/craftguildmonocle.png) | Craftguildmonocle | (Eyes) When worn, gives +1 crafting level and +8% crafting xp. Can be `!used` to instantly sacrifice 10x mulch + 10x fisheggs + 10x fisheyes for 200-500 craft xp. | - |
+| ![image](https://fishbot.app/items/craftguildmonocle.png) | Craftguildmonocle |  | (Eyes) When worn, gives +1 crafting level and +8% crafting xp. Can be `!used` to instantly sacrifice 10x mulch + 10x fisheggs + 10x fisheyes for 200-500 craft xp |
 | ![image](https://fishbot.app/items/gamblersrelic.png) | Gamblersrelic |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/slappersrelic.png) | Slappersrelic |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/incomerelic.png) | Incomerelic |  |  | ** | |  | |
