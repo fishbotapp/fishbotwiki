@@ -2,8 +2,8 @@
 # Suggestions
 
 ## BUGS
-
-Menu items gone from left of website, better just remove that whole nav
+ - Menu items gone from left of website, better just remove that whole nav
+ - When searching on https://fishbot.app/#/playershops the auto filter doesn't work when "Ordered by date" filter is selected. Autofilter works on all other filters.
 
 ## QUALITY OF LIFE
 * Even when dark mode is enabled on https://fishbot.app/ , the frame for the Wiki tab always displays in light mode. <br> I looked for a .css file but couldn't find, so I think it's elsewhere.<img width="1914" height="907" alt="image" src="https://github.com/user-attachments/assets/c10d6bc2-6af9-474c-8bc3-a70b5e2cbee4" />
