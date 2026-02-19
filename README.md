@@ -23,12 +23,9 @@ For game suggestions:
 
 --------------------
 
-# Latest Game Update
-
-# 4.32 Tiny updates 
-2026-01-22
-- 4 new items added, related to crafting
-- 2 extra proc effects added to unholysymbol
+# 4.4 Content update 
+## 2026-02-20
+- 19 new awesome items added to the game
 
 [Full update history](https://fishbot.app/#/updates)
 
