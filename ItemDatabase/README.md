@@ -224,7 +224,7 @@ Items are in order of collection log
 | ![image](https://fishbot.app/items/rubylocket.png) | rubylocket |  |  | ** | |  
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ???? |  |  | ** | |  
 | ![image](https://fishbot.app/items/maniceggeye.png) | maniceggeye |  |  | ** | |  
-| ![image](https://fishbot.app/items/gamblersglasses.png) | gamblersglasses |  |  | ** | |  
+| ![image](https://fishbot.app/items/gamblersglasses.png) | gamblersglasses |  |  | *-50% gamble & slots cooldown, +1 roll in duels, 1.5x gamble & slots limit, +3 extra free spins on any slots2 feature, +1% chance of mysteryprize. If worn: +1% extra feech odds but 1 in 3000 chance to break per use* | |  
 |  ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ????? |  |  | ** | |  
 | ![image](https://fishbot.app/items/orbcore.png) | orbcore |  |  | ** | |  
 | ![image](https://fishbot.app/items/smallxpbag.png) | smallxpbag |  |  | ** | |  
