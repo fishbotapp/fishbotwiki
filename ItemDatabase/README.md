@@ -273,17 +273,17 @@ Items are in order of collection log
 | ![image](https://fishbot.app/items/spycoat.png) | spycoat |  |  | ** | |  
 | ![image](https://fishbot.app/items/brewgloves.png) | Brewgloves |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/mulchupgloves.png) | Mulchupgloves |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/fishworkgloves.png) | Fishworkgloves |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/eelworkgloves.png) | Eelworkgloves |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/thiefgloves.png) | Thiefgloves |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/blipgloves.png) | Blipgloves |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/thiefmask.png) | Thiefmask |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/thiefboots.png) | Thiefboots |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/clawgetterboots.png) | Clawgetterboots |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/vialpocket.png) | Vialpocket |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/fishworkgloves.png) | Fishworkgloves |  |  | *While worn, you get +2 fishing level and +1 rod speed. However, you will not receive any fishing xp while wearing them.* | |  | |
+| ![image](https://fishbot.app/items/eelworkgloves.png) | Eelworkgloves |  |  | *While worn, you get +4 fishing level and +2 rod speed. However, you will only catch eels and babyeels, and receive no fishing xp.* | |  | |
+| ![image](https://fishbot.app/items/thiefgloves.png) | Thiefgloves |  |  | *While worn, gives +2 thieving level and +15% thieving speed, but you receive no thieving xp.* | |  | |
+| ![image](https://fishbot.app/items/blipgloves.png) | Blipgloves |  |  | *While worn, gives +10% thieving speed and 5% chance of a double thieve.* | |  | |
+| ![image](https://fishbot.app/items/thiefmask.png) | Thiefmask |  |  | *While worn, gives +2 thieving level and 5% chance of a double thieve, but you receive no thieving xp.* | |  | |
+| ![image](https://fishbot.app/items/thiefboots.png) | Thiefboots |  |  | *While worn, gives +2 thieving level and +5% thieving speed, but you receive no thieving xp.* | |  | |
+| ![image](https://fishbot.app/items/clawgetterboots.png) | Clawgetterboots |  |  | *While worn, gives +12% success rate when ripping off lobster claws, but you receive no crafting xp from it.* | |  | |
+| ![image](https://fishbot.app/items/vialpocket.png) | Vialpocket |  |  | *Whenever you drink a potion, theres a 35% chance to get your vial back. 1 in 140 chance to break when it activates* | |  | |
 | ![image](https://fishbot.app/items/mulchpocket.png) | Mulchpocket |  |  | *Whenever you find a mulch theres a 33% chance to double it, 1 in 120 chance to break when it activates* | |  | |
-| ![image](https://fishbot.app/items/dubloonpocket.png) | Dubloonpocket |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/gempocket.png) | Gempocket |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/dubloonpocket.png) | Dubloonpocket |  |  | *Whenever you find a dubloon theres a 33% chance to double it. 1 in 100 chance to break when it activates* | |  | |
+| ![image](https://fishbot.app/items/gempocket.png) | Gempocket |  |  | *Whenever you find a gem theres a 33% chance to double it. 1 in 80 chance to break when it activates* | |  | |
 | ![image](https://fishbot.app/items/coinpurse.png) | Coinpurse |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/craftingsack.png) | Craftingsack |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/thievingsack.png) | Thievingsack |  |  | ** | |  | |
