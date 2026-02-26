@@ -281,7 +281,7 @@ Items are in order of collection log
 | ![image](https://fishbot.app/items/thiefboots.png) | Thiefboots |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/clawgetterboots.png) | Clawgetterboots |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/vialpocket.png) | Vialpocket |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/mulchpocket.png) | Mulchpocket |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/mulchpocket.png) | Mulchpocket |  |  | *Whenever you find a mulch theres a 33% chance to double it, 1 in 120 chance to break when it activates* | |  | |
 | ![image](https://fishbot.app/items/dubloonpocket.png) | Dubloonpocket |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/gempocket.png) | Gempocket |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/coinpurse.png) | Coinpurse |  |  | ** | |  | |
