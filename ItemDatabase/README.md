@@ -270,7 +270,7 @@ Items are in order of collection log
 | ![image](https://fishbot.app/items/greencoat.png) | greencoat |  |  | ** | |  
 | ![image](https://fishbot.app/items/turncoat.png) | turncoat |  |  | ** | |  
 | ![image](https://fishbot.app/items/ghostcoat.png) | ghostcoat |  |  | ** | |  
-| ![image](https://fishbot.app/items/spycoat.png) | spycoat |  |  | ** | |  
+| ![image](https://fishbot.app/items/spycoat.png) | spycoat |  |  | *If worn, the next time you turncoat an enemy item chest, you will get 10x rewards* | |  
 | ![image](https://fishbot.app/items/brewgloves.png) | Brewgloves |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/mulchupgloves.png) | Mulchupgloves |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/fishworkgloves.png) | Fishworkgloves |  | !make fishworkgloves(47 Crafting): 21x eelhide, 8x fisheye, 6x lobsterclaw, 6x fisheggs, 4x craftingpotion | *While worn, you get +2 fishing level and +1 rod speed. However, you will not receive any fishing xp while wearing them.* | |  | |
