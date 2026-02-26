@@ -193,9 +193,9 @@ Items are in order of collection log
 | ![image](https://fishbot.app/items/topaz.png) | topaz |  | by doing a !use on the uncut version | *can be used to imbue an oceanring by +1 PWR, also used in craft recipes* | |  
 | ![image](https://fishbot.app/items/saltrock.png) | saltrock |  | fishing, thieving, cornerevents | *A clump of salt found in the ocean, with a chisel you can !use saltrock to extract salt into vials, or !use saltrock discard to chuck the salt away, for 2 craft exp per salt.* | |  
 | ![image](https://fishbot.app/items/glasstrinket.png) | glasstrinket |  | thieving, cornerevents | *Could be useful to collect salt... but... how do i manage that?* | |  
-| ![image](https://fishbot.app/items/saltdispencer.png) | saltdispencer |  | !make saltdispencer | *Will be used instead of vialofsalt when drying eelskin, 1 in 8 chance to break per use* | |  
+| ![image](https://fishbot.app/items/saltdispencer.png) | saltdispencer |  | !make saltdispencer (38 Crafting): 1x saltrock, 1x glasstrinket | *Will be used instead of vialofsalt when drying eelskin, 1 in 8 chance to break per use* | |  
 | ![image](https://fishbot.app/items/greensaltdispencer.png) | greensaltdispencer |  | !make greensaltdispencer | *A saltdispencer that gives 5x exp for drying eelskin* | |  
-| ![image](https://fishbot.app/items/redsaltdispencer.png) | redsaltdispencer |  | !make redsaltdispencer | *A saltdispencer with 1 in 40 chance to break (instead of 1 in 8)* | |  
+| ![image](https://fishbot.app/items/redsaltdispencer.png) | redsaltdispencer |  | !make redsaltdispencer (43 Crafting): 1x saltdispencer, 2x ruby, 2x saltrock, 2x vial, 6x crushedgem, 30x fisheggs | *A saltdispencer with 1 in 40 chance to break (instead of 1 in 8)* | |  
 | ![image](https://fishbot.app/items/saltypants.png) | saltypants |  | purple and pirate chests | *If worn, doubles all charges gained using the saltcatcherrod* | |  
 | ![image](https://fishbot.app/items/vialpack.png) | vialpack |  | !thieve craftbox | *open it to receive a bundle of vials!* | |  
 | ![image](https://fishbot.app/items/mulchpack.png) | mulchpack |  | !thieve craftbox | *open it to receive a bundle of mulch!* | |  
@@ -273,15 +273,15 @@ Items are in order of collection log
 | ![image](https://fishbot.app/items/spycoat.png) | spycoat |  |  | ** | |  
 | ![image](https://fishbot.app/items/brewgloves.png) | Brewgloves |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/mulchupgloves.png) | Mulchupgloves |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/fishworkgloves.png) | Fishworkgloves |  |  | *While worn, you get +2 fishing level and +1 rod speed. However, you will not receive any fishing xp while wearing them.* | |  | |
-| ![image](https://fishbot.app/items/eelworkgloves.png) | Eelworkgloves |  |  | *While worn, you get +4 fishing level and +2 rod speed. However, you will only catch eels and babyeels, and receive no fishing xp.* | |  | |
+| ![image](https://fishbot.app/items/fishworkgloves.png) | Fishworkgloves |  | !make fishworkgloves(47 Crafting): 21x eelhide, 8x fisheye, 6x lobsterclaw, 6x fisheggs, 4x craftingpotion | *While worn, you get +2 fishing level and +1 rod speed. However, you will not receive any fishing xp while wearing them.* | |  | |
+| ![image](https://fishbot.app/items/eelworkgloves.png) | Eelworkgloves |  | !make eelworkgloves (48 Crafting): 24x eelhide, 12x fisheye, 10x eelskin, 8x fisheggs, 4x supercraftingpotion | *While worn, you get +4 fishing level and +2 rod speed. However, you will only catch eels and babyeels, and receive no fishing xp.* | |  | |
 | ![image](https://fishbot.app/items/thiefgloves.png) | Thiefgloves |  |  | *While worn, gives +2 thieving level and +15% thieving speed, but you receive no thieving xp.* | |  | |
 | ![image](https://fishbot.app/items/blipgloves.png) | Blipgloves |  |  | *While worn, gives +10% thieving speed and 5% chance of a double thieve.* | |  | |
 | ![image](https://fishbot.app/items/thiefmask.png) | Thiefmask |  |  | *While worn, gives +2 thieving level and 5% chance of a double thieve, but you receive no thieving xp.* | |  | |
 | ![image](https://fishbot.app/items/thiefboots.png) | Thiefboots |  |  | *While worn, gives +2 thieving level and +5% thieving speed, but you receive no thieving xp.* | |  | |
 | ![image](https://fishbot.app/items/clawgetterboots.png) | Clawgetterboots |  |  | *While worn, gives +12% success rate when ripping off lobster claws, but you receive no crafting xp from it.* | |  | |
 | ![image](https://fishbot.app/items/vialpocket.png) | Vialpocket |  |  | *Whenever you drink a potion, theres a 35% chance to get your vial back. 1 in 140 chance to break when it activates* | |  | |
-| ![image](https://fishbot.app/items/mulchpocket.png) | Mulchpocket |  |  | *Whenever you find a mulch theres a 33% chance to double it, 1 in 120 chance to break when it activates* | |  | |
+| ![image](https://fishbot.app/items/mulchpocket.png) | Mulchpocket |  | !make (38 Crafting): 14x eelhide, 6x mulch | *Whenever you find a mulch theres a 33% chance to double it, 1 in 120 chance to break when it activates* | |  | |
 | ![image](https://fishbot.app/items/dubloonpocket.png) | Dubloonpocket |  |  | *Whenever you find a dubloon theres a 33% chance to double it. 1 in 100 chance to break when it activates* | |  | |
 | ![image](https://fishbot.app/items/gempocket.png) | Gempocket |  |  | *Whenever you find a gem theres a 33% chance to double it. 1 in 80 chance to break when it activates* | |  | |
 | ![image](https://fishbot.app/items/coinpurse.png) | Coinpurse |  |  | ** | |  | |
