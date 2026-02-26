@@ -354,16 +354,6 @@ Items are in order of collection log
 | ![image](https://fishbot.app/items/glowpeach.png) | Glowpeach |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/glode.png) | Glode |  |  | ** | |  | |
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/brewgloves.png) | Brewgloves |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/mulchupgloves.png) | Mulchupgloves |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/fishworkgloves.png) | Fishworkgloves |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/eelworkgloves.png) | Eelworkgloves |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/thiefgloves.png) | Thiefgloves |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/blipgloves.png) | Blipgloves |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/thiefmask.png) | Thiefmask |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/thiefboots.png) | Thiefboots |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/clawgetterboots.png) | Clawgetterboots |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/vialpocket.png) | Vialpocket |  |
 | ![image](https://fishbot.app/items/fishingguildbadge.png) | Fishingguildbadge |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/thievingguildbadge.png) | Thievingguildbadge |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/craftingguildbadge.png) | Craftingguildbadge |  |  | ** | |  | |
