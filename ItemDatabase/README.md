@@ -228,7 +228,7 @@ Items are in order of collection log
 |  ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ????? |  |  | ** | |  
 | ![image](https://fishbot.app/items/orbcore.png) | orbcore |  |  | ** | |  
 | ![image](https://fishbot.app/items/smallxpbag.png) | smallxpbag |  |  | ** | |  
-| ![image](https://fishbot.app/items/medxpbag.png) | medxpbag |  |  | ** | |  
+| ![image](https://fishbot.app/items/medxpbag.png) | medxpbag |  |  | *Gives 2400 xp to your skill of choice* | |  
 | ![image](https://fishbot.app/items/bigxpbag.png) | bigxpbag |  |  | ** | |  
 | ![image](https://fishbot.app/items/hugexpbag.png) | hugexpbag |  |  | ** | |  
 | ![image](https://fishbot.app/items/massivexpbag.png) | massivexpbag |  |  | ** | |  
@@ -243,7 +243,7 @@ Items are in order of collection log
 | ![image](https://fishbot.app/items/thievebovagloves.png) | thievebovagloves |  | can !make at level 27 crafting | ** | |  
 | ![image](https://fishbot.app/items/craftbovagloves.png) | craftbovagloves |  | can !make at level 27 crafting | ** | |  
 | ![image](https://fishbot.app/items/bovaberly.png) | bovaberly |  | can !make at level 30 crafting | ** | |  
-| ![image](https://fishbot.app/items/bovalockpurse.png) | bovalockpurse |  | can !make at level 30 crafting | ** | |  
+| ![image](https://fishbot.app/items/bovalockpurse.png) | bovalockpurse |  | can !make at level 30 crafting | *If this is in your inv, gives a chance to save a lockpick when thieving* | |  
 | ![image](https://fishbot.app/items/bovasaltbox.png) | bovasaltbox |  | can !make at level 30 crafting | ** | |  
 | ![image](https://fishbot.app/items/fishbovahat.png) | fishbovahat |  | can !make at level 35 crafting | ** | |  
 | ![image](https://fishbot.app/items/thievebovahat.png) | thievebovahat |  | can !make at level 35 crafting | ** | |  
