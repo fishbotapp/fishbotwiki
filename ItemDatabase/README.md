@@ -626,12 +626,12 @@ Items are in order of collection log
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/petjackdaniels.png) | Petjackdaniels |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/petjackdaniels.png) | Petjackdaniels |  |  | *An INSANELY rare pet... its 1 in 69k chance when doing.. a certain unique activity. Well done for finding this!!! You can show it off with !use* | |  | |
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/petnip.png) | Petnip |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/hearth.png) | Hearth |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/holysymbol.png) | Holysymbol |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/petnip.png) | Petnip |  |  | *Increases the odds of ALL pets to be found by 10%* | |  | |
+| ![image](https://fishbot.app/items/hearth.png) | Hearth |  |  | * If this is in your inv, you get +10% xp gained for all stats and +5% shale, shilling and shell find* | |  | |
+| ![image](https://fishbot.app/items/holysymbol.png) | Holysymbol |  |  | *Can be used once a day for a 1 in 7 chance for a random blessing from the gods. You can only find this item while holding a certain lucky item. If worn, gives +10% chance for success upon activation* | |  | |
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/neptunesgrimoire.png) | Neptunesgrimoire |  |  | *A rare required ingrediant (along with 70 crafting) that makes 5 different godly tools* | |  | |
