@@ -635,3 +635,6 @@ Items are in order of collection log
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/neptunesgrimoire.png) | Neptunesgrimoire |  |  | *A rare required ingrediant (along with 70 crafting) that makes 5 different godly tools* | |  | |
+| ![image](https://fishbot.app/items/neptuneschisel.png) | Neptuneschisel | | !make (Level 70 Crafting): 1x neptunesgrimoire, 1x glowingchisel | *High tier crafting tool* | | | |
+| ![image](https://fishbot.app/items/neptunessickle.png) | Neptunessickle | | !make (Level 70 Crafting): 1x neptunesgrimoire, 1x glowingsickle | *High tier crafting tool* | | | |
+| ![image](https://fishbot.app/items/neptunesmallet.png) | Neptunesmallet | | !make (Level 70 Crafting): 1x neptunesgrimoire, 1x glowingmulchmallet | *High tier crafting tool* | | | |
