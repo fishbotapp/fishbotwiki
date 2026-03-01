@@ -284,16 +284,16 @@ Items are in order of collection log
 | ![image](https://fishbot.app/items/mulchpocket.png) | Mulchpocket |  | !make (38 Crafting): 14x eelhide, 6x mulch | *Whenever you find a mulch theres a 33% chance to double it, 1 in 120 chance to break when it activates* | |  | |
 | ![image](https://fishbot.app/items/dubloonpocket.png) | Dubloonpocket |  |  | *Whenever you find a dubloon theres a 33% chance to double it. 1 in 100 chance to break when it activates* | |  | |
 | ![image](https://fishbot.app/items/gempocket.png) | Gempocket |  |  | *Whenever you find a gem theres a 33% chance to double it. 1 in 80 chance to break when it activates* | |  | |
-| ![image](https://fishbot.app/items/coinpurse.png) | Coinpurse |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/craftingsack.png) | Craftingsack |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/thievingsack.png) | Thievingsack |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/fishingsack.png) | Fishingsack |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/moneysack.png) | Moneysack |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/mealhidepants.png) | Mealhidepants |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/speedhidepants.png) | Speedhidepants |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/sleephidepants.png) | Sleephidepants |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/eelerseski.png) | Eelerseski |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/eelhideshield.png) | Eelhideshield |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/coinpurse.png) | Coinpurse |  |  | *Replaces the droptable of !thieve underbarrel with strictly rustycoin / rustycoinpack / dubloon, PRICE: $IRM 330k. * | |  | |
+| ![image](https://fishbot.app/items/craftingsack.png) | Craftingsack |  |  | *Gives permanent +1 crafting boost* | |  | |
+| ![image](https://fishbot.app/items/thievingsack.png) | Thievingsack |  |  | *Gives permanent +1 thieving boost* | |  | |
+| ![image](https://fishbot.app/items/fishingsack.png) | Fishingsack |  |  | *Gives permanent +1 fishing boost* | |  | |
+| ![image](https://fishbot.app/items/moneysack.png) | Moneysack |  |  | *Gives permanent +4% selling price to all items and fish* | |  | |
+| ![image](https://fishbot.app/items/mealhidepants.png) | Mealhidepants |  |  | *Gives 25% mealing speed and 30% chance to get +1 fishmeal when mealing fish. 1 in 500 chance to break, 1 in 1500 chance if worn* | |  | |
+| ![image](https://fishbot.app/items/speedhidepants.png) | Speedhidepants |  |  | *Gives +1 rod speed to any xs fishing trips. 1 in 2500 chance to break. If worn, becomes 1 in 7500 chance to break* | |  | |
+| ![image](https://fishbot.app/items/sleephidepants.png) | Sleephidepants |  |  | *Gives +1% fish caught and 20 extra minutes length on any xxl fishing trips. 1 in 500 chance to break. If worn, becomes 1 in 1500 chance to brea* | |  | |
+| ![image](https://fishbot.app/items/eelerseski.png) | Eelerseski |  |  | *When worn, and when doing xxl eel fishing trips, you will instantly get 2x babyeel* | |  | |
+| ![image](https://fishbot.app/items/eelhideshield.png) | Eelhideshield |  |  | *f this is in your inv and you enter a boss battle, you have a 10% chance to get +1 PWR and to come out damage free, saving you fishmeal. 1 in 50 chance to break per activation. Also, gives 3% chance to get 8x free eelhide when a saltdispencer breaks. If worn, cannot break during boss battles* | |  | |
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
@@ -319,33 +319,33 @@ Items are in order of collection log
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/gemcuttersmonocle.png) | Gemcuttersmonocle |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/gemcuttersmonocle.png) | Gemcuttersmonocle |  |  | * If worn, will give 1x shale any time you chisel a gem, as well as +100 more craft exp* | |  | |
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/dubloon.png) | Dubloon |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/crusheddubloon.png) | Crusheddubloon |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/crushedgem.png) | Crushedgem |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/dubloon.png) | Dubloon |  |  | *Looks like rare pirate currency... hmm...* | |  | |
+| ![image](https://fishbot.app/items/crusheddubloon.png) | Crusheddubloon |  |  | *Pirate currency crushed into dust* | |  | |
+| ![image](https://fishbot.app/items/crushedgem.png) | Crushedgem |  |  | *Gems crushed into dust* | |  | |
 | ![image](https://fishbot.app/items/glowblip.png) | Glowblip |  | | The remains of a once glowing tool. Can be fed into a **Glowconverter** for a 1 in 9 chance for a new glowenergy, or combine 7 of them to get 1x glowenergy with `!use glowblip`. |
-| ![image](https://fishbot.app/items/glowenergy.png) | Glowenergy |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/glowconverter.png) | Glowconverter |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/glowenergy.png) | Glowenergy |  |  | *Can be used on a tool to make it glow. When tools are glowing they give bonuses or operate better, but have a very small chance to break when used* | |  | |
+| ![image](https://fishbot.app/items/glowconverter.png) | Glowconverter |  |  | *Allows you to sacrafice a tool for a 1 in 7 chance of getting a glowenergy* | |  | |
 | ![image](https://fishbot.app/items/glowpowerpack.png) | Glowpowerpack |  | |  Rate of success from sacrificing tools to the **Glowconverter** are increased by 30%. |
-| ![image](https://fishbot.app/items/glowexpansionpack.png) | Glowexpansionpack |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/glowexpansionpack.png) | Glowexpansionpack |  |  | *Gives a 1 in 80 chance to spawn a free orbcore each time you trade in a tool to the glowconverter* | |  | |
 | ![image](https://fishbot.app/items/weatherorb.png) | Weatherorb |  |  | *Found in purple/pirate chests. Can be !use weatherorb once per reset to change the weather conditions* | |  | |
-| ![image](https://fishbot.app/items/weathermanshat.png) | Weathermanshat |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/weathermanshat.png) | Weathermanshat |  |  | *If worn, whenever the weather changes, you will get 1-3 free shell, shale or shilling. 1 in 50 chance to break per activation* | |  | |
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/mongerscap.png) | Mongerscap |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/rustycap.png) | Rustycap |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/northshorecap.png) | Northshorecap |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/southshorecap.png) | Southshorecap |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/sneakerscap.png) | Sneakerscap |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/tickerscap.png) | Tickerscap |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/mongerscap.png) | Mongerscap |  |  | *When worn, gives +20% shrimp and anchovy caught and +2 thieve levels when thieving barrel or underbarrel. Also gives a small chance of swordfish and anglers being converted into chunks of shrimp/anchovy* | |  | |
+| ![image](https://fishbot.app/items/rustycap.png) | Rustycap |  |  | *When worn, allows rustycoins (and more) to be found on fishing trips* | |  | |
+| ![image](https://fishbot.app/items/northshorecap.png) | Northshorecap |  |  | *When worn, gives +1% to total fish caught for EVERY person currently fishing on the north shore. Also, if you fish and end up on the north shore, you will get +1 rod power for whole trip* | |  | |
+| ![image](https://fishbot.app/items/southshorecap.png) | Southshorecap |  |  | *When worn, gives +3% to thieving xp for EVERY person currently fishing on the south shore. Also, if you fish and end up on the south shore, you will get a small thieving xp bonus* | |  | |
+| ![image](https://fishbot.app/items/sneakerscap.png) | Sneakerscap |  |  | *When worn, each time you thieve the shop you add a charge to the cap. On payday 80 each day, the charges automatically dispel and grant you random thieving bonuses* | |  | |
+| ![image](https://fishbot.app/items/tickerscap.png) | Tickerscap |  |  | *When worn and on a fishing trip, each time someone else completes a !make command you add a charge to the cap. When the fishing trip ends, the charges dispel and grant you small fishing and crafting bonuses* | |  | |
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/gwillet.png) | Gwillet |  |  | *A lightly glowing monkrobe top. When worn, a player cannot: thieve, catch anchovy (the holy fish) or make mulch. However, they will receive +3% all fish caught, +45% angler caught and +20% exp from anglers. Has a 1 in 5000 chance to break per angler caught* | |  | |
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/scrollofmulchmania.png) | Scrollofmulchmania |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/scrollofbonanza.png) | Scrollofbonanza |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/scrollofmulchmania.png) | Scrollofmulchmania |  |  | *Consumes on use and requires 300 anchovy to use. When used, will put you into a mulching frenzy for one hour... to mulch as MUCH as you can! Boosts from your craft level and your items will be used in the mania, you will also get +8 crafting level boost for the duration of it* | |  | |
+| ![image](https://fishbot.app/items/scrollofbonanza.png) | Scrollofbonanza |  |  | *Consumed on use. Until next reset, fishmarkets will automatically buy small chunks of anything you fish up for lucrative prices (+80% market price OR MORE)* | |  | |
 | ![image](https://fishbot.app/items/scrolloflockpickalchemy.png) | Scrolloflockpickalchemy |  |  | ** | |  | |
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
