@@ -233,39 +233,39 @@ Items are in order of collection log
 | ![image](https://fishbot.app/items/hugexpbag.png) | hugexpbag |  |  | ** | |  
 | ![image](https://fishbot.app/items/massivexpbag.png) | massivexpbag |  |  | ** | |  
 | ![image](https://fishbot.app/items/bova.png) | bova |  |  By harvesting bova corner events | ** | |  
-| ![image](https://fishbot.app/items/fishberry.png) | fishberry |  | Rare find when harvesting bova corner events  | ** | |  
-| ![image](https://fishbot.app/items/thieveberry.png) | thieveberry |  | Rare find when harvesting bova corner events  | ** | |  
-| ![image](https://fishbot.app/items/craftberry.png) | craftberry |  | Rare find when harvesting bova corner events  | ** | |  
-| ![image](https://fishbot.app/items/fishbovaboots.png) | fishbovaboots |  | can !make at level 21 crafting | ** | |  
-| ![image](https://fishbot.app/items/thievebovaboots.png) | thievebovaboots |  | can !make at level 21 crafting | ** | |  
-| ![image](https://fishbot.app/items/craftbovaboots.png) | craftbovaboots |  | can !make at level 21 crafting | ** | |  
-| ![image](https://fishbot.app/items/fishbovagloves.png) | fishbovagloves |  | can !make at level 27 crafting | ** | |  
-| ![image](https://fishbot.app/items/thievebovagloves.png) | thievebovagloves |  | can !make at level 27 crafting | ** | |  
-| ![image](https://fishbot.app/items/craftbovagloves.png) | craftbovagloves |  | can !make at level 27 crafting | ** | |  
-| ![image](https://fishbot.app/items/bovaberly.png) | bovaberly |  | can !make at level 30 crafting | ** | |  
-| ![image](https://fishbot.app/items/bovalockpurse.png) | bovalockpurse |  | can !make at level 30 crafting | *If this is in your inv, gives a chance to save a lockpick when thieving* | |  
-| ![image](https://fishbot.app/items/bovasaltbox.png) | bovasaltbox |  | can !make at level 30 crafting | ** | |  
-| ![image](https://fishbot.app/items/fishbovahat.png) | fishbovahat |  | can !make at level 35 crafting | ** | |  
-| ![image](https://fishbot.app/items/thievebovahat.png) | thievebovahat |  | can !make at level 35 crafting | ** | |  
-| ![image](https://fishbot.app/items/craftbovahat.png) | craftbovahat |  | can !make at level 35 crafting | ** | |  
-| ![image](https://fishbot.app/items/fishbovashorts.png) | fishbovashorts |  |  can !make at level 38 crafting| ** | |  
-| ![image](https://fishbot.app/items/thievebovashorts.png) | thievebovashorts |  | can !make at level 38 crafting | ** | |  
-| ![image](https://fishbot.app/items/craftbovashorts.png) | craftbovashorts |  | can !make at level 38 crafting | ** | |  
-| ![image](https://fishbot.app/items/fishbovamask.png) | fishbovamask |  | can !make at level 41 crafting | ** | |  
-| ![image](https://fishbot.app/items/thievebovamask.png) | thievebovamask |  | can !make at level 41 crafting | ** | |  
-| ![image](https://fishbot.app/items/craftbovamask.png) | craftbovamask |  | can !make at level 41 crafting | ** | |  
-| ![image](https://fishbot.app/items/fishbovaeski.png) | fishbovaeski |  | can !make at level 42 crafting | ** | |  
-| ![image](https://fishbot.app/items/thievebovaeski.png) | thievebovaeski |  | can !make at level 42 crafting | ** | |  
-| ![image](https://fishbot.app/items/craftbovaeski.png) | craftbovaeski |  |can !make at level 42 crafting  | ** | |  
-| ![image](https://fishbot.app/items/fishbovanecklace.png) | fishbovanecklace |  | can !make at level 47 crafting | ** | |  
-| ![image](https://fishbot.app/items/thievebovanecklace.png) | thievebovanecklace | | can !make at level 47 crafting |  | ** | |  
-| ![image](https://fishbot.app/items/craftbovanecklace.png) | craftbovanecklace |  | can !make at level 47 crafting | ** | |  
-| ![image](https://fishbot.app/items/fishbovagown.png) | fishbovagown |  |  can !make at level 51 crafting| ** | |  
-| ![image](https://fishbot.app/items/thievebovagown.png) | thievebovagown |  | can !make at level 51 crafting |  | ** | |  
-| ![image](https://fishbot.app/items/craftbovagown.png) | craftbovagown |  | can !make at level 51 crafting | ** | |  
-| ![image](https://fishbot.app/items/fishbovaring.png) | fishbovaring |  | can !make at level 53 crafting | ** | |  
-| ![image](https://fishbot.app/items/thievebovaring.png) | thievebovaring |  | can !make at level 53 crafting  | ** | |  
-| ![image](https://fishbot.app/items/craftbovaring.png) | craftbovaring |  | can !make at level 53 crafting | ** | |  
+| ![image](https://fishbot.app/items/fishberry.png) | fishberry |  | Rare find when harvesting bova corner events  | *A delicious berry used as an ingrediant bova crafting recipes. If consumed, will give +250 fishing xp and +1 fishing level until next reset.* | |  
+| ![image](https://fishbot.app/items/thieveberry.png) | thieveberry |  | Rare find when harvesting bova corner events  | *A delicious berry used as an ingrediant bova crafting recipes. If consumed, will give +250 thieving xp and +1 thieving level until next reset.* | |  
+| ![image](https://fishbot.app/items/craftberry.png) | craftberry |  | Rare find when harvesting bova corner events  | *A delicious berry used as an ingrediant bova crafting recipes. If consumed, will give +250 crafting xp and +1 crafting level until next reset.* | |  
+| ![image](https://fishbot.app/items/fishbovaboots.png) | fishbovaboots |  | can !make at level 21 crafting | *When worn, gives +25% chance to not lose mulch and +1% lobster caught* | |  
+| ![image](https://fishbot.app/items/thievebovaboots.png) | thievebovaboots |  | can !make at level 21 crafting | *When worn, gives +25% coins gained from thieving* | |  
+| ![image](https://fishbot.app/items/craftbovaboots.png) | craftbovaboots |  | can !make at level 21 crafting | *When worn, gives +6 crafting level boost when eyehooking fish* | |  
+| ![image](https://fishbot.app/items/fishbovagloves.png) | fishbovagloves |  | can !make at level 27 crafting | *When worn, if you catch over 10 lobsters in a fishing trip, theres a 12% chance that 10 lobsters convert to 1 bova* | |  
+| ![image](https://fishbot.app/items/thievebovagloves.png) | thievebovagloves |  | can !make at level 27 crafting | *When worn, gives 6% chance to get a bova when claiming a coin supply chest* | |  
+| ![image](https://fishbot.app/items/craftbovagloves.png) | craftbovagloves |  | can !make at level 27 crafting | *When worn, gives 15% chance to get an extra bova when harvesting a bova plant, and +1% chance of getting a free berry* | |  
+| ![image](https://fishbot.app/items/bovaberly.png) | bovaberly |  | can !make at level 30 crafting | *If this is in your inv and you do an extra short fish, you will have +1 rod power for that trip. 1 in 350 chance to break per use.* | |  
+| ![image](https://fishbot.app/items/bovalockpurse.png) | bovalockpurse |  | can !make at level 30 crafting | *If this is in your inv, you will get +7% chance of double thieve. 1 in 190 chance to break per use* | |  
+| ![image](https://fishbot.app/items/bovasaltbox.png) | bovasaltbox |  | can !make at level 30 crafting | *You can !use this to instantly convert 4x eelskin to 4x eelhide. 1 in 5 chance to break per use. * | |  
+| ![image](https://fishbot.app/items/fishbovahat.png) | fishbovahat |  | can !make at level 35 crafting | *When worn, +1% all fish caught and +6% fishing xp * | |  
+| ![image](https://fishbot.app/items/thievebovahat.png) | thievebovahat |  | can !make at level 35 crafting | *When worn, +8 thieving levels when thieving the shore. * | |  
+| ![image](https://fishbot.app/items/craftbovahat.png) | craftbovahat |  | can !make at level 35 crafting | *When worn, 35% chance to find a free glowblip when harvesting a bova bush. * | |  
+| ![image](https://fishbot.app/items/fishbovashorts.png) | fishbovashorts |  |  can !make at level 38 crafting| *When worn, and when a bova bush is present at the lake, all fishing trips started will be boosted by +4 fishing levels.* | |  
+| ![image](https://fishbot.app/items/thievebovashorts.png) | thievebovashorts |  | can !make at level 38 crafting | *When worn, and when a bova bush is present at the lake, +2 thieving level to any thieves, +20% chance of double thieve and +5% chance to reset thieving cooldown. * | |  
+| ![image](https://fishbot.app/items/craftbovashorts.png) | craftbovashorts |  | can !make at level 38 crafting | *When worn, 20% chance to find a free gem when harvesting a bova bush.* | |  
+| ![image](https://fishbot.app/items/fishbovaeski.png) | fishbovaeski |  | can !make at level 42 crafting | *When worn and doing an xxl fish, theres a 20% chance you will sacrafice 1x bova in exchange for +10% all fish caught for that trip. * | |  
+| ![image](https://fishbot.app/items/thievebovaeski.png) | thievebovaeski |  | can !make at level 42 crafting | *When worn, +3% all thieving xp and all thieve locations have a 1% chance to give a free bova. * | |  
+| ![image](https://fishbot.app/items/craftbovaeski.png) | craftbovaeski |  | can !make at level 42 crafting | *When worn and when harvesting a bova plant,  75% chance to get an extra bova, +2% chance of getting an extra berry. * | |  
+| ![image](https://fishbot.app/items/fishbovamask.png) | fishbovamask |  | can !make at level 41 crafting | *When worn, !fish xs are 40 seconds shorter and !fish xxl are 25 min longer. * | |  
+| ![image](https://fishbot.app/items/thievebovamask.png) | thievebovamask |  | can !make at level 41 crafting | *When worn, any uncut gem gained from thieving will be swapped for either glowblip, glowenergy, shilling or orbcore (rare) and give an extra 100 thieve xp.  * | |  
+| ![image](https://fishbot.app/items/craftbovamask.png) | craftbovamask |  | can !make at level 41 crafting | *When worn, theres a 1% chance to find a bova when sipping a potion and a 1% chance to find a bova when crafting a potion. * | |  
+| ![image](https://fishbot.app/items/fishbovanecklace.png) | fishbovanecklace |  | can !make at level 47 crafting | *When worn, gives tiny boost to finding luckyflowers when fishing. * | |  
+| ![image](https://fishbot.app/items/thievebovanecklace.png) | thievebovanecklace | | can !make at level 47 crafting |  | *When worn,  thieves done on or after payday 84 will have +7% chance to reset lockpick cooldown. * | |  
+| ![image](https://fishbot.app/items/craftbovanecklace.png) | craftbovanecklace |  | can !make at level 47 crafting | *When worn, if a glowing tool breaks you will either get +500 craft xp OR a free bova OR a free berry OR all of the above! * | |  
+| ![image](https://fishbot.app/items/fishbovagown.png) | fishbovagown |  |  can !make at level 51 crafting| *When worn, gives +3% lobster and +3% babyeel caught, 3x chance of finding mulch when fishing and +2% chance to find an extra berry on bova bush. * | |  
+| ![image](https://fishbot.app/items/thievebovagown.png) | thievebovagown |  | can !make at level 51 crafting |  | *When worn, gives +1 thieving level, +3% thieving xp, +10% coins from thieving and +2% chance to find an extra berry on bova bush.* | |  
+| ![image](https://fishbot.app/items/craftbovagown.png) | craftbovagown |  | can !make at level 51 crafting | *When worn,  gives +2% craft xp, 15% chance per bova used in !make commands will be returned back to you and +2% chance to find an extra berry on bova bush. * | |  
+| ![image](https://fishbot.app/items/fishbovaring.png) | fishbovaring |  | can !make at level 53 crafting | *When in your inv, if your fishing level (including boosts) is less than 65, it gives +1 fishing level and +10% fish gained. If it is more than 65, you instead get +20% fishing xp.* | |  
+| ![image](https://fishbot.app/items/thievebovaring.png) | thievebovaring |  | can !make at level 53 crafting  | *When in inv, if your thieving level (including boosts) is less than 55, it gives +1 thieving level and -8% lockpick cooldown. If it is more than 55, you instead get +30% thieving xp.* | |  
+| ![image](https://fishbot.app/items/craftbovaring.png) | craftbovaring |  | can !make at level 53 crafting | *When in your inv, if your crafting level (including boosts) is less than 60, it gives +1 crafting level and +20% making speed. If it is 60 or more, you instead get +15% craft xp.* | |  
 | ![image](https://fishbot.app/items/redcoat.png) | redcoat |  |  | ** | |  
 | ![image](https://fishbot.app/items/greencoat.png) | greencoat |  |  | ** | |  
 | ![image](https://fishbot.app/items/turncoat.png) | turncoat |  |  | ** | |  
@@ -273,8 +273,8 @@ Items are in order of collection log
 | ![image](https://fishbot.app/items/spycoat.png) | spycoat |  |  | *If worn, the next time you turncoat an enemy item chest, you will get 10x rewards* | |  
 | ![image](https://fishbot.app/items/brewgloves.png) | Brewgloves |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/mulchupgloves.png) | Mulchupgloves |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/fishworkgloves.png) | Fishworkgloves |  | !make fishworkgloves(47 Crafting): 21x eelhide, 8x fisheye, 6x lobsterclaw, 6x fisheggs, 4x craftingpotion | *Eyehooking, gutting and removing lobster claws is 15% faster, 1 in 260 chance to break per use. If worn, 1 in 780 chance to break per use., PRICE: $IRM 112k. NOTE: This item is not for sale from the store.* ~~While worn, you get +2 fishing level and +1 rod speed. However, you will not receive any fishing xp while wearing them.~~ | |  | |
-| ![image](https://fishbot.app/items/eelworkgloves.png) | Eelworkgloves |  | !make eelworkgloves (48 Crafting): 24x eelhide, 12x fisheye, 10x eelskin, 8x fisheggs, 4x supercraftingpotion | *Harvesting and drying eelskin is 15% faster AND 10% chance to not consume vialofsalt when drying, as well as saltdispencer being 1 in 10 chance to break (instead of 1 in 8). 1 in 260 chance to break per use. If worn, 1 in 780 chance to break per use.* ~~While worn, you get +4 fishing level and +2 rod speed. However, you will only catch eels and babyeels, and receive no fishing xp.~~ | |  | |
+| ![image](https://fishbot.app/items/fishworkgloves.png) | Fishworkgloves |  | !make fishworkgloves(47 Crafting): 21x eelhide, 8x fisheye, 6x lobsterclaw, 6x fisheggs, 4x craftingpotion | *Eyehooking, gutting and removing lobster claws is 15% faster, 1 in 260 chance to break per use. If worn, 1 in 780 chance to break per use., PRICE: $IRM 112k. NOTE: This item is not for sale from the store.* | |  | |
+| ![image](https://fishbot.app/items/eelworkgloves.png) | Eelworkgloves |  | !make eelworkgloves (48 Crafting): 24x eelhide, 12x fisheye, 10x eelskin, 8x fisheggs, 4x supercraftingpotion | *Harvesting and drying eelskin is 15% faster AND 10% chance to not consume vialofsalt when drying, as well as saltdispencer being 1 in 10 chance to break (instead of 1 in 8). 1 in 260 chance to break per use. If worn, 1 in 780 chance to break per use.*| |  | |
 | ![image](https://fishbot.app/items/thiefgloves.png) | Thiefgloves |  |  | *While worn, gives +2 thieving level and +15% thieving speed, but you receive no thieving xp.* | |  | |
 | ![image](https://fishbot.app/items/blipgloves.png) | Blipgloves |  |  | *While worn, gives +10% thieving speed and 5% chance of a double thieve.* | |  | |
 | ![image](https://fishbot.app/items/thiefmask.png) | Thiefmask |  |  | *While worn, gives +2 thieving level and 5% chance of a double thieve, but you receive no thieving xp.* | |  | |
