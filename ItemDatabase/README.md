@@ -95,7 +95,7 @@ Items are in order of collection log
 | ![image](https://fishbot.app/items/mulchmallet.png) | Mulchmallet |  |  | *with this in your inv, it only takes 15 anchovy to make mulch* | |  | |
 | ![image](https://fishbot.app/items/chisel.png) | Chisel |  |  | *used for cutting gems* | |  | |
 | ![image](https://fishbot.app/items/craftingknife.png) | Craftingknife |  |  | *used for various crafting activities* | |  | |
-| ![image](https://fishbot.app/items/gutter.png) | **Gutter** |  |  | Used for gutting fish to extract items from inside them (such as fisheyes and lobsterclaws). |
+| ![image](https://fishbot.app/items/gutter.png) | Gutter |  |  | Used for gutting fish to extract items from inside them (such as fisheyes and lobsterclaws). |
 | ![image](https://fishbot.app/items/sickle.png) | Sickle |  |  | *used for harvesting bova. If this is in your inventory, you will get +50% chance of 1 extra bova and 2% chance of 1 extra berry from bova trees* | |  | |
 | ![image](https://fishbot.app/items/glowingstraw.png) | Glowingstraw |  |  | *grants an extra 10% chance to get your vial back after drinking a potion, 8% chance to keep the potion entirely and 20% chance to get it back after using a vialofsalt. 1 in 230 chance to break per use* | |  | |
 | ![image](https://fishbot.app/items/glowingeyehook.png) | Glowingeyehook |  |  | *Grants 15% chance to process 3 pike at once. 1 in 300 chance to break per use* | |  | |
@@ -221,18 +221,18 @@ Items are in order of collection log
 | ![image](https://fishbot.app/items/onyxsinker.png) | onyxsinker |  |  | * 10% chance to activate when doing an xxl, you will either get +30% shrimp caught, +10% babyeel caught or +10% eel caught for your fishing trip* | |  
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ???? |  |  | ** | |  
 | ![image](https://fishbot.app/items/chiselheatstone.png) | chiselheatstone |  |  | *Will activate and be consumed when you cut an uncut gem. The gem cut will be near instant and you will receive 1.5x crafting xp. When you craft this item you will receive multipl* | |  
-| ![image](https://fishbot.app/items/rubylocket.png) | rubylocket |  |  | ** | |  
+| ![image](https://fishbot.app/items/rubylocket.png) | rubylocket |  |  | *Will activate and be consumed on your first thieve of the day. Will grant you an EXTRA 3x thieving xp for that thieve. When you craft this item you will receive multiple* | |  
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ???? |  |  | ** | |  
 | ![image](https://fishbot.app/items/maniceggeye.png) | maniceggeye |  |  | *Will activate and be consumed on your first thieve of the day. Will grant you an EXTRA 3x thieving xp for that thieve. When you craft this item you will receive multiple* | |  
 | ![image](https://fishbot.app/items/gamblersglasses.png) | gamblersglasses |  |  | *-50% gamble & slots cooldown, +1 roll in duels, 1.5x gamble & slots limit, +3 extra free spins on any slots2 feature, +1% chance of mysteryprize. If worn: +1% extra feech odds but 1 in 3000 chance to break per use* | |  
 |  ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ????? |  |  | ** | |  
 | ![image](https://fishbot.app/items/orbcore.png) | orbcore |  |  | *orbcore, DESCRIPTION: An unstable energy which can combine three orbs of the same type, into a more powerful one. Example !use: orbcore gamblersorb* | |  
-| ![image](https://fishbot.app/items/smallxpbag.png) | smallxpbag |  |  | ** | |  
-| ![image](https://fishbot.app/items/medxpbag.png) | medxpbag |  |  | *Gives 2400 xp to your skill of choice* | |  
-| ![image](https://fishbot.app/items/bigxpbag.png) | bigxpbag |  |  | ** | |  
-| ![image](https://fishbot.app/items/hugexpbag.png) | hugexpbag |  |  | ** | |  
-| ![image](https://fishbot.app/items/massivexpbag.png) | massivexpbag |  |  | ** | |  
-| ![image](https://fishbot.app/items/bova.png) | bova |  |  By harvesting bova corner events | ** | |  
+| ![image](https://fishbot.app/items/smallxpbag.png) | smallxpbag |  |  | *Gives 1000 xp to your skill of choice, use with !use smallxpbag <skill>,* | |  
+| ![image](https://fishbot.app/items/medxpbag.png) | medxpbag |  |  | *gives 2400 xp to your skill of choice, use with !use bigxpbag <skill>* | |  
+| ![image](https://fishbot.app/items/bigxpbag.png) | bigxpbag |  |  | *Gives 5000 xp to your skill of choice, use with !use bigxpbag <skill>* | |  
+| ![image](https://fishbot.app/items/hugexpbag.png) | hugexpbag |  |  | *Gives 10000 xp to your skill of choice, use with !use hugexpbag <skill>* | |  
+| ![image](https://fishbot.app/items/massivexpbag.png) | massivexpbag |  |  | *Gives 20000 xp to your skill of choice, use with !use massivexpbag <skill>* | |  
+| ![image](https://fishbot.app/items/bova.png) | bova |  |  By harvesting bova corner events | *A cluster of bova leaves which can be woven to make all kinds of bova equiptment!* | |  
 | ![image](https://fishbot.app/items/fishberry.png) | fishberry |  | Rare find when harvesting bova corner events  | *A delicious berry used as an ingrediant bova crafting recipes. If consumed, will give +250 fishing xp and +1 fishing level until next reset.* | |  
 | ![image](https://fishbot.app/items/thieveberry.png) | thieveberry |  | Rare find when harvesting bova corner events  | *A delicious berry used as an ingrediant bova crafting recipes. If consumed, will give +250 thieving xp and +1 thieving level until next reset.* | |  
 | ![image](https://fishbot.app/items/craftberry.png) | craftberry |  | Rare find when harvesting bova corner events  | *A delicious berry used as an ingrediant bova crafting recipes. If consumed, will give +250 crafting xp and +1 crafting level until next reset.* | |  
@@ -346,13 +346,13 @@ Items are in order of collection log
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/scrollofmulchmania.png) | Scrollofmulchmania |  |  | *Consumes on use and requires 300 anchovy to use. When used, will put you into a mulching frenzy for one hour... to mulch as MUCH as you can! Boosts from your craft level and your items will be used in the mania, you will also get +8 crafting level boost for the duration of it* | |  | |
 | ![image](https://fishbot.app/items/scrollofbonanza.png) | Scrollofbonanza |  |  | *Consumed on use. Until next reset, fishmarkets will automatically buy small chunks of anything you fish up for lucrative prices (+80% market price OR MORE)* | |  | |
-| ![image](https://fishbot.app/items/scrolloflockpickalchemy.png) | Scrolloflockpickalchemy |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/scrolloflockpickalchemy.png) | Scrolloflockpickalchemy |  |  | *Consumed upon use. Can be used on any lockpick to destroy it in exchange for a chunk of thieve xp and 10% of the market value in cash. The better the lockpick, the more thieve xp gained* | |  | |
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/pikesummoner.png) | Pikesummoner |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/glowpeach.png) | Glowpeach |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/glode.png) | Glode |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/pikesummoner.png) | Pikesummoner |  |  | *Every time you catch a lobster, babyeel, eel, catfish or angler you will get a free pike! 1 in 1500 chance to break per free pike* |  | | |
+| ![image](https://fishbot.app/items/glowpeach.png) | Glowpeach |  |  | *Is consumed upon use. Until next reset, any glowing tool you break will grant you +2000 craft xp.* |  | | |
+| ![image](https://fishbot.app/items/glode.png) | Glode |  |  | *If this is in your inventory, 1% of all your !make commands will complete instantly and grant 2x xp* |  | | |
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/fishingguildbadge.png) | Fishingguildbadge | 69 | | *A badge that shows you are indeed a ferocious fisher, and allows for entry into the Fishing Guild.* |  | | |
 | ![image](https://fishbot.app/items/thievingguildbadge.png) | Thievingguildbadge | 69 | | *A badge that shows you are indeed a nefarious thiever, and allows for entry into the Thieving Guild.* |  | | |
@@ -393,16 +393,16 @@ Items are in order of collection log
 | ![image](https://fishbot.app/items/mulchmakingeski.png) | Mulchmakingeski | 3m | | *If worn, gives +10% mulching speed and also converts 25% of anchovy caught to mulch at 25 anchovy per mulch, and converts 25% of pike caught to mulch at 8 pike per mulch* |  | | |
 | ![image](https://fishbot.app/items/potionkit.png) | Potionkit | 6m | | *With this in your inv, you craft 2 potions at once instead of 1.. but only when using the !use method. 1 in 12000 chance to break per use.* |  | | |
 | ![image](https://fishbot.app/items/craftguildmonocle.png) | Craftguildmonocle |  |  | (Eyes) When worn, gives +1 crafting level and +8% crafting xp. Can be `!used` to instantly sacrifice 10x mulch + 10x fisheggs + 10x fisheyes for 200-500 craft xp |
-| ![image](https://fishbot.app/items/gamblersrelic.png) | Gamblersrelic |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/slappersrelic.png) | Slappersrelic |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/incomerelic.png) | Incomerelic |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/interestrelic.png) | Interestrelic |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/sippersrelic.png) | Sippersrelic |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/gamblersrequiem.png) | Gamblersrequiem |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/slappersrequiem.png) | Slappersrequiem |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/incomerequiem.png) | Incomerequiem |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/interestrequiem.png) | Interestrequiem |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/sippersrequiem.png) | Sippersrequiem |  |  | ** | |   | |
+| ![image](https://fishbot.app/items/gamblersrelic.png) | Gamblersrelic |  |  | *Increases !gamble limit to 250k* |  | | |
+| ![image](https://fishbot.app/items/slappersrelic.png) | Slappersrelic |  |  | *Increases !slot limit to 5000* |  | | |
+| ![image](https://fishbot.app/items/incomerelic.png) | Incomerelic |  |  | *You will get $IRM 120 more every payday! It stacks with other income items.* |  | | |
+| ![image](https://fishbot.app/items/interestrelic.png) | Interestrelic |  |  | *Your coins gain 0.0025% interest every payday (every 15 mins). It stacks with other interest items. Caps out at 20k per payday thanks to @whoopbang and @jwundering* |  | | |
+| ![image](https://fishbot.app/items/sippersrelic.png) | Sippersrelic |  |  | *all potions last an extra 100 mins when drank (does not stack with other sippers items)* |  | | |
+| ![image](https://fishbot.app/items/gamblersrequiem.png) | Gamblersrequiem |  |  | *Increases !gamble limit to 400k* |  | | |
+| ![image](https://fishbot.app/items/slappersrequiem.png) | Slappersrequiem |  |  | *Increases !slot limit to 10000* |  | | |
+| ![image](https://fishbot.app/items/incomerequiem.png) | Incomerequiem |  |  | *You will get $IRM 250 more every payday! It stacks with other income items.* |  | | |
+| ![image](https://fishbot.app/items/interestrequiem.png) | Interestrequiem |  |  | *Your coins gain 0.003% interest every payday (every 15 mins). It stacks with other interest items. Caps out at 25k per payday thanks to @whoopbang and @jwundering* |  | | |
+| ![image](https://fishbot.app/items/sippersrequiem.png) | Sippersrequiem |  |  | *all potions last an extra 150 mins when drank (does not stack with other sippers items)* |  | | |
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
@@ -415,7 +415,7 @@ Items are in order of collection log
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/oyster.png) | Oyster |  |  | ** | |   | |
+| ![image](https://fishbot.app/items/oyster.png) | Oyster |  |  | *Wow.. an oyster! Even a fisherman dont see many of those these days* | |   | |
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
@@ -432,16 +432,16 @@ Items are in order of collection log
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/supereski.png) | Supereski |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/rainbowglass.png) | Rainbowglass |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/keepersnecklace.png) | Keepersnecklace |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/pearlnecklace.png) | Pearlnecklace |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/coinersring.png) | Coinersring |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/wildpurse.png) | Wildpurse |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/holywine.png) | Holywine |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/harvester.png) | Harvester |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/harvesthat.png) | Harvesthat |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/luckyspotmonocle.png) | Luckyspotmonocle |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/supereski.png) | Supereski |  |  | *When worn, will grant +1 rod power* |  | | |
+| ![image](https://fishbot.app/items/rainbowglass.png) | Rainbowglass |  |  | *With this in your inv, you will gain 2x exp from cutting and crushing gems... and +1 crushedgem each time you cut a gem as well as +4 crushedgem every time you crush a gem.* |  | | |
+| ![image](https://fishbot.app/items/keepersnecklace.png) | Keepersnecklace |  |  | *All items with a chance of randomly breaking will now be 30% harder to break. If worn, it will give an extra +2%.* |  | | |
+| ![image](https://fishbot.app/items/pearlnecklace.png) | Pearlnecklace |  |  | *If worn, +10% more chance to find oyster when gutting, skinning or fishing, +8% shark gained, +4% swordfish gained.* |  | | |
+| ![image](https://fishbot.app/items/coinersring.png) | Coinersring |  |  | *If this is in your inv, claiming any coin chest will give a base claim of 100x your total level.* |  | | |
+| ![image](https://fishbot.app/items/wildpurse.png) | Wildpurse |  |  | *If this is in your inv, you can !thieve w which will randomly choose your thieving location but grants +2 thieve levels, +10% double thieve, +5% cooldown reset and -5% thieving cooldown for that thieve.* |  | | |
+| ![image](https://fishbot.app/items/holywine.png) | Holywine |  |  | *When drank, it is consumed and grants either +5 rod power or +5 rod speed until next reset!* |  | | |
+| ![image](https://fishbot.app/items/harvester.png) | Harvester |  |  | *With this in your inv, 50% chance to get 1 extra brova from bova bush and 10% chance to find 1 extra berry* |  | | |
+| ![image](https://fishbot.app/items/harvesthat.png) | Harvesthat |  |  | *When worn, all bova !make recipes will give +15% crafting xp.* |  | | |
+| ![image](https://fishbot.app/items/luckyspotmonocle.png) | Luckyspotmonocle |  |  | *When worn, gives an EXTRA +15% fish caught and 15%+ fishing exp when fishing at the lucky fishing spot (on top of the +10% boosts that already exist). Also, increases your chances to end up at the lucky lake spot.* |  | | |
 | ![image](https://fishbot.app/items/rougesblessing.png) | Rougesblessing |  |  | *Every time you claim any supply chest, you will receive 30 thieving xp.  You can only find this item while holding a certain lucky item.* | |  | |
 | ![image](https://fishbot.app/items/goldwrench.png) | Goldwrench |  |  | *Gives +4 power to any rod you are using. DOES stack with grip items. You can only find this item while holding a certain lucky item.* | |  | |
 | ![image](https://fishbot.app/items/goldspindle.png) | Goldspindle |  |  | *Gives +4 speed to any rod you are using. DOES stack with reel items. You can only find this item while holding a certain lucky item.* | |  | |
@@ -478,8 +478,8 @@ Items are in order of collection log
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/rapier.png) | Rapier |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/fencer.png) | Fencer |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/rapier.png) | Rapier |  |  | * If a pirate chest is up and you !use rapier, you will threaten the pirates for a 1 in 4 chance of a free dubloon. If worn, +12 PWR in any boss battle. 1 in 32 chance to break per use or boss battle* | |  | |
+| ![image](https://fishbot.app/items/fencer.png) | Fencer |  |  | *If a pirate chest is up and you !use fencer, you will threaten the pirates for a 1 in 12 chance of free pirate loot. If worn, 40% chance to do 100 extra damage in any boss battle. 1 in 32 chance to break per use or boss battle* | |  | |
 | ![image](https://fishbot.app/items/spiritstaff.png) | Spiritstaff |  |  | *Found in purple/pirate chests. Can be !use spiritstaff when a ghostlychest is present for a chance of an expbag* | |  | |
 | ![image](https://fishbot.app/items/ghostlyhood.png) | Ghostlyhood |  |  | *If worn, grants 5% chance to claim 2x exp from a ghostly chest* | |  | |
 | ![image](https://fishbot.app/items/ghostlygloves.png) | Ghostlygloves |  |  | *If worn, grants 10% better odds at an item from ghostly chests* | |  | |
@@ -559,7 +559,7 @@ Items are in order of collection log
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/blowtorch.png) | Blowtorch |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/blowtorch.png) | Blowtorch |  |  | *Wonder what it could be useful for?* | |  | |
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/onemilrememberncetoken.png) | Onemilrememberncetoken |  | | *this proves you had 1m at one point!* |  | | |
 | ![image](https://fishbot.app/items/onebilrememberncetoken.png) | Onebilrememberncetoken |  | | *this proves you had 1b at one point!* |  | | |
@@ -588,37 +588,37 @@ Items are in order of collection log
 | ![image](https://fishbot.app/items/icyeski.png) | Icyeski |  |  | *When worn, you will gain +1% fishing xp. If its currently December, you will also get +2% fishing xp and +1% fish caught. Seems like the perfect gift...* |  | | |
 | ![image](https://fishbot.app/items/slotski.png) | Slotski |  |  | *When worn, will grant a 1 in 200 chance of an instant slot2 FEECH every time you do an xxl fish. If its currently December, it will be 1 in 100 chance. Seems like the perfect gift...* |  | | |
 | ![image](https://fishbot.app/items/gemski.png) | Gemski |  |  | *When worn, and when doing an xxl fishing trip, there wll be a 1 in 60 chance to instantly receive a free gem! If its currently December, it will have 2x chance to activate! Seems like the perfect gift...* |  | | |
-| ![image](https://fishbot.app/items/candycorn.png) | Candycorn |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/candyprawn.png) | Candyprawn |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/pumpkinpie.png) | Pumpkinpie |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/ripepumpkinhat.png) | Ripepumpkinhat |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/plumppumpkinhat.png) | Plumppumpkinhat |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/oldpumpkinhat.png) | Oldpumpkinhat |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/bleachedpumpkinhat.png) | Bleachedpumpkinhat |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/redhweenmask.png) | Redhweenmask |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/greenhweenmask.png) | Greenhweenmask |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/bluehweenmask.png) | Bluehweenmask |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/creepyglasses.png) | Creepyglasses |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/clownnose.png) | Clownnose |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/partycracker.png) | Partycracker |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/firework.png) | Firework |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/fishcake.png) | Fishcake |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/greenpartyhat.png) | Greenpartyhat |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/orangepartyhat.png) | Orangepartyhat |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/pinkpartyhat.png) | Pinkpartyhat |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/purplepartyhat.png) | Purplepartyhat |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/yellowpartyhat.png) | Yellowpartyhat |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/bluepartyhat.png) | Bluepartyhat |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/cyanpartyhat.png) | Cyanpartyhat |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/tealpartyhat.png) | Tealpartyhat |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/redpartyhat.png) | Redpartyhat |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/petbetterbeer.png) | Petbetterbeer |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/candycorn.png) | Candycorn |  |  | *The only sugar high you can get around this lake... If used, will be consumed and grant +10% chance of double thieve and +20% thieving speed until next reset!* |  | | |
+| ![image](https://fishbot.app/items/candyprawn.png) | Candyprawn |  |  | *Just like the real thing... without the smell! If used, will be consumed and grant +100 shrimp and 2x shrimp caught until next reset!* |  | | |
+| ![image](https://fishbot.app/items/pumpkinpie.png) | Pumpkinpie |  |  | *Finally... a pumpkin put to good use! If used, will be consumed and grant +10% craft xp gained until next reset!* |  | | |
+| ![image](https://fishbot.app/items/ripepumpkinhat.png) | Ripepumpkinhat |  |  | *A hat crafted from a healthy pumpkin. Just the smell of it brings me back to those crazy memories of Fishbot Halloween 2023... good times!* |  | | |
+| ![image](https://fishbot.app/items/plumppumpkinhat.png) | Plumppumpkinhat |  |  | *A hat crafted from a well nurtured pumpkin. Just the smell of it brings me back to those crazy memories of Fishbot Halloween 2023... good times!* |  | | |
+| ![image](https://fishbot.app/items/oldpumpkinhat.png) | Oldpumpkinhat |  |  | *A hat crafted from a mushy dying pumpkin. Just the smell of it brings me back to those crazy memories of Fishbot Halloween 2023... good times!* |  | | |
+| ![image](https://fishbot.app/items/bleachedpumpkinhat.png) | Bleachedpumpkinhat |  |  | *A hat crafted from a weirdly bleached pumpkin. Just the smell of it brings me back to those crazy memories of Fishbot Halloween 2023... good times!* |  | | |
+| ![image](https://fishbot.app/items/redhweenmask.png) | Redhweenmask |  |  | *Great for scaring the local children. Reminds me of those crazy memories of Fishbot Halloween 2023... what a party that was!* |  | | |
+| ![image](https://fishbot.app/items/greenhweenmask.png) | Greenhweenmask |  |  | *Great for scaring the local children. Reminds me of those crazy memories of Fishbot Halloween 2023... what a party that was!* |  | | |
+| ![image](https://fishbot.app/items/bluehweenmask.png) | Bluehweenmask |  |  | *Great for scaring the local children. Reminds me of those crazy memories of Fishbot Halloween 2023... what a party that was!* |  | | |
+| ![image](https://fishbot.app/items/creepyglasses.png) | Creepyglasses |  |  | *Great for scaring the local children AND parents. Takes me back to those crazy memories of Fishbot Halloween 2023... what a time that was!* |  | | |
+| ![image](https://fishbot.app/items/clownnose.png) | Clownnose |  |  | *A relic of sheer embaressment from the Jackoween himself. Remember to those crazy memories of Fishbot Halloween 2023? Take me back!* |  | | |
+| ![image](https://fishbot.app/items/partycracker.png) | Partycracker |  |  | *A colorful cracker to pop with your friends to celebrate fishbots first ever birthday!* |  | | |
+| ![image](https://fishbot.app/items/firework.png) | Firework |  |  | *A celebratory relic from the from the first ever fishbot birthday festival!* |  | | |
+| ![image](https://fishbot.app/items/fishcake.png) | Fishcake |  |  | *A smelly yet scrumptious relic from the from the first ever fishbot birthday festival!* |  | | |
+| ![image](https://fishbot.app/items/greenpartyhat.png) | Greenpartyhat |  |  | *A wearable relic from the from the first ever fishbot birthday festival!* |  | | |
+| ![image](https://fishbot.app/items/orangepartyhat.png) | Orangepartyhat |  |  | *A wearable relic from the from the first ever fishbot birthday festival!* |  | | |
+| ![image](https://fishbot.app/items/pinkpartyhat.png) | Pinkpartyhat |  |  | *A wearable relic from the from the first ever fishbot birthday festival!* |  | | |
+| ![image](https://fishbot.app/items/purplepartyhat.png) | Purplepartyhat |  |  | *A wearable relic from the from the first ever fishbot birthday festival!* |  | | |
+| ![image](https://fishbot.app/items/yellowpartyhat.png) | Yellowpartyhat |  |  | *A wearable relic from the from the first ever fishbot birthday festival!* |  | | |
+| ![image](https://fishbot.app/items/bluepartyhat.png) | Bluepartyhat |  |  | *A wearable relic from the from the first ever fishbot birthday festival!* |  | | |
+| ![image](https://fishbot.app/items/cyanpartyhat.png) | Cyanpartyhat |  |  | *A wearable relic from the from the first ever fishbot birthday festival!* |  | | |
+| ![image](https://fishbot.app/items/tealpartyhat.png) | Tealpartyhat |  |  | *A wearable relic from the from the first ever fishbot birthday festival!* |  | | |
+| ![image](https://fishbot.app/items/redpartyhat.png) | Redpartyhat |  |  | *A wearable relic from the from the first ever fishbot birthday festival!* |  | | |
+| ![image](https://fishbot.app/items/petbetterbeer.png) | Petbetterbeer |  |  | *an INSANELY rare pet... its 1 in 7k chance when doing.. a certain unique activity. Well done for finding this!!! You can show it off with !use* |  | | |
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/petcorona.png) | Petcorona |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/petcorona.png) | Petcorona |  |  | * an INSANELY rare pet... its 1 in 18k chance when doing.. a certain unique activity. Well done for finding this!!! You can show it off with !use* | |  | |
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/petgreatnorthern.png) | Petgreatnorthern |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/petgreatnorthern.png) | Petgreatnorthern |  |  | * An INSANELY rare pet... its 1 in 72k chance when doing.. a certain unique activity. Well done for finding this!!! You can show it off with !us* | |  | |
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
