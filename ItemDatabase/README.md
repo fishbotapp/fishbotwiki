@@ -266,13 +266,13 @@ Items are in order of collection log
 | ![image](https://fishbot.app/items/fishbovaring.png) | fishbovaring |  | can !make at level 53 crafting | *When in your inv, if your fishing level (including boosts) is less than 65, it gives +1 fishing level and +10% fish gained. If it is more than 65, you instead get +20% fishing xp.* | |  
 | ![image](https://fishbot.app/items/thievebovaring.png) | thievebovaring |  | can !make at level 53 crafting  | *When in inv, if your thieving level (including boosts) is less than 55, it gives +1 thieving level and -8% lockpick cooldown. If it is more than 55, you instead get +30% thieving xp.* | |  
 | ![image](https://fishbot.app/items/craftbovaring.png) | craftbovaring |  | can !make at level 53 crafting | *When in your inv, if your crafting level (including boosts) is less than 60, it gives +1 crafting level and +20% making speed. If it is 60 or more, you instead get +15% craft xp.* | |  
-| ![image](https://fishbot.app/items/redcoat.png) | redcoat |  |  | ** | |  
-| ![image](https://fishbot.app/items/greencoat.png) | greencoat |  |  | ** | |  
-| ![image](https://fishbot.app/items/turncoat.png) | turncoat |  |  | ** | |  
-| ![image](https://fishbot.app/items/ghostcoat.png) | ghostcoat |  |  | ** | |  
-| ![image](https://fishbot.app/items/spycoat.png) | spycoat |  |  | *If worn, the next time you turncoat an enemy item chest, you will get 10x rewards* | |  
-| ![image](https://fishbot.app/items/brewgloves.png) | Brewgloves |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/mulchupgloves.png) | Mulchupgloves |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/redcoat.png) | Redcoat | 25k | | *gives an extra 2% thieving exp from all thieving actions if you are team SCYTHE* |  | | |
+| ![image](https://fishbot.app/items/greencoat.png) | Greencoat | 25k | | *gives an extra 2% crafting exp from all crafting actions if you are team TBOW* |  | | |
+| ![image](https://fishbot.app/items/turncoat.png) | Turncoat | 80k | | *allows you to claim a supply chest from the enemy team. one time use, requires 12 thieving* |  | | |
+| ![image](https://fishbot.app/items/ghostcoat.png) | Ghostcoat | 180k | | *gives 80% chance to claim a ghostly supply chest. If you also hold a visiontotem it gives 20% chance for a double claim on ghostly chests. 1 in 22 chance to break per use* |  | | |
+| ![image](https://fishbot.app/items/spycoat.png) | Spycoat | 550k | | *If worn, the next time you turncoat an enemy item chest, you will get 10x rewards. 1 in 2 chance to break per use* |  | | |
+| ![image](https://fishbot.app/items/brewgloves.png) | Brewgloves | 90k | | *Potion making is 15% faster, 1 in 260 chance to break per use. If worn, 1 in 780 chance to break per use.* |  | | |
+| ![image](https://fishbot.app/items/mulchupgloves.png) | Mulchupgloves | 102k | | *Making mulch and megamulch is 15% faster, 1 in 260 chance to break per use. If worn, 1 in 780 chance to break per use.* |  | | |
 | ![image](https://fishbot.app/items/fishworkgloves.png) | Fishworkgloves |  | !make fishworkgloves(47 Crafting): 21x eelhide, 8x fisheye, 6x lobsterclaw, 6x fisheggs, 4x craftingpotion | *Eyehooking, gutting and removing lobster claws is 15% faster, 1 in 260 chance to break per use. If worn, 1 in 780 chance to break per use., PRICE: $IRM 112k. NOTE: This item is not for sale from the store.* | |  | |
 | ![image](https://fishbot.app/items/eelworkgloves.png) | Eelworkgloves |  | !make eelworkgloves (48 Crafting): 24x eelhide, 12x fisheye, 10x eelskin, 8x fisheggs, 4x supercraftingpotion | *Harvesting and drying eelskin is 15% faster AND 10% chance to not consume vialofsalt when drying, as well as saltdispencer being 1 in 10 chance to break (instead of 1 in 8). 1 in 260 chance to break per use. If worn, 1 in 780 chance to break per use.*| |  | |
 | ![image](https://fishbot.app/items/thiefgloves.png) | Thiefgloves |  |  | *While worn, gives +2 thieving level and +15% thieving speed, but you receive no thieving xp.* | |  | |
