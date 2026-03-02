@@ -561,33 +561,33 @@ Items are in order of collection log
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/blowtorch.png) | Blowtorch |  |  | ** | |  | |
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/onemilrememberncetoken.png) | Onemilrememberncetoken |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/onebilrememberncetoken.png) | Onebilrememberncetoken |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/onetrilrememberncetoken.png) | Onetrilrememberncetoken |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/handcuffs.png) | Handcuffs |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/balloonbasket.png) | Balloonbasket |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/whitepartyhat.png) | Whitepartyhat |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/blackpartyhat.png) | Blackpartyhat |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/bdaypjs.png) | Bdaypjs |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/bdaysinglet.png) | Bdaysinglet |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/bdaybowtie.png) | Bdaybowtie |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/beergoggles.png) | Beergoggles |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/bdaycakeeski.png) | Bdaycakeeski |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/mulledwine.png) | Mulledwine |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/anchovyhotdog.png) | Anchovyhotdog |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/vitaminc.png) | Vitaminc |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/santascarrots.png) | Santascarrots |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/santascookies.png) | Santascookies |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/santahat.png) | Santahat |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/bluesantahat.png) | Bluesantahat |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/purplesantahat.png) | Purplesantahat |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/blacksantahat.png) | Blacksantahat |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/elfhat.png) | Elfhat |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/santasbeard.png) | Santasbeard |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/anchovski.png) | Anchovski |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/icyeski.png) | Icyeski |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/slotski.png) | Slotski |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/gemski.png) | Gemski |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/onemilrememberncetoken.png) | Onemilrememberncetoken |  | | *this proves you had 1m at one point!* |  | | |
+| ![image](https://fishbot.app/items/onebilrememberncetoken.png) | Onebilrememberncetoken |  | | *this proves you had 1b at one point!* |  | | |
+| ![image](https://fishbot.app/items/onetrilrememberncetoken.png) | Onetrilrememberncetoken |  | | *if you see a man flash this... you know he has seen some crazy shit in his time...* |  | | |
+| ![image](https://fishbot.app/items/handcuffs.png) | Handcuffs |  | | *Given to the brave few who have been arrested and had their goods convescated by the admin, usually for abusing bugs, exploits or OP mechanics before they are patched.* |  | | |
+| ![image](https://fishbot.app/items/balloonbasket.png) | Balloonbasket |  | | *The decorations for a fishbot second bday!! Now.. i wonder what this clip does?* |  | | |
+| ![image](https://fishbot.app/items/whitepartyhat.png) | Whitepartyhat |  | | *A wearable relic from the second ever fishbot birthday festival!* |  | | |
+| ![image](https://fishbot.app/items/blackpartyhat.png) | Blackpartyhat |  | | *A wearable relic from the second ever fishbot birthday festival!* |  | | |
+| ![image](https://fishbot.app/items/bdaypjs.png) | Bdaypjs |  | | *Sleepwear for the big fishbot birthday sleepovers! Gives a (silent) 10xp all stats if you are on a fishing trip and a birthday chest spawns!* |  | | |
+| ![image](https://fishbot.app/items/bdaysinglet.png) | Bdaysinglet |  | | *Practical aussie partywear! Reduces the cooldown of the !pop command by 40%* |  | | |
+| ![image](https://fishbot.app/items/bdaybowtie.png) | Bdaybowtie |  | | *Loud and proud about your attendance to fishbots official 2nd bday party, if worn, popping a bday baloon gives 10xp all stats!* |  | | |
+| ![image](https://fishbot.app/items/beergoggles.png) | Beergoggles |  | | *Groggin out at the bday festivities! If worn, any birthday baloon you claim will add 10 minutes to all active potion boosts!* |  | | |
+| ![image](https://fishbot.app/items/bdaycakeeski.png) | Bdaycakeeski |  | | *Perfect if you want a wet milky ass all day! If a fishing trip finishes and theres a birthday chest on the lake, you will get 3x the xp!* |  | | |
+| ![image](https://fishbot.app/items/mulledwine.png) | Mulledwine |  | | *The hard stuff every fisherman loves. If !used, gives -1 rod speed and +1-4 rod power until next reset! 1 in 4 chance to break per use* |  | | |
+| ![image](https://fishbot.app/items/anchovyhotdog.png) | Anchovyhotdog |  | | *The primary food of choice at fishbots 2nd bday. If !used, all mulch made requires 3 less anchovy and gives 5 more xp. Lasts until next reset.* |  | | |
+| ![image](https://fishbot.app/items/vitaminc.png) | Vitaminc |  | | *I hear the fisherman take one of these in the morning if they have a big day ahead. If !used, +2% all xp gained until next reset.* |  | | |
+| ![image](https://fishbot.app/items/santascarrots.png) | Santascarrots |  |  | *Consumed on use, Until next reset, any mulching done will have a 1 in 50 chance to produce a megamulch! Remember those crazy parties at the lake for christmas 2023? Year of the Collection Log....* |  | | |
+| ![image](https://fishbot.app/items/santascookies.png) | Santascookies |  |  | *Consumed on use, Until next reset, any time you hit the unique drop table from thieving, you will get 2 rewards instead of one! Remember those crazy parties at the lake for christmas 2023? Year of the Collection Log....* |  | | |
+| ![image](https://fishbot.app/items/santahat.png) | Santahat |  |  | *When worn, gives +1 rod power and +1 rod speed.. but only if its currently December. Remember those crazy parties on fishbot for christmas 2023? Year of the Collection Log....* |  | | |
+| ![image](https://fishbot.app/items/bluesantahat.png) | Bluesantahat |  |  | *When worn, gives +2 rod speed.. but only if its currently December. Remember those crazy parties at the lake for christmas 2023? Year of the Collection Log....* |  | | |
+| ![image](https://fishbot.app/items/purplesantahat.png) | Purplesantahat |  |  | *When worn, gives +2 rod power.. but only if its currently December. Remember those crazy parties at the lake for christmas 2023? Year of the Collection Log....* |  | | |
+| ![image](https://fishbot.app/items/blacksantahat.png) | Blacksantahat |  |  | *When worn, gives +1 fishing level on xxl trips.. but only if its currently December. Remember those crazy parties at the lake for christmas 2023? Year of the Collection Log....* |  | | |
+| ![image](https://fishbot.app/items/elfhat.png) | Elfhat |  |  | *When worn, gives +3% better odds at hitting the unique drop table when thieving... but only if its currently December. Remember those crazy parties at the lake for christmas 2023? Year of the Collection Log....* |  | | |
+| ![image](https://fishbot.app/items/santasbeard.png) | Santasbeard |  |  | *When worn, gives 25k cash instantly for any xxl trips done... but only if its currently December. Remember those crazy parties at the lake for christmas 2023? Year of the Collection Log....* |  | | |
+| ![image](https://fishbot.app/items/anchovski.png) | Anchovski |  |  | *When worn, any type of fishing will slowly add free anchovy to your eski. You can check its charges by doing !use anchovski. If you claim the anchovy stash in December, you will get double! Seems like the perfect gift...* |  | | |
+| ![image](https://fishbot.app/items/icyeski.png) | Icyeski |  |  | *When worn, you will gain +1% fishing xp. If its currently December, you will also get +2% fishing xp and +1% fish caught. Seems like the perfect gift...* |  | | |
+| ![image](https://fishbot.app/items/slotski.png) | Slotski |  |  | *When worn, will grant a 1 in 200 chance of an instant slot2 FEECH every time you do an xxl fish. If its currently December, it will be 1 in 100 chance. Seems like the perfect gift...* |  | | |
+| ![image](https://fishbot.app/items/gemski.png) | Gemski |  |  | *When worn, and when doing an xxl fishing trip, there wll be a 1 in 60 chance to instantly receive a free gem! If its currently December, it will have 2x chance to activate! Seems like the perfect gift...* |  | | |
 | ![image](https://fishbot.app/items/candycorn.png) | Candycorn |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/candyprawn.png) | Candyprawn |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/pumpkinpie.png) | Pumpkinpie |  |  | ** | |  | |
