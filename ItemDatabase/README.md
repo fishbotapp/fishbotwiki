@@ -204,29 +204,29 @@ Items are in order of collection log
 | ![image](https://fishbot.app/items/lobsterclawpack.png) | lobsterclawpack |  | !thieve craftbox | *open it to receive a bundle of lobsterclaw!* | |  
 | ![image](https://fishbot.app/items/leatherpack.png) | leatherpack |  | hitting the UDT at craftbox or underbarrel | *contains eelskin, eelhide and other crafty items if lucky* | |  
 | ![image](https://fishbot.app/items/guildpack.png) | guildpack |  | need guildvault, rare chance to receive when gaining guild currencies | *open it to receive a hearty collection of guild currencies!* | |  
-| ![image](https://fishbot.app/items/automulcher.png) | automulcher |  |  | ** | |  
-| ![image](https://fishbot.app/items/shrimperslamp.png) | shrimperslamp |  |  | ** | |  
-| ![image](https://fishbot.app/items/chovylamp.png) | chovylamp |  |  | ** | |  
-| ![image](https://fishbot.app/items/sleeperslamp.png) | sleeperslamp |  |  | ** | |  
-| ![image](https://fishbot.app/items/troutylamp.png) | troutylamp |  |  | ** | |  
-| ![image](https://fishbot.app/items/mulcherslamp.png) | mulcherslamp |  |  | ** | |  
-| ![image](https://fishbot.app/items/profishinglamp.png) | profishinglamp |  |  | ** | |  
+| ![image](https://fishbot.app/items/automulcher.png) | automulcher |  |  | * Allows you to automatically mulch the waters before you fish, meaning you dont have to type !mulch or !megamulch. !use automulcher to toggle modes* | |  
+| ![image](https://fishbot.app/items/shrimperslamp.png) | shrimperslamp |  |  | *Every fishing trip will give +15 shrimp, This lamp will also apply regular fishinglamp bonuses* | |  
+| ![image](https://fishbot.app/items/chovylamp.png) | chovylamp |  |  | *If your fishing trip gets you anchovy, you will now get +30% anchovy. This lamp will also apply regular fishinglamp bonuses* | |  
+| ![image](https://fishbot.app/items/sleeperslamp.png) | sleeperslamp |  |  | *All XXL fishing trips will now be 50 minutes longer. This lamp will also apply regular fishinglamp bonuse* | |  
+| ![image](https://fishbot.app/items/troutylamp.png) | troutylamp |  |  | *You will now also receive trout when mulched fishing. This lamp will also apply regular fishinglamp bonuses* | |  
+| ![image](https://fishbot.app/items/mulcherslamp.png) | mulcherslamp |  |  | *Mulched fishing will now give 20% more exp. This lamp will also apply regular fishinglamp bonuses* | |  
+| ![image](https://fishbot.app/items/profishinglamp.png) | profishinglamp |  |  | *You have a permanent +1 fishing level and +1% fishing exp. This lamp will also apply regular fishinglamp bonuses* | |  
 |  ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ???? |  |  | ** | | 
 | ![image](https://fishbot.app/items/bluefishbowl.png) | Bluefishbowl |  |  | Gives a 5% chance on any XXL fish to give 8x fishing exp. Consumed when activated. |
-| ![image](https://fishbot.app/items/greenfishbowl.png) | greenfishbowl |  |  | ** | |  
-| ![image](https://fishbot.app/items/powershards.png) | powershards |  |  | ** | |  
-| ![image](https://fishbot.app/items/speedshards.png) | speedshards |  |  | ** | |  
-| ![image](https://fishbot.app/items/sapphiresinker.png) | sapphiresinker |  |  | ** | |  
-| ![image](https://fishbot.app/items/rubysinker.png) | rubysinker |  |  | ** | |  
-| ![image](https://fishbot.app/items/onyxsinker.png) | onyxsinker |  |  | ** | |  
+| ![image](https://fishbot.app/items/greenfishbowl.png) | greenfishbowl |  |  | *Gives a 5% chance on any xxl fish to give 4x fish caught. Will be consumed when activated* | |  
+| ![image](https://fishbot.app/items/powershards.png) | powershards |  |  | *Grants +2 rod power for the fishing trip. 25% chance to activate and be consumed (if activated) on a !fish xxl. When you craft this item you will receive multiple* | |  
+| ![image](https://fishbot.app/items/speedshards.png) | speedshards |  |  | *Grants +2 rod speed for the fishing trip. 25% chance to activate and be consumed (if activated) on a !fish xxl. When you craft this item you will receive multiple* | |  
+| ![image](https://fishbot.app/items/sapphiresinker.png) | sapphiresinker |  |  | * 10% chance to activate when doing an xxl, you will either get +20% swordfish caught or +20% catfish caught for this fishing trip* | |  
+| ![image](https://fishbot.app/items/rubysinker.png) | rubysinker |  |  | *10% chance to activate when doing an xxl, you will either get +20% anchovy caught, +10% lobster caught or 50x anchovy instantly* | |  
+| ![image](https://fishbot.app/items/onyxsinker.png) | onyxsinker |  |  | * 10% chance to activate when doing an xxl, you will either get +30% shrimp caught, +10% babyeel caught or +10% eel caught for your fishing trip* | |  
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ???? |  |  | ** | |  
-| ![image](https://fishbot.app/items/chiselheatstone.png) | chiselheatstone |  |  | ** | |  
+| ![image](https://fishbot.app/items/chiselheatstone.png) | chiselheatstone |  |  | *Will activate and be consumed when you cut an uncut gem. The gem cut will be near instant and you will receive 1.5x crafting xp. When you craft this item you will receive multipl* | |  
 | ![image](https://fishbot.app/items/rubylocket.png) | rubylocket |  |  | ** | |  
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ???? |  |  | ** | |  
-| ![image](https://fishbot.app/items/maniceggeye.png) | maniceggeye |  |  | ** | |  
+| ![image](https://fishbot.app/items/maniceggeye.png) | maniceggeye |  |  | *Will activate and be consumed on your first thieve of the day. Will grant you an EXTRA 3x thieving xp for that thieve. When you craft this item you will receive multiple* | |  
 | ![image](https://fishbot.app/items/gamblersglasses.png) | gamblersglasses |  |  | *-50% gamble & slots cooldown, +1 roll in duels, 1.5x gamble & slots limit, +3 extra free spins on any slots2 feature, +1% chance of mysteryprize. If worn: +1% extra feech odds but 1 in 3000 chance to break per use* | |  
 |  ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ????? |  |  | ** | |  
-| ![image](https://fishbot.app/items/orbcore.png) | orbcore |  |  | ** | |  
+| ![image](https://fishbot.app/items/orbcore.png) | orbcore |  |  | *orbcore, DESCRIPTION: An unstable energy which can combine three orbs of the same type, into a more powerful one. Example !use: orbcore gamblersorb* | |  
 | ![image](https://fishbot.app/items/smallxpbag.png) | smallxpbag |  |  | ** | |  
 | ![image](https://fishbot.app/items/medxpbag.png) | medxpbag |  |  | *Gives 2400 xp to your skill of choice* | |  
 | ![image](https://fishbot.app/items/bigxpbag.png) | bigxpbag |  |  | ** | |  
@@ -354,45 +354,44 @@ Items are in order of collection log
 | ![image](https://fishbot.app/items/glowpeach.png) | Glowpeach |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/glode.png) | Glode |  |  | ** | |  | |
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/fishingguildbadge.png) | Fishingguildbadge |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/thievingguildbadge.png) | Thievingguildbadge |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/craftingguildbadge.png) | Craftingguildbadge |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/shell.png) | Shell |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/shilling.png) | Shilling |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/shale.png) | Shale |  |  | The primary currency used within the Crafting Guild. |
-| ![image](https://fishbot.app/items/guildvault.png) | Guildvault |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/shellfinder.png) | Shellfinder |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/baitconverter.png) | Baitconverter |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/anglersmask.png) | Anglersmask |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/eelersmask.png) | Eelersmask |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/midnightmask.png) | Midnightmask |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/berlyvest.png) | Berlyvest |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/burlyvest.png) | Burlyvest |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/fishinggum.png) | Fishinggum |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/lampiata.png) | Lampiata |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/deepseaeski.png) | Deepseaeski |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/anglereski.png) | Anglereski |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/fishguildmonocle.png) | Fishguildmonocle |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/shillingfinder.png) | Shillingfinder |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/slots2auto.png) | Slots2auto |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/roguemask.png) | Roguemask |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/assassinmask.png) | Assassinmask |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/assassincloak.png) | Assassincloak |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/looterscloak.png) | Looterscloak |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/silverring.png) | Silverring |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/ghostlyring.png) | Ghostlyring |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/permaturncoat.png) | Permaturncoat |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/thieveguildmonocle.png) | Thieveguildmonocle |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/shalefinder.png) | Shalefinder |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/bovascope.png) | Bovascope |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/packbuster.png) | Packbuster |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/makemanual.png) | Makemanual |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/makersmask.png) | Makersmask |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/handworkhat.png) | Handworkhat |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/handworkvest.png) | Handworkvest |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/canvas.png) | Canvas |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/mulchmakingeski.png) | Mulchmakingeski |  |  | ** | |  | |
-| ![image](https://fishbot.app/items/potionkit.png) | Potionkit |  |  | ** | |  | |
+| ![image](https://fishbot.app/items/fishingguildbadge.png) | Fishingguildbadge | 69 | | *A badge that shows you are indeed a ferocious fisher, and allows for entry into the Fishing Guild.* |  | | |
+| ![image](https://fishbot.app/items/thievingguildbadge.png) | Thievingguildbadge | 69 | | *A badge that shows you are indeed a nefarious thiever, and allows for entry into the Thieving Guild.* |  | | |
+| ![image](https://fishbot.app/items/craftingguildbadge.png) | Craftingguildbadge | 69 | | *A badge that shows you are indeed a supreme crafter, and allows for entry into the Crafting Guild.* |  | | |
+| ![image](https://fishbot.app/items/shell.png) | Shell | 1000 | | *Currency of the Fishing Guild* |  | | |
+| ![image](https://fishbot.app/items/shilling.png) | Shilling | 1000 | | *Currency of the Thieving Guild* |  | | |
+| ![image](https://fishbot.app/items/guildvault.png) | Guildvault | 1000k | | *With this in your inventory, all guild shops will hold new high tier items! Also, will give a small chance to find guildpack when earning guild currencies.* |  | | |
+| ![image](https://fishbot.app/items/shellfinder.png) | Shellfinder | 1000k | | *Increases your chance to find shells by 1.5x* |  | | |
+| ![image](https://fishbot.app/items/baitconverter.png) | Baitconverter | 3 | | *Allows you to convert your spare bait items (like anchovyanchor, lobsterlure etc) into chunks of fish. !use baitconverter <itemname>* |  | | |
+| ![image](https://fishbot.app/items/anglersmask.png) | Anglersmask | 5m | | *When worn, grants +25% more anglers caught.* |  | | |
+| ![image](https://fishbot.app/items/eelersmask.png) | Eelersmask | 5m | | *When worn, grants +7% more babyeels and eels caught.* |  | | |
+| ![image](https://fishbot.app/items/midnightmask.png) | Midnightmask | 5m | | *When worn, grants +6 power and +6 speed to any rod you use.. but only if the fishing trip started on payday 90 or higher.* |  | | |
+| ![image](https://fishbot.app/items/berlyvest.png) | Berlyvest | 6m | | *When worn, grants +12% to all fish caught* |  | | |
+| ![image](https://fishbot.app/items/burlyvest.png) | Burlyvest | 6m | | *When worn, grants +15% xp from all fish caught* |  | | |
+| ![image](https://fishbot.app/items/fishinggum.png) | Fishinggum | 800k | | *Consumed on use, after eating this very minty gum you get +3 rod power and +3 rod speed until next reset! Also, gives 5% per fishing trip to double fish caught! 1 in 3 chance to break per use* |  | | |
+| ![image](https://fishbot.app/items/lampiata.png) | Lampiata | 10m | | *If this is in your inventory, you can receive bonus from ALL variants of fishinglamps at once* |  | | |
+| ![image](https://fishbot.app/items/deepseaeski.png) | Deepseaeski | 900k | | *When worn, gives +75% swordfish caught and +85% pike caught, but also gives -1 rod power* |  | | |
+| ![image](https://fishbot.app/items/anglereski.png) | Anglereski | 950k | | *When worn, gives +180% angler caught, but also gives -20% all fish caught* |  | | |
+| ![image](https://fishbot.app/items/fishguildmonocle.png) | Fishguildmonocle | 3 | | *When worn, gives +1 fishing level and +20% fishing xp. Also, gives a 2% chance to 5x exp gained from a fishing trip.* |  | | |
+| ![image](https://fishbot.app/items/shillingfinder.png) | Shillingfinder | 1000k | | *Increases your chance to find shillings by 1.5x* |  | | |
+| ![image](https://fishbot.app/items/slots2auto.png) | Slots2auto | 2 | | *Allows to autoplay slots2. It gains 1000 charges from 1x crusheddubloon, and can be used with !slots2auto charge, !slots2auto start <betsize> or !slots2auto stop to stop. It plays silently, meaning it will only show your wins.* |  | | |
+| ![image](https://fishbot.app/items/roguemask.png) | Roguemask | 5m | | *When worn, grants +1 thieving level* |  | | |
+| ![image](https://fishbot.app/items/assassinmask.png) | Assassinmask | 5m | | *When worn, grants 4% chance to reset thieving cooldown after a thieve* |  | | |
+| ![image](https://fishbot.app/items/assassincloak.png) | Assassincloak | 6 | | *When worn, grants 6% chance to reset thieving cooldown after a thieve* |  | | |
+| ![image](https://fishbot.app/items/looterscloak.png) | Looterscloak | 6 | | *When worn, grants 8% chance to reset thieving cooldown after claiming a supply chest (100% chance after claiming a purple or pirate)* |  | | |
+| ![image](https://fishbot.app/items/silverring.png) | Silverring | 9m | | *If this is in your inventory, every ghostly supply chest claim will grant +125 thieve xp and turncoated chests will grant +80 thieve xp. Also, any fish started when a ghostly is present on the lake will grant a silent 25xp all stats.* |  | | |
+| ![image](https://fishbot.app/items/ghostlyring.png) | Ghostlyring | 12m | | *When !used, will convert any active supply chests to a fresh ghostly... this ability has 12 hour cooldown. Also increases ghostly chest spawn rates by 5%* |  | | |
+| ![image](https://fishbot.app/items/permaturncoat.png) | Permaturncoat | 3 | | *With this in your inv, you will NOT consume a turncoat when thieving an enemies supply chest. 1 in 4000 chance to break. If worn, 1 in 12000 chance to break. When it breaks, you will be gifted 10-20x turncoat.* |  | | |
+| ![image](https://fishbot.app/items/thieveguildmonocle.png) | Thieveguildmonocle | 3 | | *When worn, gives +1 thieving level, +15% thieving xp and +5% extra chance to hit the thieving unique drop table.* |  | | |
+| ![image](https://fishbot.app/items/shalefinder.png) | Shalefinder | 1000k | | *Increases your chance to find shales by 1.5x* |  | | |
+| ![image](https://fishbot.app/items/bovascope.png) | Bovascope | 3 | | *When you harvest a bova, theres a 10% chance you spawn another bova in another corner. Also, +20% craft xp from bova !make recipes.* |  | | |
+| ![image](https://fishbot.app/items/packbuster.png) | Packbuster | 4m | | *Makes all packs give slightly more rewards when ripped, Also gives all packs a tiny chance to grant you an extra, better item. Like a dubloon from rustycoinpack* |  | | |
+| ![image](https://fishbot.app/items/makemanual.png) | Makemanual | 5m | | *15% less crafting time on all !make commands. Also, If you dont have the required ingreds for a make, it will tell you what you are missing.* |  | | |
+| ![image](https://fishbot.app/items/makersmask.png) | Makersmask | 6m | | *When worn, 6% more xp gained from !make commands. Also, for any ingrediant of 5 or more required on a make recipe, will be reduced by 1. Reduced by 2 if 10 or more.* |  | | |
+| ![image](https://fishbot.app/items/handworkhat.png) | Handworkhat | 6m | | *When worn, +6% craft xp gained.* |  | | |
+| ![image](https://fishbot.app/items/handworkvest.png) | Handworkvest | 6m | | *When worn, +11% craft xp gained.* |  | | |
+| ![image](https://fishbot.app/items/canvas.png) | Canvas | 10m | | *If this is in your inventory, you will have a +2 crafting level boost.* |  | | |
+| ![image](https://fishbot.app/items/mulchmakingeski.png) | Mulchmakingeski | 3m | | *If worn, gives +10% mulching speed and also converts 25% of anchovy caught to mulch at 25 anchovy per mulch, and converts 25% of pike caught to mulch at 8 pike per mulch* |  | | |
+| ![image](https://fishbot.app/items/potionkit.png) | Potionkit | 6m | | *With this in your inv, you craft 2 potions at once instead of 1.. but only when using the !use method. 1 in 12000 chance to break per use.* |  | | |
 | ![image](https://fishbot.app/items/craftguildmonocle.png) | Craftguildmonocle |  |  | (Eyes) When worn, gives +1 crafting level and +8% crafting xp. Can be `!used` to instantly sacrifice 10x mulch + 10x fisheggs + 10x fisheyes for 200-500 craft xp |
 | ![image](https://fishbot.app/items/gamblersrelic.png) | Gamblersrelic |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/slappersrelic.png) | Slappersrelic |  |  | ** | |  | |
