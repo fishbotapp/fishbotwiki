@@ -499,7 +499,7 @@ Items are in order of collection log
 | ![unknown](https://github.com/fishbotapp/fishbotwiki/assets/163616414/c5b6cc1f-36eb-45de-a5de-fe76e2f0c738) | ??? |  |  | ** | |  | |
 | ![image](https://fishbot.app/items/wizardeski.png) | Wizardeski |  |  | *If worn, grants +30 craft xp and 1x shale if you ever get an item from a wizards hat proc, also gives +10% chance to wizard hat procs* | |  | |
 | ![image](https://fishbot.app/items/sinnerspact.png) | Sinnerspact |  |  | *When !used, will exchange 4000 fishing and 4000 crafting xp for 9000 thieving xp. 1 in 3 chance to break per use* | |  | |
-| ![image](https://fishbot.app/items/sinnerschance.png) | Sinnerschance |  |  | *When !used, will reset your thieving cooldown. 1 in 18 chance to break per use. * | |  | |
+| ![image](https://fishbot.app/items/sinnerschance.png) | Sinnerschance |  |  | *When !used, will reset your thieving cooldown. 1 in 18 chance to break per use.* | |  | |
 | ![image](https://fishbot.app/items/mulchesta.png) | Mulchesta |  |  | *If this is in your inv, making mulch will give +12 xp and making megamulch will give +60xp. You can also !use this to SACRAFICE it for 100x mulch.  * | |  | |
 | ![image](https://fishbot.app/items/goblinmysterysack.png) | Goblinmysterysack |  |  | *A bag of goodies from the goblin kingdom... i wonder if theres any rare valuables in there?* | |  | |
 | ![image](https://fishbot.app/items/goblinsoup.png) | Goblinsoup |  |  | *Smells... fungy. When drank, all xxl fishing trips will give a 1 in 3 chance for a free gem and 1 in 12 chance at a free goblinmysterysack. Lasts until next reset. Also, it will make goblins 12x likely to spawn on payday 20.* | |  | |
