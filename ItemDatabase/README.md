@@ -640,3 +640,6 @@ Items are in order of collection log
 | ![image](https://fishbot.app/items/neptunesmallet.png) | Neptunesmallet | | !make (Level 70 Crafting): 1x neptunesgrimoire, 1x glowingmulchmallet | *High tier crafting tool* | | | |
 | ![image](https://fishbot.app/items/flameofgod.png) | FlameofGod | | | *Allows campfire crafting without tinderbox (1 in 5 chance to break per use), can also be !used when a boss is present on the lake to instantly -15% of his total max hp, but cant do a killing blow (1 in 5 chance to break per use). If this is in your inventory campfires you deploy last 1 hour longer and all exp gained +1%* | | | |
 | ![image](https://fishbot.app/items/thejuice.png) | TheJuice | | | *When drank, will peak your testosterone and give +6 PWR against bosses until next reset!* | | | |
+| ![image](https://fishbot.app/items/burntlobster.png) | BurntLobster | | | *Someone must have forgot about the stove in the lead up to xmas 2025...* | | | |
+| ![image](https://fishbot.app/items/ghostlyrobe.png) | BurntLobster | | | * If worn, grants a 1 in 10 chance when claiming a ghostly to get: 5000 fish xp, +2 rod power and +2 rod speed until next reset* | | | |
+| ![image](https://fishbot.app/items/ghostlyrobe.png) | BurntLobster | | | *If !used, will spawn a weatherorb in every corner of the lake. 1 in 6 chance to break per use, PRICE: $IRM 900k* | | | |
