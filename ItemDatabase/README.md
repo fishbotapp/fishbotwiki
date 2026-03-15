@@ -17,7 +17,7 @@ Items are in order of collection log
 | ![image](https://fishbot.app/items/angler.png) | Angler | 14000 - 28000 | Fishing (Level 50) | *A rare deep sea fish* | | | |
 | ![image](https://fishbot.app/items/eel.png) | Eel | 16000 - 38000 | Fishing (Level 58) with an eel rod | *A slippery eel* | | | |
 | ![image](https://fishbot.app/items/shark.png) | Shark | 90000 - 130000 | Fishing (Level 30) with a Harpoon | *A large predatory fish* | | | |
-| ![image](https://fishbot.app/items/starterrod.png) | Starterrod | | Comes with a new account | *All noobs gotta start from somewhere!* | On the Rod slot | Untradeable | |
+| ![image](https://fishbot.app/items/starterrod.png) | Starterrod | | Comes with a new account | *All noobs gotta start from somewhere!* | On the Rod slot |  | |
 | ![image](https://fishbot.app/items/oakrod.png) | Oakrod | 5000 | From shop, thieving and corner chests | *Fishes well! An upgraded rod, much better than the Starter Rod* | On the Rod slot |  | |
 | ![image](https://fishbot.app/items/willowrod.png) | Willowrod | 15000 | From shop, thieving and corner chests | *Fishes great! An upgraded rod, much better than the Oak Rod* | On the Rod slot |  | |
 | ![image](https://fishbot.app/items/maplerod.png) | Maplerod |50k | From shop, thieving and corner chests | *Fishes superb! An upgraded rod, much better than your mates rod for sure* | On the Rod slot |  | |
