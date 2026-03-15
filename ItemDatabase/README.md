@@ -656,3 +656,4 @@ Items are in order of collection log
 | ![image](https://fishbot.app/items/whitewizardhat.png) | Whitewizardhat | | | *If worn, gives a tiny chance of finding a crushedgem, crushedvial or glowblip from fishing, thieving and doing !make commands* | Yes (Head) | | |
 | ![image](https://fishbot.app/items/wikiegg.png) | Wikiegg | | | *Rewarded for contributing to the fishbot wiki. Can be !used to consume and crack open... with hopes that something would be inside... at a 1 in 220 chance.* | | | |
 | ![image](https://fishbot.app/items/wizardbeard.png) | Wizardbeard | | | *If worn, receiving any glowblip, glowenergy or orbcore will get you +40xp in all stats.* | Yes (Face) | | |
+| ![image](https://fishbot.app/items/chaosbark.png) | ChaosBark | | | *A glowing piece of bark, powerfully imbued with dark power* | | | |
